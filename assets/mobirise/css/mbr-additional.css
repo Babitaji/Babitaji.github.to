@@ -1348,6 +1348,7 @@ body {
 }
 .cid-qwTHEprRLl .mbr-text P {
   color: #232323;
+  text-align: left;
 }
 .cid-qwTz8ISyMb {
   padding-top: 60px;
@@ -1389,5 +1390,17 @@ body {
   color: #232323;
 }
 .cid-qwTDOeqf2t .mbr-text {
+  color: #232323;
+}
+.cid-qwXJfKQ9m9 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qwXJfKQ9m9 .mbr-text,
+.cid-qwXJfKQ9m9 blockquote {
+  color: #767676;
+}
+.cid-qwXJfKQ9m9 .mbr-text {
   color: #232323;
 }
