@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.2.2",
-    "uniqCompNum": 14,
+    "uniqCompNum": 22,
     "versionPublish": "4.2.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -60,7 +60,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ 3 October 2017 ]</p><p><a href=\"page5.html\" class=\"text-black\">1 - Madhavi In Kitchen With Bhide</a></p><p><a href=\"page6.html\" class=\"text-black\">2 - Tapu And Madhavi &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a><span style=\"font-size: 1rem;\"><a href=\"page6.html\" class=\"text-black\">( On Demand ) ( Popular)</a></span></p><p><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ 2 October 2017 ]</p><p><a href=\"page2.html\" class=\"text-black\">1 - Tapusena Ne Babita Ko &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pataya&nbsp;(Popular)</a></p><p><a href=\"page3.html\" class=\"text-black\">2 - Babita ji &amp; Jethalal</a></p><p><a href=\"page4.html\" class=\"text-black\">3 - Babita &amp; Anjali &amp; Madhavi &amp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Daya &nbsp;(Popular)</a></p><p><br></p><p><br></p><p>New Stories Coming....</p><p><br></p><p>&nbsp; &nbsp;&nbsp;</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ 4 October 2017 ]</p><p>1 - <a href=\"page7.html\" class=\"text-black\">कृपया हमारी थोड़ी हेल्प कर दिजिये</a></p><p>2 - <a href=\"page8.html\" class=\"text-black\">Anjali &amp; Jethalal ki Night &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( Popular</a>&nbsp;)</p><p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ 3 October 2017 ]</p><p><a href=\"page5.html\" class=\"text-black\">1 - Madhavi In Kitchen With Bhide</a></p><p><a href=\"page6.html\" class=\"text-black\">2 - Tapu And Madhavi </a><span style=\"font-size: 1rem;\"><a href=\"page6.html\" class=\"text-black\">( On Demand ) ( Popular)</a></span></p><p><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ 2 October 2017 ]</p><p><a href=\"page2.html\" class=\"text-black\">1 - Tapusena Ne Babita Ko &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pataya&nbsp;(Popular)</a></p><p><a href=\"page3.html\" class=\"text-black\">2 - Babita ji &amp; Jethalal</a></p><p><a href=\"page4.html\" class=\"text-black\">3 - Babita &amp; Anjali &amp; Madhavi &amp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Daya &nbsp;(Popular)</a></p><p><br></p><p><br></p><p>New Stories Coming....</p><p><br></p><p>&nbsp; &nbsp;&nbsp;</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qwTHEprRLl",
           "_anchor": "content1-a",
           "_protectedParams": [],
@@ -74,7 +74,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Tapusena &amp; boobita",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -105,7 +105,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Babita ji &amp; jethalal soda shop",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -138,7 +138,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Babita - daya - anjali - rita",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -171,7 +171,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Madhavi In Kitchen",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -189,11 +189,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><br></p><p>MADHVI AUR BHIDE KITCHEN MEIN THE....AUR BHIDE NE MADHVI KI GAND KO DABA RKHA THA...AB AAGE...</p><p>\n</p><div>\n</div><div>\n</div><div>MADHVI :- AISA MAT KIJEYE....KOI BHAR SE ANDAR AA JAYEGA TOH GADBAD HO JAYEGI...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>BHIDE :- MADHVI KO ANDAR NHI AYEGA...SAB TEST KR RHE HAIN...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>BASS ITNA BOLTE BOLTE VO..PICHE SE MADHVI KI NANGI PITH PAR APNE HONTH RAKH DETA HAI....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>NANGI PITH PAR BHIDE KE GILLE HONTH PATE HEE...MACHAL UTHI ....VO SIKIYAN LE RHI THI...AHHHH.....JIII....OHH....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>MADHVI :- DEKHIYE FATFAT KIJEYE....ANDAR KOI AA JAYEGA...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>BHIDE :- HAN THEK HAI....</div><div><br></div><div>\n</div><div>\n</div><div>BHIDE SE BHI NHI RHA JAA RHA THA...KYUN KI VO BHI BAHT JADA GARAM THA..USKA LUND USKE JEANS MEIN SE BHAR ANE KO TADP RHA THA....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>USNE FATFAT MADHVI KI SRRI KO UPAR KIYA...FIR PETICOT KO...AUR FIR PENTY KO NICHE KHISKA DIYA ... AUR APNI JEANS BHI NICHE KAR DIII.....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>USKA LUND HAWA MEIN JHUL RHA THA.....AUR EK DUM AKDA HUA THA....MADHVI KI CHOOT BHI GILLI THI...AUR PANI CHOD RHI THI....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>TABHI BHIDE NE BINA WAQT GAWAYE...LUND KO CHOOT PE SET KIYA ...AUR EK JORDAR DHKKA MARA..JISSE PURA KA PURA LUND CHOOT KE ANDAR SAMA GAYA......MADHVI KI JOR SE AAHHHHHHHHHH NIKLI....LEKIN FIR USNE APNE AAP KO RUKA...KYUN KI BAHR KOI BHI SUN SKTA THA....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>MADHVI :- KYA KRTE HAIN AAP...EK HE BAR MEIN...JAN NIKAL DI..</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>BHIDE :- SORRY MADHVI..VO MUJHSE CONTROL NHI KR PAA RHA THA..</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>MADHVI :- MADHOSHI BHARI AWAJ MEIN...TOH RUK KYUN GYEEE...KREIYE NA JALDI...AAGO BAIII....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>AUR ITNA SUNTE HE...BHIDE NE LUND KO BAHR NIKALA AUR FIR SE EK JORDAR DHAKKA MARA...AUR LUND CHOOT KI GHERAI MEIN SMATA HUA ANDAR CHALA GAYA......AB VO TEZ TEZ DHAKKE LAGA RHA THA...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>MADHVI....AAHHHHHHHH OHHHHHHHHHH....MAAAAAAAAAA...UIIIII....\n</div><div>AURRRR TEZZZZZZZZZZZZZ....SONU KEE PAAPPAPAPA...BAHTTTTTT MAZAAAA AA RHA HAI.....\n</div><div>\n</div><div>\n</div><div>BHIDE NE AB APNE HATH MADHVI KE AAGE LAKAR ...USKO CHUCHON PE RKAH KE MASALNE LAGA...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>MADHVI...ABB AUR SISKIYAN BHAR RHI THI...OHH....HANNNN AISE HEEEE....BASSS....MEIN JAANNNNNEEE VALIII HUNNNN......</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>UDHAR BHIDE KI RAFTAR TEZZZ HO CHUKI THIII...VO JABARDAST JHTKE LGA RHA THA.....\n</div><div>\n</div><div>\n</div><div>AAJ INKE GHAR KA KITCHEN...EK SEX KITCHEN BAN GAYA THA.....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>BHIDE JABARDAST DHKKA LAGA RHA THA..LUND MADHVI KI GILLI CHOOT KI VAJH SE PACH PACH KI AWAZEIN KR RHA THA....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>BHIDE NE MADHVI KE CHOCHUN KO MASLTE HUE....NIPPLES KO KHCHNE LAGA...\n</div><div>\n</div><div>\n</div><div>MADHVI :-- SE AB SHA NHI JAA RHA THA...VO DHERE SE CHILLATI HUII...MEINNN...TOHHHHHH...GYIIIIIIII....</div><div><br></div><div>\n</div><div>AUR JHAD JATI HAI.....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>BHIDE BHI MADHVI KE GARAM PANI KO SEHAN NHI KAR PATA ...AUR PNA SARA RAS CHOOT KE ANDAR HE DAAL DETA HAI....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>BHIDE MADHVI KE PICHE SE USKE UPAR GIR JATA HAI AUR HAFNE LGTA HAI...AUR MADHVI BHI SLIP KO PAKDE HANFNE LAGTI HAI...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>UDHAR BAHR TAPPU KO EK QUESTION SMJH NHI AA RHA THA...VO SOCHNE LAGA..KI BHIDE UNCLE KO PANI PINE MEIN ITNA TIME KAISE LAG RHA HAI...AUR VO SOCHTA HAI CHLO KITCHEM MEIN HE JAAKE PUCH LETA HUN...AUR VO KITCHEN KI TARAF JANNE LAGTA HAII..</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>IDHAR MADHVI BHIDE..ISS BAAT SE ANJAN ... AISE HE EK DUSRE KE UPAR PADE THE...</div><div><br></div><div>\n</div><div>\n</div><div>TAPPU KITCHEN KI TARAF BADTA HAI.....AUR KUCH HE MINUTE MEIN VO KITCHEN KE ANDAR PAHUCH JATA HAI....AUR DEKHTE HE BOLTA HAI.....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>TAPPU :- BHIDE UNCLE .... YE KYA KAR RHE HO??</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>BHIDE :- KYA KAR RAHA HUN KA KYA MATLB HAI TAPPU...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>TAPPU :- BHIDE UNCLE..HUME VAHN BAHR TEST DEKAR...AAP KHUD YAHN MAZE KAR RHE HO...\n</div><div><br></div><div>\n</div><div>\n</div><div>BHIDE :- TOH TUMHE MEIN KYA MAZE KRTE HUYE DIKYAI DE RHA HUN...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>TAPPU :- AUR KYA...AAPKA TOH YE ROZ KA KAM HAI...MADHVI AUNTY KE SATH ..ACHAR AUR PAPAD BANANE KA.....AUR HASNE LGTA HAI...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>BHIDE :- TAPPU...TUJHE TOH MEIN ABHI BATATA HUN...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>MADHVI :- AISA KAA HAI...JANNE DO NAA..BACHA HAI...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>BHIDE :- ACHA YE BATA TU YAHN KYUN AYA HAI?</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>TAPPU :- AREE HAN...BHIDE UNCLE VO MUJHE EK QUESTION SMJH NHI AA RHA..TOH ISLIYE MEIN YAHN AA GAYA...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>BHIDE :- ACHA TUM CHALO..MEIN ATAA HUN...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>FIR TAPPU VAHN SE BAHR CHALA JATA HAI...</div><div><br></div><div>\n</div><div>\n</div><div>MADHVI :- HASSHHH.....BACH GYE....</div><div><br></div><div>\n</div><div>AUR BHIDE KI TARAF DEKHTE HUYE BOLI...</div><div><br></div><div>\n</div><div>\n</div><div>DEKHA MENE KHA THA NA..KOI ANDAR AA GAYA TOH...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>BHIDE :- HAN TOH KYA HUA....USNE KUCH DEKHA TOH NHI NA...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>MADHVI :- ACHA ... AGR ATTE VAQT USSE VO BAHR PADA HAMARA PLASTIC VALA VASS NA GIRA HOTA...TOH HUME PATA HE NHI CHALTA KI VO ANDAR AA RHA HAI.....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>BHIDE :- ACHA CHODO....LEKIN MAZA TOH AAYA NAA.....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>MADHVI SHARMATE HUE....AAP BAHR JAYEE..MEIN CHAI LEKAR ATI HUN....AUR FIR BHIDE BAHR CHALA JATA HAI...</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>HUA YE THA...JAB TAPPU KITCHEN KI TARAF JAA RHA THA TOH..BAHR EK VASS RKHA THA...JISPE TAPPU KA HATH LAG GAYA AUR VO GIR GAYA....ANDAR KITCHEN MEIN JAISE HE DONO KE KANO MEIN VO AWAJ PADI....DONO GHABRA GAYE....AUR FIR BHIDE JALDI SE APNI JEANS UPAR KAR LI...AUR MADHVI NE BHI APNI PENTY UPAR KAR KE...APNA PETICOT AUR SARREE NICHE KAR LE....AUR DONO AISE BAITH KE KAM KARNE LAGGE JAISE KUCH HUA HE NAA HOO.....</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>KISMAT ACHI THI AAAJ....JO TAPPU NE DEKHA NHI...MADHVI AISA BOLTE BOLTE ... BHIDE KO CHAI DENE CHALI JATI HAI...</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qwXJfKQ9m9",
+          "_anchor": "content1-c",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-c"
+          "_params": {}
         }
       ]
     },
@@ -201,7 +201,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Tapu &amp; Madhvi",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -222,11 +222,197 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Ab yeh episode shuru hota hai tapu se jo jetha lal se daant kha raha hota hai\n</p><p>Kyuki jethalal ko bhide ne kal bohot data tha kyuki usne bhidee ke ghar ka kaanch toda aur tution me jo test tha usme bhi kharab number thejetha bolta hai\n</p><p>Jetha : ye kya hai beta sharatein badh rahi hai teri aur padhai bhi tu nahi karta hai\n</p><p>Tapu : papa agli baar se nahi hoga agli bar mein paas h jaungga\n</p><p>Tapu : paapa plz\n</p><p>Bapuji : jetha wo keh raha hai na ki paas ho jayega muje ispe bharosa hai\n</p><p>Jetha : kya bharosa hai bapuji wo bhide roz aake mereko sunata hai ki meri sonu class mein first aati har test me 100% marks aur yeh 40% bhinahi laa sakta\n</p><p>Tapu : papa main le aunga 100%\n</p><p>Bapuji : jetha tu chahata hai ki wo sonu ke jaise marks laye to use sonuke sath padhne bhej waise bhi wo uski friend hai to padhai likhai sab samajh main ayega\n</p><p>Jetha : theek h bapuji</p><p><br></p><p>AB BHIDE KE HOUSE PAR</p><p></p><div><br></div><div>Bhide ke ghar pe sirf madhavi hoti hai\n</div><div><br></div><div><br></div><div>aur madhavi ek blue film dekh rahi hoti hai aur apne boobs ko sehla rahi hotihai aur yaad karti ki kese bhide uski chudai karta tha pehle kitna stamina tha usme ab to sex hota bhi hai to 10min main jhad jaate hain\n</div><div><br></div><div>waise madhavi ko kya pata ki kuch hi din pehle bhide ne apni student ki kya chudai ki thi kher wo sochti ki jo nasseb me hain usi se kaam chalana padega tabhi bell bajti hai darwaze pe tapu hota hai madhavi darwaza kholti hain\n</div><div><br></div><div>Madhavi : are Tapu Beta kese ho\n</div><div><br></div><div>Tapu : badiya sonu hain?\n</div><div><br></div><div>Madhavi muskurate huye bolti hai\n</div><div><br></div><div>Madhavi : kyun sonu se kya kaam hai\n</div><div><br></div><div>Tapu : aunty wo uske saath padhna tha\n</div><div><br></div><div>Madhavi : acha andar aaao, paani piyoge\n</div><div><br></div><div>Tapu : haa madhavi kitchen me jaati aur sochti ki ye sahi mauka hai tapu se chudwati hoon waise bhi tapu itna athletic hai usme stamina hoga bahut aur madhavi ne ek baar sonu ko need mein tapu aaaaaaah fuck me oh yaeaaaaaaaah bolte huye sun liya tha\n</div><div><br></div><div>to wo sochti ki yeh padhai ka to bahana yeh to sonu ki chodne aya hai fir wo pani leke tapu ke paas jaatihai\n</div><div><br></div><div>Madhavi : ye lo pani\n</div><div><br></div><div>Tapu : aunty sonu ko bulaye na padhai karni hai</div><div><br></div><div>Madhavi : sab jaanti hu tum uske saath kya padhai karte ho hain?\n</div><div><br></div><div>aur madhavi uske balls ko dabane lagti hai aur jise dekh tapu khada ho jata uske pant ke bahar uske land ka head aa jaata aur uske land ka head dikne lagta hai\n</div><div><br></div><div>Madhavi : beta sonu ke saath jo padhai karni wo mere saath bhi ho sakti main to bhide sir ki wife hoon mujhe bhi to kuch aata hi hoga\n</div><div><br></div><div>Tapu ki fat ke hath me aa gayi use kafi unusual sa mehsoos ho raha thafir usne socha ki sala bhide to mere ko roz daat ta hai aj main apna badla pura karunga uski biwi ko chodke ye sahi mauka hai pehle sonu fir uski maa wah kya baat hai\n</div><div><br></div><div>Tapu : haan aunty ye to hai madhavi uske shirt ka collar kheech ke bolti\n Hai</div><div><br></div><div>Madhavi : kuttiya ki tarah chod mujhe\n</div><div><br></div><div>tapu : theek hai aur tapu ne uske baal kheech ke uski cheek nikal wayi\n</div><div><br></div><div>madhavi : aaahhhhhhhfir madhavi ne bhi uska muh zabardasti apni chut mein ghused diya au aurr tapu lag gaya uski choot chatne\nme</div><div><br></div><div>madhavi ko to bohot maza aaraha tha aur tappu ne fir uski choot me apna lund dal diya aur doggystyle meinchodne laga\n</div><div><br></div><div>madhavi : aahhhhhh tapppppppppuuuuuuuuuuuuuuuuuuuu uiiiiiiiii marrr gayi\n</div><div><br></div><div>tapu uske boobs ki chuchi kheech ke bolta\n</div><div><br></div><div>tapu : kya maza nahi aa raha\n</div><div><br></div><div>madhavi : haan aa raha hai tapu ne fir uski gand pe thappad marne laga aur jhatke tez karne laga aur thappad bhi zor se marne laga fir use missionary position me chodne laga aur uske gal pe de dana dan thappad marta fir puchta\n hai&nbsp;</div><div><br></div><div>bol bc kesa lag raha hai\n</div><div><br></div><div>madhavi : acha lag raha hai tapu ne fir usko 2-3 thappad laga ke bola\n</div><div><span style=\"font-size: 1rem;\"><br></span></div><div><span style=\"font-size: 1rem;\">Chal ab me teri gand marunga</span><br></div><div><br></div><div>madhavi : nhi me apni gand nahi marne dungi ( apko to pata hi hai madhavi ki gand kitni moti or sexy hai )</div><div><br></div><div>tapu : chal chup hoja aaj to teri gand marke rahunga</div><div><br></div><div>madhavi mana karti hai lekin tapu ek hi jatke me madhvi ko bed pe ulta fekta he or ek hi jatke me madhavi ki gand pe apna lund ghusa deta hai .</div><div><br></div><div>tapu sochta hua aah kya sexy gand hai madhavi ki aj to ise jmke choduga or fir tapu dhire dhire zatke marne laga</div><div><br></div><div>itna bada land madhvi ne apni gand me aaj tak nahi liya tha jisse madhvi ko dard hone laga lekin badme tapu ne zorke 2 - 3 zatke mare to fir madhvi ko maza aane laga</div><div><br></div><div>aur fir to tapu madhavi ko zor zor ke zatke marne laga</div><div><br></div><div>Madhvi : ahhhh...hhhhhh...fuck me tapu..a...h....h...h</div><div><br></div><div>tapu : kya sunai nahi diya\n</div><div><br></div><div>Madhavi : aaaaaaaaaaaaaaaaaaaahhhmaazzaaaaaaaaa aa raha aaaaaah haaaaaaaaiin</div><div><br></div><div>Tapu usko hardcore style mein chod raha tha\n</div><div><br></div><div>Madhavi ne to itna maza kabhi zindagi mein nahi kiya tha jitnaaj kar rahi thi aur fir tapu thodi der mein jhad gaya tapu ne uske muh pe cumshot mara aur uski chuchi kheench ke pucha bata bc kesa laga\n</div><div><br></div><div>Madhavi : maza hi aa gaya</div><div><br></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;NOTICE :</div><div><br></div><div>WE UPLOAD 3 STORY IN ONE WEEK</div><div><br></div><div>IF YOU HAVE ANY SUGGESTION THAN PLEASE ON DEMAND KE OPTION ME JAKAR TYPE KAR DIJIYE</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qwYhlZtUEl",
+          "_anchor": "content1-d",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-d"
+          "_params": {}
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "Please Read This And Help Us",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>प्लीज आप सभी जो ये ऐप का उपयोग कर रहे हो उस सभी से हम ये help मांगते हे की ऐप में जो ad आ रही हे उस पर 1 या 2  क्लिक करे जिससे हमे हमे स्टोरी लिखने में थोड़ा आत्मविश्वास मिलेगा और हम बेहतर स्टोरी दे पाएंगे.</p><p>आपको सिर्फ क्लिक करना हे - कुछ भी डाउनलोड करने की ज़रूरत नहीं हे</p><p>प्लीज में आप सभी दोस्तों हमारी थोड़ी मदद कीजिये और ad आ रही हे उसपे कृपया क्लिक कर दिजिये.\n</p><div>\n</div><div>थैंक यू  :</div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-f",
+          "_cid": "qx3lzwReJB",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2017-10-04-09h16m07s060-1080x1080.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-g",
+          "_cid": "qx3p36IoJb",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>प्लीज में आप सभी दोस्तों हमारी थोड़ी मदद कीजिये और ad आ रही हे उसपे कृपया क्लिक कर दिजिये.</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-i",
+          "_cid": "qx3pe8t2g3",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2017-10-04-09h16m08s768-1080x1080.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-h",
+          "_cid": "qx3p8ZiH7s",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>प्लीज आप सभी हमारी थोड़ी मदद कीजिये और ad आ रही हे उसपे कृपया क्लिक कर दिजिये.\n जिससे हमे स्टोरी लिखने में थोड़ा आत्मविश्वास मिलेगा और हम बेहतर स्टोरी दे पाएंगे</p><p></p><div>आपको सिर्फ 2 क्लिक ही करने हे&nbsp;</div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-j",
+          "_cid": "qx3pvfn67d",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "Anjali &amp; Jetha",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>TARAK MEHTA STORY OF JETHALAL AND ANJALI ....\n<div>\n</div><div>JAB JETHALAL DUKAN PAR JA RAHA THA\n</div><div>\n</div><div>JETHA - namaste anjali bhabhi kaise ho aap\n</div><div><br></div><div>ANJALI - BS JETHA BHAI THIK HU..\n</div><div><br></div><div>JETHA - ANJALI BHABHI MEHTA SHAHAB HAI KYA ?\n</div><div><br></div><div>ANJALI - NAHI JETHA BHAI VO AJ HE SUBH DELHI GAYE HAI 2 DINO KE LIE..KUCH KAAM  tha jetha bhai ?\n</div><div><br></div><div>Jetha- nahi vo bs aise hee....\n</div><div><br></div><div>Anjali - accha to fir thik hai vaise jetha bhai apko ek baat bolne thee?</div><div><br></div><div>Jetha -ha bolie na anjali bhbhi..\n</div><div><br></div><div>Anjali - voo jetha bhai tarak kuch dino ke lie bahar gaye hai  to muze ghar par akale mai dar lagta hai to kya app mare sat rat ko rukhenge hamare ghar par.....\n</div><div><br></div><div>Jetha - (Jetha lal ke maan mai laddu fuuta )(natak karte haue) mai ruk jata bt daya ko kya batau\n</div><div><br></div><div>Anjali- are jetha bhai unko bata dena ke aj aap kese party ko milne ja rahe ho to apko late ho jayega to fir app vo he hotel mai ruk jaogee</div><div><br></div><div> ..plz jetha bhai\n</div><div><br></div><div>Jetha -accha thi hai</div><div><br></div><div>Anjali - (Maan mai khush hote hai)</div><div><br></div><div>  thanks jetha bhai... jetha bhai raat ko jaldi anna  khaana khane</div><div><br></div><div>Jetha - okk  anjali bhbhi fir milte hai raat ko .......\n</div><div><br></div><div>Anjali ke maan mai ( hassh jetha bhai maan gaye aj raat ko bahut maza ayega)\n</div><div>&nbsp; &nbsp; &nbsp;\n</div><div>night me....................JETHALALA CHUPKE MEHTA SHABA KE GHAR AAKAR BEEL BAJIYEA</div><div>\n</div><div>Anjali -   aa gaye jetha bhai app  aiyea aiyea</div><div><br></div><div>Jetha - haa (anjali ko dekhar jetha lal ka lund khada ho gaya ..Anjali ne tight red colur ke salwaar phene thee us mai se uske chucchi dekh rahe theee...)\n</div><div><br></div><div>Anjali - yea lije jetha bhai pani..........\n</div><div><br></div><div>Jetha - are anjali bhabhi eske kya jarrot thee mai khud le leta</div><div><br></div><div>Anjali- jetha bhai app naha kar fresh ho jiyea n ap ke lie tarak ka shirt n pant nikal ke rakha hai fir hum khna kha lenge</div><div><br></div><div>Jetha - ok anjali bhabhi</div><div><br></div><div>\n</div><div>(khana khane ke bad jethalal chupke se bhar gaya n soda pe kar a gaya) Jetha lala enters tarak house..........\n</div><div><br></div><div>Anjali- aiyea jetha bhai aap andar bed parso jiyea mai neache sote hu...\n</div><div><br></div><div>Jetha - are yea kya bol rahe hai aap aap bed par so jiyea mai neache sota hu ...\n</div><div><br></div><div>Anjali - are nahi jetha bhai  ruko ek kaam karte hai aap ek side so jana mai dusre taraf okkk\n</div><div><br></div><div><br></div><div><br></div><div>Jetha - haa thik hai yea chalega\n</div><div><br></div><div>Anjali - jetha bhai  mai kapde change kare atte huu</div><div><br></div><div>(anjali batroom mai jakar apne kapde change karte hai tight nighty phente hai or vo bahar a jate hai ....)\n</div><div><br></div><div>Anjali - chaliyea jetha bhai sote hai</div><div><br></div><div>&nbsp; &nbsp;THODE TIME KE BAAD ANJALI KE AAKH KHULE N DEKHA KE JETHA BHAI NAHI HAI TO FIR DHUDTE DHUNDTE BATROOM KE  taraf gaye dekha to vo shock ho gaye... yea dekh kar\n</div><div>\n</div><div>(jethalal batroom seen-jetha lala batroom mai jane ke baad use anjali ke bra n penty dekhe vo usee dekh kar pagal ho gaya vo use sung rahaa tha AAH KYA MAAL HAI YAR ANJALI BHBI BHEE KYA MAST MOOTE CHCHI HAI  ansd yea SUGHANDE CHUTT MAZA AJAYEGA.....)\n</div><div>\n</div><div>Anjali -&nbsp;<span style=\"font-size: 1rem;\">jetha bhai yea  app kya kar rahe hooo</span></div><div><br></div><div>Jetha - (daar te huea) kuch nahi anjali bahabhi vo bs mai Toilet karne aya thaaa</div><div><br></div><div>Anjali- (esko sab paata tha bt natak karte haue) ohk jetha bhai cahle sonee</div><div><br></div><div>FIR VO DONO SO GAYE ....  FIR  JETHA LALA NE JAAN BUJ KAR ANJALI KE CHUCHI Dabaya AND VO JAAG GAYEE..\n</div><div><br></div><div>Anjlai - yea jetha bhai bhe na karne ka pura mood mr he ab muze bhi signal dena hoga fir anjali jethalala ka lund sehalate hai  </div><div><br></div><div>(fir jethlal jaag jata hai)\n</div><div><br></div><div>jetha - abhe anjali bhbhi se bhe response aya matlab vo karna chate haiii...</div><div><br></div><div>(fir jetha uske chuchi dabata hai or&nbsp;<span style=\"font-size: 1rem;\">firse soo jata hai)...&nbsp;</span></div><div><span style=\"font-size: 1rem;\"><br></span></div><div>Anjali- jetha bhai uthe  uthey na ab app natak mat kejea muze sab pata chala haii\n</div><div><br></div><div>jetha- soory anjali bhabhi vo me jera.....\n</div><div><br></div><div>Anjali - vo sab chodiyea jetha bhai  mai apse bahut pyaar karte huu n aage badkar kissing start keye......</div><div><br></div><div>( Fir dono ne 10 MIN tak kiss kiya<span style=\"font-size: 1rem;\">)</span></div><div><span style=\"font-size: 1rem;\">&nbsp;</span></div><div>Jetha - vaah kya mast hooth hai apke maza  gaya aise lagta hai ene chodu ke nahiii..</div><div><br></div><div>fir jethalala ne anjali ke nighty faad di n uske Boobs ke saat khelne laga ...\n</div><div><br></div><div>Anjali- yea kya jetha bhai apne direct phaad diya yea tarak ne muze jaamu se lakar diyea tha...\n</div><div><br></div><div>Jetha - kya app bhe mai apko ese bhe achha nighty lakar dunga vo bhe USA se....ab muze dabane doooo ....aaahhhhhha\n</div><div><br></div><div>Anjal - &nbsp;aaahha jetha bhai dabayiye yea apke ke haiiii&nbsp;</div><div><br></div><div>(fir jethalala uske boobs ko chusta hai n chus chus kar laal kar deta hai\n</div><div><br></div><div>Anjal - bs jetha bhai doodh nahi neklega ..... n necha bhe ap ke favourite cheez apka wait kar rahe hai....\n</div><div>Jetha - haa anjali bhabhi</div><div><br></div><div> fir jetha lala anjali ke panty utarta hai n bolta hai - vaha kya chikni chut hai apke maza ajayega .</div><div><br></div><div>fir jetha lala uske chut chatne lagta hai bahutt chata hai ......\n</div><div><br></div><div>Anjali - ahhhhhh hhhhhhaaa hhhhaaaa jetha bhai muze apka lund dekha na hai bahut suna hai uske bare mai daya bhabhi se</div><div><br></div><div>Jetha- ha anjali bhabhi &nbsp;fir jetha lala apna lund bahar mikalta haiii......\n</div><div><br></div><div>Anjali - oh my god etna bada lund jetha bhai  yea to mare chut or gand ko to phad dega...\n</div><div><br></div><div>Jetha - are aisa nahi hai sab arram se karenge\n</div><div><br></div><div>Anjali- hmmm fir anjali jetha lala ka lund muah mai late hai choste rahate haiii .......aahahahha ....aaahaha aaaaaahhh jaise kio baccha lolipop chus raha hoo</div><div> vo 20 min tak chuste rahate haiii...\n</div><div><br></div><div>Jetha - bs anjali bhabhi ab apke chut ko mera lund de do kabse tadap rahe hai voooo </div><div><br></div><div>fir jetha lal anjali ko uthakar bed par Fekta hai uske chut par lund set karke chodne lagta haiii....\n</div><div><br></div><div>Anjali- aaahhhh aahaha jetha bhai maza arrah haaii phale bar etne bade lund se chud raheee huuuuu......aaahh jetha bhai or jor seeeee .....ahhhhhh&nbsp;</div><div><br></div><div>15 min Tak jethala anjali ko chodta he&nbsp;</div><div><br></div><div>Jetha - kaha jhadu anjali bhabhi\n</div><div><br></div><div>Anjali - andar he jhad do fir bad mai golie kha lungee..</div><div><br></div><div>fir jetha lala jhad jata hai\n</div><div><br></div><div>Jetha - maza agya anjali bhabhi etne mulayam chut ko phale bar choda ..... bs ab ek chez bake hai\n</div><div><br></div><div>Anjlai- ab kya jetha bhai</div><div><br></div><div>Jetha - apke mooti mooti gand marna bake hai\n</div><div><br></div><div>Anjali - nahi jetha bhai bahut dard hoga etna bada lund nahi ghuse ga And maine abhe tak tarak se be gand nahi marvaie.........\n</div><div><br></div><div>Jetha - are waah matlab seal gand marne mai maza ayega  ,,kuch nahi hota hai anjali bhabhi bs tel launga na to apko aram melga n jada dard bhe nahi hoga gaand marte vakat ..</div><div><br></div><div>fir jetha lal tel lata hai and apne lund par And  anjali ke gaand ke hol mai dalta hai ...fir anjali ko doggy position mai lekar bahut dehere apna lund ghusta hai\n</div><div><br></div><div>Anjai-- ahahahha aahahah jetha bhai bahut dard ho raah hai .....aaahaha ahhhhh aaaaaahhhh .. </div><div><br></div><div>&nbsp;yea sab 10 min tak cahlu tha fir jetha lal anjali ke gaand mai he jhaad gaya ....\n</div><div><br></div><div>Jetha - maza a gaya apne gaand marke anjali bahabhi ....maine phale bar etna acche se kise ke sath chudiy ke he hai....\n</div><div><br></div><div>I LOVE YOU ANJALI BHABHI\n</div><div><br></div><div>Anjali- are jetha bhai muze bhe maza a gaya  I LOVE YOU TOO\n</div><div><br></div><div>fir vo dono fresh hote hai and fir dono ek dusre ke baho mai ate hai n bed par baat karte rahte hai,,,,,</div><div><br></div><div>Anjali- vaise jetha bhaiapko hamare socity mai or kon kon pasan hai\n</div><div><br></div><div>Jetha- are yea ap kya bol rahe hoo\n</div><div><br></div><div>Anjali- are jetha bhai bolie na...muzse kya sharmana mai thode na unko jake bolne vaale hu\n</div><div><br></div><div>Jetha- AAP anjlai bahi - madhvi bhabhi - babaita jee\n</div><div><br></div><div>Anjali - ohh jetha bhai phale to ho gaye ab dusre n tesre bake hai\n</div><div><br></div><div>Jetha -- haste haue -- haaaaa vo bhe ho jayega jaldi  chaliyea ab so jate hai  kal dukn bhe jana haii\n</div><div><br></div><div>Anjali -- ha jetha bhai and mare bra mat lane bhulna\n</div><div><br></div><div>Jetha- ha nahi bhulunga mare anjali rane uska ek chuchi dabata hai and bolta chalo ab so jate hai</div><div><br></div><div>\n</div><div>Anjali - ha jetha bhai\n</div><div>\n</div><div>FIR ANJALI JETHA LAL KE UPAR HE NANGE SO GAYE ANJALI KA EK HATH JETHA LALA KE LUND PAR AND JETHA LALA KA HAATH ANJALI BAHBHI KE CHUCHO PAR  OORR EKDUM CHIPAK KE SOYEA HUE THEE JAISE PATI PATNI KE&nbsp;</div><div>\n</div><div>\n</div><div>कृपया ad पर क्लिक कर दिजिये&nbsp;<span style=\"font-size: 1rem;\">आपको सिर्फ 1 या 2 क्लिक ही करने हे&nbsp;</span></div><div><span style=\"font-size: 1rem;\"><br></span></div><div><span style=\"font-size: 1rem;\">तो हमे स्टोरी लिखने में थोड़ा मजा आएगा और हम बेहतर स्टोरी दे पाएंगे</span></div><div>\n</div><div><br></div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-k",
+          "_cid": "qx3rFhZoyU",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         }
       ]
     }
