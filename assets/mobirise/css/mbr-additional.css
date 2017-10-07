@@ -2455,3 +2455,30 @@ body {
     width: 100% !important;
   }
 }
+.cid-qxmyUI6vpF {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qxmyUI6vpF .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qxmyUI6vpF .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-qxmyUI6vpF .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qxmyUI6vpF .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qxmyUI6vpF .section-text DIV {
+  text-align: left;
+}
