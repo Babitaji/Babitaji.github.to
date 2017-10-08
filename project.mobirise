@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.2.2",
-    "uniqCompNum": 67,
+    "uniqCompNum": 74,
     "versionPublish": "4.2.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -46,6 +46,31 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323",
+              "text-align": "center"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ 8 October 2017 ]</p><p><a href=\"page17.html\" class=\"text-black\">1 - Madhvi or Abdul</a>&nbsp;( ON DEMAND )</p><p><a href=\"page18.html\" class=\"text-black\">2 - Iyer Ne Babita ko Pehli Bar Choda ( Babita ka Gangbang Part 2 ) ( अब तक की सब से अच्छी स्टोरी &nbsp;)</a></p><p><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-1w",
+          "_cid": "qxr1Ka0qHZ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
         {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
@@ -99,7 +124,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Tapusena &amp; boobita",
-        "order": 15
+        "order": 17
       },
       "components": [
         {
@@ -130,7 +155,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Babita ji &amp; jethalal soda shop",
-        "order": 14
+        "order": 16
       },
       "components": [
         {
@@ -163,7 +188,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Babita - daya - anjali - rita",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -196,7 +221,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Madhavi In Kitchen",
-        "order": 12
+        "order": 14
       },
       "components": [
         {
@@ -226,7 +251,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Tapu &amp; Madhvi",
-        "order": 11
+        "order": 13
       },
       "components": [
         {
@@ -259,7 +284,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Please Read This And Help Us",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -415,7 +440,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Anjali &amp; Jetha",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -445,7 +470,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Madhvi &amp; Tapu",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -654,7 +679,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Babita gangbang 1",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -865,7 +890,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "daya or bapu ji &nbsp;jethalal",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -995,7 +1020,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Tapu ne anjai ko choda",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -1278,7 +1303,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Gogi &amp; r1",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -1324,7 +1349,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Babita Ko Jetha or Tapu Ne Bahut Coda",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -1491,7 +1516,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "bb in gada",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -1974,7 +1999,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Daya or Popat",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -2009,6 +2034,219 @@
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Shaam ka waqt hai… Jethalal dukan se wapas aa chuka hai.. aur Daya ke sath Mehta sahab ke ghar jata hai… use Mehta sahab se kuch kaam tha isliye… dekhte hai waha pr kya ho rha hai…<br><br>\n<div>\n</div><div>Tarak: are aao aao Jethalal… Aiye Dayabhabhi…Kaise aan hua?</div><br><div>\n</div><div>Jetha: wo ek letter aya tha dukan pe… Angreji me hai… aap padh ke bataiye na kya hai isme</div><br><div>\n</div><div>Tarak: Lao letter</div><br><div>\n</div><div>Jethalal sofe pe baith jata hai aur Daya piche khadi rehti hai</div><br><div>\n</div><div>Tabhi Anajli ati hai kitchen me se…</div><br><div>\n</div><div>Anjali: are Jethabhai Dayabhabhi aap kab aye?</div><br><div>\n</div><div>Daya: Bas abhi abhi aye</div><br><div>\n</div><div>Anjali: rukiye mai chay laati hu ap sab ke liye\n</div><div>\n</div><div>\n</div><div>(Aur gaand matkaati hui kitchen me jati hai. Jethalal uski gaand ko ghurta reh jata hai… Tarak chutki bajata hai… )</div><br><div>\n</div><div>\n</div><div>Tarak: kaha kho gaye jethalal?</div><br><div>\n</div><div>Jetha: kahi nahi… aap padhiye na letter</div><div>(Tarak wo letter pdhke jetha ko samjata hai tabhi waha Patrakar Popatlal aa pahunchta hai)</div><br><div>\n</div><div>\n</div><div>Popat: kaise ho Mehta saab? Are jethalal dayabhabhi aap log bhi yaha? Kya baat hai…</div><br><div>\n</div><div>Jetha: haan wo jara kaam se aya tha mai</div><br><div>\n</div><div>(Popat jaake jethalal ke samne wale sofe pe baith jata hai… ab uski nazar daya bhabhi pe padti hai… waise to wo unhe behen kehke bulata hai.. wo daya ko upr se niche tak dekhne lagta hai… hamari dayabhabhi waise to simple saree me hi hoti hai lekin usme bhi bohot sexy lagti hai… popat ne ab ghurne ka kam shuru kr diya.. )</div><div><br></div><div>Daya gujrati style me saree pehnti hai isliye cleavage nhi dikhti… popat ko unke stan ke darshan to nhi hue.. to wo niche ki or badhne laga.. aur uski nazar tik gai daya ki kamar pr… Popatlal ko aurton ki kamar aur pet dekhne ka bada shauk hai… usme bhi daya ki kamar ka puri society me koi mukabala nahi hai… tabhi ek hawa ka jhonka aata hai aur daya ki saree ka pallu thoda uth jata hai… aur daya ki badi gori navel ka darshan popatlal ko ho jata hai…</div><br><div>\n</div><div>\n</div><div>\n</div><div>Daya ki ye sabse badi galti thi ki usne apni navel popatlal ko dikha di… Popat ka land ab khada ho chuka tha… usko abhi bhi daya ki aadhi navel aur kamar ka bohot bada hissa dikh rha tha… usne jat se apna mobile bahar nikala aur chupke se video banane laga… Tabhi tarak use dekh leta hai)</div><br><div>\n</div><div>\n</div><div>Tarak: are popatlal.. ye mobile me kya kr rhe ho?\n</div><div>(Popat hadbada jata hai)</div><br><div>\n</div><div>Popat: wo wo.. wo… mai camera ki testing kr rha tha.. maine naya phone liya hai abhi abhi isliye…</div><br><div>\n</div><div>Daya: are wah popat bhai… dikhaiye na naya phone</div><br><div>\n</div><div>(Kehke popat ke hath se phone le leti hai aur video play krti hai.. popat ki saanse tham jati hai… wo turant phone wapat le leta hai aur baat badlne ki koshish krta hai.. lekin der ho chuki thi.. daya ne dekh liya tha ki popatlal ne sirf uska video banaya hai… wo bhi uski navel pr zoom krke… daya ko bohot bura lagta hai lekin wo apni feelings 6upa leti hai aur normal behave krti hai)</div><br><div>\n</div><div>\n</div><div>Anjali chay lekar aati hai aur sab chay pi ke apne apne ghr chle jate hai.</div><br><div>\n</div><div>\n</div><div>\n</div><div>(Jetha House)</div><br><div>\n</div><div>Raat ka time hai..jetha aur daya bed pr lete hue hai… jetha so chuka hai.. lekin daya ki nind ud chuki hai.. bohot sochne ke baad wo faisla krti hai hai wo Popatlal se iss bare me baat krke rahegi. )</div><br><div>\n</div><div>\n</div><div>Knock.. Knock..</div><br><div>\n</div><div>(Popatlal fataft apna lund pent me daalta hai aur kapde thik krne lagta hai… kyunki ye waqt uska mooth marne ka tha… apne guess kr hi liya hoga ki wo kise soch ke mooth mar rha hoga.. ji haan.. wo Dayabhabhi k naam ki mooth maar rha tha.. daya ki navel wala video dekh k wo alreay 3 baar jad chuka tha.. lekin uska man abhi bhi nhi bhara tha… wo daya ko chodne k khayalo me dooba hua tha… tabhi iss knock ne usse khayalo se bahar nikala… back to present)</div><br><div>\n</div><div>\n</div><div>Knock knock knock….</div><br><div>\n</div><div>\n</div><div>Popat: (gusse bhari awaz me) haan aa rha hu… ruko1 min</div><br><div>\n</div><div>\n</div><div>Jaise hi wo darwaza kholta hai uski ankhe fati reh jaati hai… uske samne sakshaat uski mooth ki raani Daya khadi thi..</div><br><div>\n</div><div>\n</div><div>Daya: Popatbhai… kya me andar aa skti hu? Muje apse 2 min baat krni hai.</div><br><div>\n</div><div>Popat: (bowkhlaate hue) haan aaiye na dayabhabhi… ap hi ka ghar hai…</div><br><div>\n</div><div>\n</div><div>(Daya andar ati hai. Popat ke dimag me abhi hawas ka bhoot sawar tha… kyuki jiske namki wo mooth mar rha tha wo khud uske samne khadi thi… Daya ne gulabi rang ki half transperant saree paheni hui thi… jisme se uski kamar ka adha hissa saaf dikh rha tha… aur navel thodi dhundhli si dikhai de rhi thi… jab daya ghar ke andar aai to Popat ne use piche se bhi achi tarah se dekh liya… blouse me sirf ek dori hi thi… jisse wo almost backless lag rhi thi… gaand ke upr ka pura hissa bilkul nanga tha… aur uski 36 ki gaand ka shape bilkul saaf dikh rha tha.. &nbsp;Popatlal to ye sab dekh k pagal hi hue ja rha tha… ab aage)</div><br><div>\n</div><div>\n</div><div>Daya: Popatbhai, muje apse ek bohor jaruri baat krni hai.</div><br><div>\n</div><div>Popat: haan boliye na dayabhabhi (apne lund ko apni jaangho ki beech me dabate hue)</div><br><div>\n</div><div>Daya: Kal Mehta sahab ke ghar mene apke mobile me vo video dekh liya tha.</div><br><div>\n</div><div>\n</div><div>(Ye sunte hi popat ke hosh ud jaate hai… uska lund dheela pad jata hai… ghabraahat ki wajah se uske pasine 6utne lagte hai)</div><br><div>\n</div><div>\n</div><div>Popat: wo wo wo… baat darasal yu thi ki…. ap jaisa samaj rhe hai waisa kuch nhi hai… wo…</div><br><div>\n</div><div>Daya: Bas popatbhai… bahane bnane ki jarurat nhi hai.. mai sab samjati hu… (uska gala bhar aata hai)</div><br><div>\n</div><div>Popat: Dayabhabhi… i m really sorry… mera irada apko thes pahuchana nhi tha… biklul nhi… aap jante hi hai ki mai 40 saal ka hu fir bhi kunwara hu… mera bhi man krta hai sex krne ka… (popat dil ki bhadas nikal deta hai) lekin meri shaadi hi nhi ho rhi hai.. isliye muje khud ko shant krne ke liye aise gande tarike dhoondhne pdte hai.. i m really sorry dayabhabhi…</div><br><div>\n</div><div>\n</div><div>Daya: mai samaj skti hu apka dard popatbhai… isiliye maine ab tak kisiko ye bat batai nahi hai.. sidhe apke ke paas aai hu… aap plz ye sab krna 6od dijiye… mai apke liye ladki dhoondh ke laaungi..(uski ankh se ansoo nikal pdte hai)</div><br><div>\n</div><div>\n</div><div>Popat: Mai apse waada krta hu aainda se kabhi bhi apke ya kisi aur ke sath aisa bartaav nhi krunga.. plz muje maaf kr dijiye…aur plz ye baat kisiko mat batana… warna mai kisiko muh dikhame ke layak nhi rahunga…</div><br><div>\n</div><div>\n</div><div>Daya: chinta mat kijiye popatbhai..mai kisiko nhi bataungi…</div><br><div>\n</div><div>\n</div><div>Popat: thnkyou.. thnkyou very much dayabhabhi…ap bohot samjdaar hai… thankyou… (aur muskurata hai)</div><br><div>\n</div><div>\n</div><div>Daya: Ab mai chalti hu.. bas apse yahi kehne aai thi…</div><br><div>\n</div><div>\n</div><div>(Daya piche mudti hai aur bahar jane ke liye darwaja kholti hai… lekin tabhi uska pallu darwaaje ki stopper me fas jata hai aur khinchaav ki wajah se niche gir jaata hai… jisse daya piche mudti hai aur jaldi se pallu uthane ke liye jukti hai)</div><br><div>\n</div><div>\n</div><div>(Lekin Popat ki nigaahe daya pr jami hui hai… uski ankho me firse hawas ki aag jal uthti hai… daya ka pallu gir chuka tha.. isliye uske upar ke sharir ko sirf uska blouse dhak rha tha.. aur uska gora pet popatlal ke samne aa gaya tha.. uski gol gehri navel dekh ke popat pagal hue ja rha tha… jaise hi daya palluuthane ke liye jhuki… uske boobs popat ko dikh gaye… jo boobs use kabhi dekhne ko nhi mile… wo aaj uske samne the… maano popat ki lottery lag gai ho…)</div><br><div>\n</div><div>\n</div><div>Daya Popat ke samne half naked khadi thi… aur Popat ke andar ke darinde ko jaga chuki thi… Ab wo hone wala tha jo Daya ne sapne me bhi nhi socha tha… Daya kuch bhi react kr ske usse pehle Popat daud ke aya aur darwaja fir se bndh kr diya.</div><br><div>\n</div><div>\n</div><div>Daya: (ghabrate hue) ye aap kya kr rhe hai popatbhai?</div><br><div>\n</div><div>\n</div><div>(Popat ne kuch bhi bole bina Daya ko daboch liya. Usne Daya ko khich kr sofe pe gira diya. Ab popatlal ne Daya ko uthaya aur bedroom me le gaya. Bedroom ki diwar pr Daya to sata kr khadha krke usne apne pajame ka nada nikala… fir usne Daya ko bed pr patka aur uske hothon pe jordar kiss karne laga. )</div><br><div>\n</div><div>\n</div><div>Popat: Aaj meri khwahish puri hogi… jise mai sirf khayalo me chodta tha use aaj me sach me chodunga. Aaja meri randi behna.. apne bhai ki pyaas buja de.</div><br><div>\n</div><div>\n</div><div>(Daya bed pr tadapti rhi roti rhi… aur popat bas use dekh rha tha… thodi der baad daya ko samaj aa gaya ki virodh krne ka koi fayda nhi hai… wo bas bed pr pdi thi ab… uska rona bndh ho chuka tha.. uski ankho ka kajal galoon pe aa gaya tha. Popat shayad isi waqt ka intezaar kr rha tha. )</div><br><div>\n</div><div>\n</div><div>Popat: dekh meri Daya raani… muje mera kaam kr lene de… mera sath na do koi baat nhi.. bas virodh mat krna.. kyuki mai zabardasti nhi krna chahta… tuje chodna meri khwahish rhi hai… aaj muje uss khwahish ko pura kr lene de.</div><br><div>\n</div><div>\n</div><div>(Popat apne sare kapde nikal deta hai aur Daya ke paas ata hai)</div><br><div>\n</div><div>\n</div><div>Popat: aaj me teri bde aram se chudai krne wala hu meri behna…</div><br><div>\n</div><div>\n</div><div>(Pehle wo daya ki saree ko khich nikalta hai… uske samne daya ki navel khuli pdi thi… wo daya ke upr chadh jata hai.. aur uski navel chumna shuru krta hai… wo apni jibh andar bahar krke use chaat rha tha… fir uspe wo apna lund ragadta hai… wo uske liye duniya ki best feeling thi.. aur zor se ragadne ki wajah se wo daya ki navel pr hi jad jata hai… Daya bilkul nirjeev pdi hui thi… )</div><br><div>\n</div><div>\n</div><div>Popat: wah meri randi Daya… mazaa aa gaya…</div><br><div>\n</div><div>\n</div><div>(Daya sirf peticot aur blouse me thi. Popat ne ab uska vastraharan krna shuru kiya… pehle usne blouse ke sab button khol diye… aur peticot nikal diya… ab daya ke sharir pr sirf safed rang ki bra aur patli si panty thi… popat se ab sabr krna mushkil tha… usne daya ki bra khol ke nikal di.. aur uske boobs ghurne laga)</div><br><div>\n</div><div>\n</div><div>Popat: kitne ache boble hai tumhare Daya… kaash me inhe roj pee sakta… jethalal bohot naseeb wala hai.</div><br><div>\n</div><div>\n</div><div>(Bolke wo daya ke mummo pr toot pada. Jungleeyon ki tarah unhe choosne aur masalne laga. Lekin daya ka koi response nhi tha. Adhe ghante tak mummo ko chusne baad wo Daya ki choot pr ata hai.)</div><div><br></div><br><div>Or Daya ki panty utarke uspe sidha apna lund rkhata hai or dhire dhire zatke marta he lekin daya koi responc nhi derahi thi to popat ne daya ko ek chata mara or ghodi banakar chodne laga or daya ke bal pakadkar zor zor se zatke marne laga</div><br><div>fir 10 min tak chodne ke bad popat daya ke muh me apna lund dalkar usme zad deta hai</div><br><div>\n</div><div>\n</div><div>( 4 baar jadne ke baad wo shant hota hai… Daya kuch bol nhi rhi thi…. woh Daya kiss krne laga… 3 mi tak smooch krne ke baad wo bathroom me gaya aur khud ko saaf krke bahar aya. )</div><br><div>\n</div><div>\n</div><div>Popat: Thankyou Dayabhabhi… apne muje meri life ka sabse bafa tohfa diya hai…</div><br><div>\n</div><div>\n</div><div>(Daya jaise taise khadi hokar kapde pehenti hai aur bahar jane ke liye niklti hai)</div><br><div>\n</div><div>\n</div><div>Popat: Aur haan sun… bahar kisiko batana mat batana\n</div><div>\n</div><div>(Aur uski 36 ki gand par ek marta hai krta hai)</div><br><div>\n</div><div>\n</div><div>Daya chupchap waha se nikal jati hai.</div><br><br><div>( YE STORY SIRF DAYA KE FANS KE LIYE THI NEXT STORY BHUT ACCHI HOGI )</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-1u",
           "_cid": "qxmyUI6vpF",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page17.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "madhvi or abdul",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Madhvi Aur Abdul Ka Milan Andheri Raat Mein<br><br>\n<div>\n</div><div>\n</div><div>\n</div><div>Ek baar ki baat hai..</div><div><br></div><br><div>tufani barish men…bhide ke ghar….</div><br><div>\n</div><div>\n</div><div>\n</div><div>Madhvi- ahoo ghar men ata nahi hai aur 3 din baad ki delivery kaise bhi karke deni hi hai warna itne ache costmer naraz hojayege…</div><br><div>\n</div><div>\n</div><div>Bhide- kya tum madhvi itni raat ko eh sab bol rahi ho pehle nahi bol sakti thi…itni raat men to koi dukan bhi nahi open hogi…</div><br><div>\n</div><div>\n</div><div>Madhvi- ahoo bhul gayi&nbsp;</div><br><div>\n</div><div>\n</div><div>\n</div><div>Bhide- ab kahan se ata laskte hain madhvi…</div><br><div>\n</div><div>\n</div><div>Madhvi- arey abdul bhai ke paas jayiye na…aur yahan aur kaam bhi hain…</div><br><div>\n</div><div>\n</div><div>Bhide- arey oh abhi tak dukan band karke chala bhi gaya hoga…</div><br><div>\n</div><div>\n</div><div>\n</div><div>Madhvi- uske ghar par jayiye na….idar bohat sara kaam hai…</div><br><div>\n</div><div>\n</div><div>Bhide- tum ek kaam karo tum jakar oh tab tak main yahan kaam kar leta hun…aur abdul ka ghar zyada dur bhi nahi hai….</div><br><div>\n</div><div>\n</div><div>Madhvi- main! Waise aap thik bol rahe hain main jakar ati hun tabhi tak aap yahan ka sara kaam kar lena…</div><br><div>\n</div><div>\n</div><div>Bhide- ho thik hai…chata lekar jana barish bohat horhi hai…</div><br><div>\n</div><div>\n</div><div>madhvi ne us waqt nighty pehen rakhi thi…oh nighty kafi patli thi jiski waja se madhvi ka bhara bhara jism ka shape saaf pata chal raha tha…uski badi gand aur gol gol chuche saaf ubhar kar dikh rahe the….ab oh ek chata lekar niche jane lagti hai niche compound men jakar oh dekhti hai ke kafi zor dar barish horhi hai….</div><br><div>\n</div><div>\n</div><div>Madhvi- ohooo kya zabrdst barish horhi hai….</div><br><div>\n</div><div>\n</div><div>phir chata kholkar chal padti hai….</div><br><div>\n</div><div>\n</div><div>madhvi jab udar pohnch hi gayi thi ke ek zordar hawa ka jhonka aya aur madhvi ke hath se chata choot gaya…madhvi ko pata nahi chala ke ye sab kitne jaldi huwa….barish bhi tez horhi thi toh ab madhvi barish men bhigne lagi aur jald hi oh puri taraha se geeli hogyi….</div><br><div>\n</div><div>madhvi ko samjh nahi araha tha ke oh ab kya kare….</div><br><div>\n</div><div>\n</div><div>Madhvi- ab kya karun eh barishhhhhh…mujhe abdul bhai ke ghar jaldi se jana hoga…</div><br><div>\n</div><div>\n</div><div>phir oh tezi se chali jati hai abdul ke ghar par…wahan jakar oh darwaza khat khatati hai….oh apni halath ko nazar andaz kar rahi thi….bhigne ki waja se oh nighty uske jism se ekdum chipak gayi thi…aur patla kapda hone ki waja se us black night men se uske chuchon aur badi gand ka shape saaf pata chal raha tha…</div><br><div>\n</div><div>\n</div><div>andar abdul awaz sunkar darwaza kholta hai….uska ghar utna bada nahi tha…darwaza kholte hi abdul madhvi ko is halath men apne ghar par dekh kar ek dum shock lagta hai…</div><br><div>\n</div><div>\n</div><div>Abdul- madhvi bhabhi aap yahan!?</div><br><div>\n</div><div>\n</div><div>Madhvi- abdul bhai main oh ata lene ayi thi oh kya hai na ki humen jaldi se papad tayar karna hai toh itni raat men main agyi…</div><br><div>\n</div><div>\n</div><div>Abdul- oh sab toh thik hai madhvi bhabhi lekin itni barish men…</div><br><div>\n</div><div>\n</div><div>Madhvi- thoda urgent tha abdul bhai isliye…</div><br><div>\n</div><div>\n</div><div>Abdul- oh sab chodiye madhvi bhabhi aap andar ayiye pehle…</div><br><div>\n</div><div>\n</div><div>phir madhvi andar chali jati hai….abdul ki nazar ab madhvi ke bhige hue jism par thi jo us nighty men khul kar dikh raha tha…</div><br><div>\n</div><div>\n</div><div>Abdul- madhvi bhabhi aap bohat bhig gayin hain aap ek kaam kijye pehle aap apne apko sukha lijye….</div><br><div>\n</div><div>\n</div><div>Madhvi- thik hai abdul bhai….</div><br><div>\n</div><div>\n</div><div>Abdul- udar hai bathroom…</div><br><div>\n</div><div>\n</div><div>phir madhvi chali jati hai udar…madhvi jab jarhi thi to abdul ki nazar madhvi ki badi gand par thi jo shape men nazar arhi thi….abdul apna lund lungi ke upar se dabata hai…ab oh room men jakar lungi ke andar se apni chadi nikalta hai…</div><br><div>\n</div><div>\n</div><div>Abdul-(sochte hue) madhvi bhabhi ki gand dekh kar bohat bar muth marni hai….</div><br><div>\n</div><div>\n</div><div>ab wo bahar ata hai….idar madhvi bathroom men…apni nighty nikalti hai…ab oh sirf bra aur panty men thi jo bheeg chuke the…madhvi ko in bhige hue kapdon men rehne uncomfrtable feel horha tha isliye oh bra bhi nikal deti hai…bra nikalte hi uske bade chuche uchal kar bahar ajate hain….ab oh panty bhi nikal deti hai…ab oh puri Nangi thi…</div><br><div>\n</div><div>\n</div><div>ab oh towel lekar apne apko pochne lagti hai…abdul ka bathroom tuta phuta tha…kuch jaga se to andar bhi dekh jaskta tha sirf kuch had tak…jo madhvi ko pata nahi tha….</div><br><div>\n</div><div>\n</div><div>idar abdul bathroom ki taraf ata hai use pata tha bathroom ke andar dekh jaskta hai…eh abdul dikhta zarur aam admi hai lekin eh haroz society ki ladies ke bare men sochkar muth marta hai…</div><br><div>aaj jab madhvi jaisi maal uske ghar men hai oh bhi nangi toh oh chance kyun chodega….ab woh andar jhakne lagta hai…aur pehle hi nazar usko milta hai madhvi ki badi gand ka jo puri nangi thi…aur gand ka ched bhi saaf saaf uske samne tha….</div><br><div>\n</div><div>\n</div><div>abdul ko yakin nahi horha tha ke oh is waqt madhvi ki badi nangi gand dekh raha hai….phir kya tha oh lungi upar utha kar apna lund pakad leta hai aur hilane lag jata hai madhvi ki badi nangi gand ka show dekhte hue….</div><br><div>\n</div><div>\n</div><div>Abdul-(sochte hue) ahh kya gandddd hai madhviiii bhabhiiii…kya ched hai apki is gand ka…kash ek bar mujhe apna lund us gand men ghusane mil jaye to maza hi ajayega…</div><br><div>\n</div><div>\n</div><div>oh fatafat apna lund hilaye jarha tha…tabhi madhvi ko bathroom ki diwar par chipkli dikhti hai jise dekh oh dar jati hai aur oh chillati hai…</div><br><div>\n</div><div>\n</div><div>Madhvi- aaaaaa chipkliiiiiiii…</div><br><div>\n</div><div>\n</div><div>is baat se abdul ko ek idea ata hai….oh ab madhvi ko nangi chuna chahta tha toh oh ab ek dum se andar chala jata hai darwaza kholkar….</div><br><div>\n</div><div>\n</div><div>Abdul- kya hua madhvi bhabhi!!</div><br><div>\n</div><div>\n</div><div>Madhvi chipkali ke dar men eh bhul gayi thi ke oh is waqt bilkul nangi hai….</div><br><div>\n</div><div>\n</div><div>Madhvi- abdul bhaiii oh wahan par chipkali haiiiii….</div><br><div>\n</div><div>\n</div><div>Abdul- kahan hai madhvi bhabhi…</div><br><div>\n</div><div>\n</div><div>abdul ko to bas ek dum full show mil raha tha madhvi ke nange jism ka….</div><br><div>\n</div><div>\n</div><div>Madhvi- oh dekhiye abdul bhaiiiii…..</div><br><div>\n</div><div>\n</div><div>tabhi woh chipkli thoda tezi se jati hai jise madhvi ko lagta hai ke chipkle uske upar ayegi isliye oh dar jati hai aur abdul se lipat jati hai puri nangi….</div><br><div>\n</div><div>\n</div><div>Madhvi- aaaaa chipkaliiiiiiii chipkne ki waja se madhvi ke bade chuche abdul ke chati se dab chuke the…..abdul bhi mauke ka full fayda uthata hai aur khud bhi madhvi ko kas ke gale lagta hai….</div><br><div>\n</div><div>\n</div><div>Abdul- dariye mat madhvi bhabhi main hun na…</div><br><div>\n</div><div>\n</div><div>madhvi ke chuche abdul ki chati par achi tarha se masal rahe the….ab abdul piche hath madhvi ki badi gand par lejata hai aur sehlane lagta hai…</div><br><div>\n</div><div>\n</div><div>Madhvi- abdul bhai chali gayi kya chipkaliiii??</div><br><div>\n</div><div>\n</div><div>Abdul ko thoda aur maza karna tha…</div><br><div>\n</div><div>\n</div><div>Abdul- pata nahi madhvi bhabhi dekhta hun rukiye….</div><br><div>\n</div><div>\n</div><div>waisa bolkar woh idar udar dekhne ka natak karne lagta hai…madhvi ko abhi bhi ahsas nahi tha ke woh is waqt bathroom me puri nangi khadi hai….</div><br><div>\n</div><div>\n</div><div>ab abdul ka lund kadak ho chuka tha…jo ab madhvi ko apni chut par mehsus hone laga tha… ab madhvi ko ahsas hota hai oh is waqt nangi khadi hai….tabhi woh abdul se alag hoti hai aur apne apko chupane lagti hai…abdul bhi natak karte hue dusri taraf dekhta hai…</div><br><div>\n</div><div>\n</div><div>tabhi bahar lightning hoti hai jiski awaz se madhvi ghabra jati hai aur phir ek baar abdul se lipat jati hai usi halath men lekin is baar kuch aisa hota hai jiski abdul ko bhi koi khabar nahi thi…</div><br><div>madhvi abdul se thoda zorse gale lagti hai jiski waja se abdul ki lungi bhi niakal kar niche gir jati hai jiski waja se abdul niche se nanga hojata hai….uska lund jo ek dum khada tha ab madhvi ki chut par achi tarha se ragad raha tha….</div><br><div>ab abdul ko madhvi apni taraf khinchta hai….jiski waja se uska lund madhvi ki chut men thoda ghus raha tha….madhvi ke chuche to waise bhi dab rahe the….abdul ko to bas maze hi the</div><div><br></div><div>\n</div><div>\n</div><div>bhide Madhvi ko kabhi Bhi santusht nahi kar paya tha…uski waja se oh sex ki pyasi thi lekin ek bhartiye nari hone ki waja se apni had men hi rehti thi….</div><br><div>abdul ka lund apni chut par mehsus hone se ab usko apni halath ka ahsas hota hai aur oh abdul se alag hoti hai aur apne apko chupane lagti hai…lekin abdul waise hi khada tha madhvi ki taraf dekhte hue…madhvi ko ajeeb lag raha tha abdul ke uski taraf is tarha ghurne se….</div><br><div>\n</div><div>\n</div><div>Madhvi- abdull bhaiii oh thodaa baharr jayiyeee mainnnn….</div><br><div>\n</div><div>\n</div><div>Abdul- madhvi bhabhi oh sab to thik hai lekin aap pehnengi kya ab…apke kapde to pure gile hain….</div><br><div>\n</div><div>\n</div><div>Madhvi- abdul bhai main kya karun….</div><br><div>\n</div><div>\n</div><div>Abdul- madhvi bhabhi main dekhta hun shayad koi kapde mil jayen…</div><br><div>\n</div><div>\n</div><div>Madhvi- thik hai abdul bhai…</div><br><div>\n</div><div>\n</div><div>abdul phir chala jata hai….idar abdul koi kapde dhund raha tha…ab madhvi apne apko sukha kar towel lapet kar hi bahar ajati hai….madhvi ko towel men dekh kar abdul ka lund phir se khada hojata hai….</div><br><div>\n</div><div>\n</div><div>Abdul- madhvi bhabhi koi kapde nahi mile….</div><br><div>\n</div><div>\n</div><div>Madhvi- ab thndi bhi bohat lag rahi hai….</div><br><div>\n</div><div>\n</div><div>Abdul- madhvi bhabhi is barish men apka ghar jana to bohat mushkil hai…bahar bohat tez barish horhi hai….</div><br><div>\n</div><div>\n</div><div>Madhvi- ab main kya karun abdul bhai kapde bhi nahi hain mere paas aur upar se tez barish….\n</div><div>\n</div><div>tabhi abdul ko ek idea ata hai….</div><br><div>\n</div><div>\n</div><div>Abdul- madhvi bhabhi aap ek kaam kar sakti hain…</div><br><div>\n</div><div>\n</div><div>Madhvi- kya abdul bhai?</div><br><div>\n</div><div>\n</div><div>Abdul- aap mera banyan pehen lijye…lekin uske alwa apke pehne layak kuch bhi nahi hai….</div><br><div>\n</div><div>\n</div><div>madhvi ko kuch bhi samjh nahi arha tha…aur sath men usko thndi bhi lag rahi thi….</div><br><div>\n</div><div>\n</div><div>Madhvi- thik hai abdul bhai main banyan hi pehen leti hun lekin thoda lumba ho to acha hoga…</div><br><div>\n</div><div>\n</div><div>Abdul- main dekhta hun…</div><br><div>\n</div><div>\n</div><div>abdul jan buj kar medium size ka banyan nikal kar madhvi ko deta hai…madhvi ko na chahte hue bhi oh pehna padta hai….is halath men madhvi ko koi dekhta toh chudai kiye bina na jata…ab madhvi sirf banyan men thi…andar nahi bra aur nahi niche panty….uske bade bade chuche us banyan men bohat mushkil se sama rahe the…</div><br><div>\n</div><div>\n</div><div>woh banyana madhvi ke bade chuchon ki waja se kafi ubhar chuka tha aur sath men uske nipples bhi saaf dikh rahe the uspar se…niche gand ke thoda niche tak hi oh banyan jarha tha…matlab uski adhi chut saaf dikh rahi thi….abdul madhvi se nazar chupa kar apna lund masal raha tha….tabhi abdul ko ek idea ata hai madhvi ki puri gand achu tarah se dekhne ka…</div><br><div>\n</div><div>\n</div><div>Abdul- oho ghar kafi ganda hogya hai main jhadu laga deta hun….</div><br><div>\n</div><div>\n</div><div>Madhvi- arey abdul bhai mere hote hue aap kyun jhadu lagayenge…layiye mujhe dijye…</div><br><div>\n</div><div>\n</div><div>phir madhvi jhadu lagane lagti hai…is baat se anjan ke usne sirf ek banyan pehna hai oh zara bhi jhukti toh uska sab dekhne mil jata abdul ko….madhvi jhuk kar jhadu laga rahi thi jiski waja se uske chuche us banyan men ek dum latak gaye the…lekin uski badi gand toh ek dum open show tha abdul ke liye…jhukne ki waja se oh banyan upar uth chuka tha….</div><br><div>ab uski gand puri nangi hochuki thi abdul ke samne….piche se abdul madhvi ki badi gand ched dekh kar apna lund masal raha tha….</div><br><div>\n</div><div>\n</div><div>Abdul-(sochte hue) madhviiii bhabhiiiiii kyaaa ganddd haiii apkiiiii ahhhhhhh kya ched haiiii lagtaa hai bhideee bhaii nahi marte apki gand….koiii baat nahiiii aaj mainnnn apkiiii gand marunga oh bhi jamkeeee….ahhhhh kyaaaa cheddd haiiiiii….</div><br><div>\n</div><div>\n</div><div>jhadu lagakar hone ke baad…..</div><br><div>\n</div><div>\n</div><div>Abdul- madhvi bhabhi ab aap yahin par hi ruk jayiye aaj raat ke liye waise bhi is zordar barish men apka ghar jana bohat mushkil hai….</div><br><div>\n</div><div>\n</div><div>Madhvi- lekin abdul bhaiii wahan ghar par bohat kaam hai aur oh bhi mera intizar kar rahe honge….</div><br><div>\n</div><div>\n</div><div>Abdul.- usmen kya madhvi bhabhi phone kar ke bol dete hain….</div><br><div>\n</div><div>\n</div><div>phir abdul call lagata hai bhide ko lekin not reachable ata hai….</div><br><div>\n</div><div>\n</div><div>Abdul- koi baat nahi madhvi bhabhi thodi der baad phir try kar lenge….tab tak aap araam kar lijye….</div><br><div>\n</div><div>\n</div><div>Madhvi- thik hai abdul bhai….</div><br><div>\n</div><div>phir madhvi room men chali jati hai….aur chadar lekar zamin par let jati hai jiski waja se ab usko thodi garmi mil rahi thi…tabhi madhvi ko abdul ka khayal ata hai….</div><br><div>\n</div><div>\n</div><div>Madhvi- abdul bhai ko bhi thndi lag rahi hogi…phir oh abdul ko bulati hai….</div><br><div>\n</div><div>\n</div><div>Abdul- kya hua madhvi bhabhi kuch chahiye tha…?</div><br><div>\n</div><div>\n</div><div>Madhvi- abdul bhai apko bhi toh thandi lag rhi hogi ao bhi dusri Chadar le lijye…</div><br><div>\n</div><div>\n</div><div>Abdul- oh to thik hai madhvi bhabhi lekin mere pas ek hi chadar hai oh main akela rehta hun na isliye….</div><br><div>\n</div><div>\n</div><div>Madhvi- toh aap itni thndi main kaise rahenge….aap ek kaam kijye mere sath is chadar men ajayiye…</div><div><br></div><div>\n</div><div>Abdul- iski koi zarurat nahi hai madhvi bhabhi….</div><br><div>\n</div><div>\n</div><div>Madhvi- kuch nahi sunna mujhe abdul bhai aap bas ajayiye….</div><br><div>\n</div><div>\n</div><div>bas abdul ko yahi chahiye tha…ab oh madhvi ko kisi na kisi taraha se chodne hi wala tha….ab chadar men dono lete hue the….madhvi ek taraf mun kiye hue leti hui thi usi taraf mun karke abdul bhi leta tha…ab abdul madhvi ke aur kareeb jata hai….ab oh madhvi ki gand se sat jata hai jo almost nangi thi….</div><br><div>\n</div><div>\n</div><div>abdul ko control nahi horha tha isliye oh ab apni lungi nikalta hai aur ab oh niche se nanga tha….uska lund tight hoke khada tha….ab abdul madhvi ki gand se aur sat jata hai jisse uska lund madhvi gand par dabav dalne lagta hai…madhvi ki gand nangi hone ki waja se abdul ko bohat maza arha tha apna lund gand par masalne men….a</div><br><div>bdul ko ab sex ka josh chad chuka tha tabhi oh apna hath madhvi ki chut par lejata hai aur waise hi rakhta hai…piche se oh apna lund madhvi ki gand ke ched par ghisne lagta hai….madhvi bhi ab ye sab jan chuki thi…</div><br><div>\n</div><div>\n</div><div>Madhvi-(sochte hue) eh mere piche kya lag raha hai…aur chut par!!</div><br><div>\n</div><div>\n</div><div>madhvi ek taraf se ghin arhi thi to dusre taraf sex ki tamanna bhi….abdul ab apna lund madhvi ki gand par ragad raha tha…lekin andar nahi dal raha tha…</div><br><div>\n</div><div>\n</div><div>Madhvi-(sochte hue) ab main kya karun abdul bhai mujhe aisi halath men dekh kar shayad control nahi kar par rahe hain….</div><br><div>\n</div><div>\n</div><div>abdul madhvi ko tadpana chahta tha….isiliye oh apna lund lagatar gand ke ched par ragad raha tha…kafi der se oh aise kar raha tha…jiski waja se madhvi ko bhi gussa araha tha….</div><br><div>\n</div><div>\n</div><div>Madhvi-(sochte hue) abdullll bhaiiii ab ghusa bhi dijyeeeeee kyunnnn tadpa raheee hoo….</div><br><div>\n</div><div>\n</div><div>abdul bhi chalak tha oh khud madhvi ke mun se sunna chahta tha ke oh use chode…abdul ab bhi waise hi kar raha tha…</div><br><div>madhvi se ab raha nahi jaraha tha…tabhi oh apna hath piche lajakar abdul ka lund pakad ke apni gand ke men dabane lagti hai….lund pakdne se abdul ko bohat maza arha tha….lekin abdul ab bhi apna lund andar nahi ghusa raha tha….thodi der baad fustrate hokar….</div><br><div>\n</div><div>\n</div><div>Madhvi- arey ab ghusa bhi dijye andar abdul bhaiiiii…</div><br><div>\n</div><div>\n</div><div>Abdul- kya ghusaun madhvi bhabhiii???</div><br><div>\n</div><div>\n</div><div>Madhvi pehle se teased thi toh oh direct bol deti hai….</div><br><div>\n</div><div>\n</div><div>Madhvi- arey apna lund meri gand men ghusa do abdul bhaiiiiii…</div><br><div>\n</div><div>\n</div><div>itna sunne ki deri thi abdul apna lund madhvi ki gand men ghusa deta hai….</div><br><div>\n</div><div>\n</div><div>Madhvi- ahhhhhhhhh abdullllll bhaiiiii dhireeee ahhhhhhh ahhhhhh ahhhhh…</div><br><div>\n</div><div>\n</div><div>ab abdul dhakke marne lagta hai….ab abdul chadar nikal deta hai dono ke upar se….</div><br><div>\n</div><div>\n</div><div>Madhvi- ahhhhhhh ahhhh abdullll bhaiii ahhhhhh ahhhhhhh….</div><br><div>\n</div><div>\n</div><div>abdul madhvi ki kamar pakad ka achi tarha se uski gand mar raha tha….tab tak abdul apna shirt nikalta hai aur pura nanga hojata hai….aur phir se chudai shuru karta hai madhvi ke gand ki….</div><br><div>\n</div><div>\n</div><div>Madhvi- ahhhh abdullll bhaiiii ahhhhhh ahhhhh ahhhh ahhhh ahhhhhhhhhhhh ahhhhhh ahhhh meriiii ganddddd ahhhhhhh ahhhhhhh ahhhhhhhh…</div><br><div>\n</div><div>\n</div><div>ab oh tezi se dhakke lagane lagta hai…jiske waja se phatttt phattt phattttt phatttttt ki awazen ane lagi pure room men….thodi der usi position men chudai karne ke bad ab madhvi khadi hoti hai lekin abdul wahin leta rehta hai…</div><br><div>\n</div><div>\n</div><div>ab madhvi abdul ke upar butterfly position men ajati hai…ab abdul apna lund madhvi ki chut men dalta hai aur niche se dhakke marne lagta hai….</div><br><div>\n</div><div>\n</div><div>Madhvi- ahhhhhhhh ahhhhhh ahhhhhhh abdulllll bhaiiii thodaaa dhireeee chodiyeeee ahhhhhhhh ahhhhhh….</div><br><div>\n</div><div>\n</div><div>abdul niche se madhvi kamar pakad ke dhakke laga raha tha…chudai ki waja se madhvi ke bade chuche upar niche horhe the….abdul ka lund madhvi ki chut men andar tak jarha tha…</div><br><div>\n</div><div>\n</div><div>Madhvi- ahhhhh ahhhhhhhhh ahhhhhh abdulllll bhaiiiiii itnaaaa tezzz nahiiii plssss ahhhhhhh ahhhhh…</div><br><div>\n</div><div>\n</div><div>Abdul- madhviiii bhabhiiii mazaaa arhaaa hai naaaa bhide bhaiiii se to achaaa hi choood rhaaa hun naaaa…</div><br><div>\n</div><div>\n</div><div>Madhvi- ahhhhhh ahhhhhhhhh ahhhhh…</div><br><div>\n</div><div>\n</div><div>madhvi ko sharm ati hai is baat oh kuch bhi nahi bolti….ab abdul chodte hue apna hath madhvi ki chut ke upari hisse par masalne lagta hai jisse madhvi ko bohat tease horha tha….</div><br><div>\n</div><div>\n</div><div>Madhvi- Ahhhhhhhhhh abdul bhaiiiiii ahhhhhh waise nahiiiii plssssss ahhhhh ahhhhh ahhhhh….\n</div><div>\n</div><div>ab abdul chuche bhi dabane lagta hai….</div><br><div>\n</div><div>\n</div><div>Madhvi- ahhhhhh ahhhhhhh ahhhhh ahhhh ahhhhh ahhhhhhhhhhh ahhhhhhhhhh</div><br><div>\n</div><div>\n</div><div>thodi der aur usi position men chudai ke bad ab madhvi side men let jati hai….abdul thak chuka tha…lekin madhvi ko to abdul ke lund se pyar hogya tha…</div><br><div>ab woh abdul ka lund pakadti hai hath se aur hilane lagti hai…jald hi uska lund khada hojata hai…ab madhvi abdul ke upar uske taraf mun karte hue chad jati hai aur piche se abdul ka lund apni gand men ghusati hai…abdul ko bhi josh ajata hai aur oh dhakke marne lagta hai…</div><br><div>\n</div><div>\n</div><div>Madhvi- ahhhhhhhh ahhhhh abdullll bhaiiiii ahhhhhh ahhhhhh ahhh madhvi aur abdul dono full josh men the…ab abdul madhvi ke mun ke kareeb jata hai toh madhvi khud hi apne honth mila deti hai abdul ke honth se…dono ab kiss karne lagte hain…aur upar se abdul damdar dhakke mar raha tha…</div><br><div>madhvi ke chuche dabe hue the abdul ke chati se…chudai ke waqt chuche masale jarhe the…\n</div><div>\n</div><div>thodi der aisi chudai ke baad..ab dono thak chuke the…abdul wahin par leta hua tha…madhvi bathroom chali jati hai…lekin abdul barish ke mausm men kuch zyada hi garm tha…</div><br><div>ab madhvi ke bathroom se bahar ate hi ho madhvi ko pakad leta hai….piche se madhvi ko pakdne ki waja se uska lund madhvi ki gand ke ched men touch horha tha jiski waja se madhvi ab pleasure men ankhen band kar leti hai….phir abdul madhvi ko deewar se sata deta hai aur uski ek tang utha kar uski chut men apna lund ghusa deta hai…</div><br><div>\n</div><div>\n</div><div>Madhvi- abdulll bhaiiiiii aap abhiii tak thakkeee nahiiiii ahhhhh ahhhhh ahhhhhh ahhhh ahhh…thodaaa to rukiyeeee ahhhhhh main kahinnnnn bhaiiiii nahiiii jarhiiiii hun ahhhhhhhhhhjj……\n</div><div>\n</div><div>ab chudai karte hue madhvi ke chuche mun men lekar chus raha tha…oh nipples mun men leraha tha…</div><br><div>\n</div><div>\n</div><div>Madhvi- ahhhhh ahhhh abdulll bhaiiiii ahhhhhh ahhhhh ahhhh…</div><br><div>\n</div><div>\n</div><div>dono chudai kar hi rahe the ke abdul ke mobile ki ring bajti hai….</div><br><div>\n</div><div>\n</div><div>Abdul- ohooo ab kisne call kiya…</div><br><div>\n</div><div>\n</div><div>Abdul- madhvi bhabhi thoda rukiye main call uthata hun…madhvi sharma kar…</div><br><div>\n</div><div>\n</div><div>Madhvi- jaldi ayiye….</div><br><div>\n</div><div>\n</div><div>Abdul- zarur…</div><br><div>\n</div><div>\n</div><div>ab abdul lund madhvi ki chut se nikal kar call utane jata hai…wahan jakar oh dekhta hai ke call bhide ka hai…</div><br><div>\n</div><div>\n</div><div>Abdul- bhide bhai ka call…</div><br><div>\n</div><div>\n</div><div>madhvi bhide ka naam sunkar thoda dar jati hai….abdul phir call uthata hai…</div><br><div>\n</div><div>\n</div><div>Abdul- han boliye bhide bhai…</div><br><div>\n</div><div>\n</div><div>Bhide- arey han abdul madhvi ayi hai kya wahan…?</div><br><div>\n</div><div>\n</div><div>Abdul madhvi ki taraf dekhte hue…</div><br><div>\n</div><div>\n</div><div>Abdul- hai na bhide bhai…</div><br><div>\n</div><div>\n</div><div>Bhide- zara uske paas call do to…</div><br><div>\n</div><div>\n</div><div>phir abdul madhvi ko mobile deta hai…madhvi jhijakte hue bat karne lagti hai…ho bhi kyun na oh is waqt puri nangi hai aur abdul se chudwa rahi hai…</div><br><div>\n</div><div>\n</div><div>Madhvi- han boliye…</div><br><div>\n</div><div>\n</div><div>Bhide- ho kya boliyeeee itni der hogyi…</div><br><div>\n</div><div>\n</div><div>Madhvi- areyyy bahar barish dekhiye kitni tez hai…kaise awun…</div><br><div>\n</div><div>\n</div><div>Bhide- ohh oh to thik hai lekin ab tum kya karogi…?</div><br><div>\n</div><div>\n</div><div>Idar abdul ko ab masti sujti hai…oh ab madhvi ke paas akar uski tang uthakar apna lund chut par ragdne lagta hai….madhvi phone par baat karte hue abdul ko aisa na karne ka ishara karti hai lekin abdul apna lund chut par ragdte rehta hai…madhvi ko teasing horhi thi…madhvi abdul ko piche dhakelne ki koshish karti hai lekin abdul nahi hatata…tabhi abdul apna lund chut men ghusa deta hai….</div><br><div>\n</div><div>\n</div><div>Madhvi- ahhhhhhhhhh</div><br><div>\n</div><div>\n</div><div>Bhide- kya hua madhvi…!!</div><br><div>\n</div><div>\n</div><div>Madhvi- oh oh chipkali thi….</div><br><div>\n</div><div>\n</div><div>Bhide- kya madhvi tum bhi…acha tum kaise aungi wapas main ajaun kya tumko lene….</div><br><div>\n</div><div>\n</div><div>Abdul ab lund tezi se madhvi ki chut men andar bahar kar raha tha…madhvi ko dard horha tha lekin oh chilla nahi sakti thi uska pati jo usse baat kar raha tha mobile par….madhvi baat karte hue abdul ke lund ko dekh rahi thi jo uski chut men tezi se andar bahar horha tha…madhvi abdul ki taraf noughty smile kar rahi thi….</div><br><div>\n</div><div>\n</div><div>Madhvi- arey nahi o main ajaungi….</div><br><div>\n</div><div>\n</div><div>Bhide- thik hai lekin jaldi ajana….</div><br><div>\n</div><div>\n</div><div>Madhvi- thik hai ab main call rakhti hun…</div><br><div>\n</div><div>\n</div><div>phir dono call end karte hain….madhvi ab abdul ki taraf noughty smile karti hai…phir ab madhvi abdul ko apne aur khinchti hai aur uske honthon par apne honth rakhti hai…dono paglon ki tarha ek dusre ko kiss karne lagte hain…abdul tezi se apna lund madhvi ki chut men andar bahar kar raha tha….thodi der bad dono kiss todte hain….</div><br><div>\n</div><div>\n</div><div>Madhvi- ahhhhhh ahhhhh ahhhhh ahhhhh ahhhh ahhh abdulll bhaiiiiii ahhhhh ahhhhhh ahhh….\n</div><div>\n</div><div>Thodi der us position men chudai ke bad ab abdul madhvi apne upar utha leta hai aur niche se apna lund ghusane lagta hai….</div><br><div>\n</div><div>\n</div><div>Madhvi- ahhhhh abdullll bhaiiiiii</div><br><div>\n</div><div>\n</div><div>Madhvi abdul ke gale men dono hath dalkar jakde hue thi….jakde hone ki waja se uske bade chuche abdul ki chati se masale hue the aur uske nipples abdul ko touch horhe the….ab abdul gand men lund dhire dhire ghusa deta hai…</div><br><div>\n</div><div>\n</div><div>Madhvi- ahhhhhhh udar nahiiiii abdullll bhaiiiii dard hotaaa haiiiii</div><br><div>\n</div><div>\n</div><div>Ab abdul dhire dhire lund andar bahar karne lagta hai…jald hi madhvi ko maza ane lagta hai….</div><br><div>\n</div><div>\n</div><div>Madhvi- abdulllll bhaiiiiii ahhhhh kyaaaa chodteee hainnn aaapppp….mujheee abhii takkk unhonee bhi itnaaaa achaa nahiiii chodaaa ahhhhhhh ahhhhhh aur tezzz chodiyeee ahhhhhhh…</div><br><div>\n</div><div>\n</div><div>Ab abdul tezi se chudai shuru karta hai….ab madhvi abdul kr honth apne honthon se mila deti hai aur kiss karne lagti hai….niche se abdul dhakke laga raha tha madhvi ki gand men….</div><br><div>abdul madhvi ki gand pakde hua tha….abdul bhi madhvi ko apni taraf jakde hue tha jisse uske chuche abdul ki chati men aur dabe hue the….</div><br><div>\n</div><div>\n</div><div>Puri raat dono chudai karte hain ghar ke alag alag jaga par alag alag position men…madhvi ko chudai ka maza isse pehle itna acha nahi aya tha…subha barish kam hone par madhvi wapas society chali jati hai….</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-1x",
+          "_cid": "qxr20qJgGG",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page18.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "iyer babita",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Ye babita ka gangbang part 2 he agar aapne pehla part ki story padhi he to aapko ye part me maja aayega<br><br>Part 1 me aapne dekha tha ki last me jethalal kehta hai ki babita ka badla abhi pura nahi hua he ab aage.<br><br>sham ke 8 baje<br><br>\n<div>gokuldham socity ke compound me</div><br><div>\n</div><div>madhvi or anjali anjali ke ghar ke bahar khadi khadi bate kar rahi thi or iyer enter hota he </div><br><div>or bachhe foot ball khel rahe the or tapu ek jor dar kick lagata he or ball jor se madhvi ke boobs per jaa ghirta he or madhvi ahhhhhhhhhhhhhhhhh or fir vi apne boobs ko daba deti he or fir\n</div><div>madhvi ko bahut dard ho raha tha</div><br><div>\n</div><div>iyer ka ye seen dekh uska land khada hi jata he or uska land 10’3 ka tha to sabko ddikhne lagta he</div><br><div>\n</div><div>madhvi apne man me ye iyer bhai ka land itna bada he</div><br><div>\n</div><div>or fir tapu Khelne lagta he</div><br><div>\n</div><div>or iyer ki halat kharab ho rahi thi to vo apne ghar ki taraf chala jat he</div><br><div>\n</div><div>or ander jate hi</div><br><div>\n</div><div>babita sofe pe bethi hui thi or iyer jake uske pass betha jata he or babita pink tshirt ne thi uske boobs aha kya lag rahi thi or usne tshirt ke niche bra panty bhi mahi pehni thi or niche lengi pehni thi or iyer babita ka boobs per hath rakh deta he</div><br><div>\n</div><div>babita ko fir se gussa aata he or vo haath hata deti he iyer samaj jata he or babita tv dekh rahi thi to iyer tv ke samne khada ho jata he niche madhvi ki vajah se uska land pura khada tha to vo tv ke samne apni pent uta r deta he </div><br><div>or babita uske 10’3 ka bada land dekh kar khus ho jati he</div><br><div>\n</div><div>babita : tumhara lund itna bada he</div><br><div>\n</div><div>iyer : ha to tumne to kabhi bhi apni chut me liya nhi he to kese pata chalega</div><br><div>\n</div><div>or vo sofe se khadi ho jati he or iyer ke pass jake gutno ke bal beth jati he or iyer ke lund ko apne muh me le leti he..</div><br><div>\n</div><div>\n</div><div>babita apne ghutno ke bal beth jati he or iyer ke land ko pakadti he</div><br><div>\n</div><div>babita : wow iyer itna bada lund</div><br><div>\n</div><div>or fir iyer ke lund ko puppy deti he or fir usk land ko apne hatho se hilane lagti he vese iyer ne lund ko bagut dhyan rakh ke chipkaya tha taki vo nikal na jaye ab babita uske land ko or tezi se hilane lagti he or fir iyer ahhh babita&nbsp;</div><div><br></div><div>babita ab mere land ko muh me bhi to lo vese iyer ka plastic ka land bhi uski tarah kala tha lekin fir bhi babita bade land ko dekh ke madhhosh ho jati he or fir jab uske pink lips jo ki bahut rasile the vo jab iyer ke land per lagte he to usse to mano jannat mil gayi thi babita iyer ke land ko apne muh me leke ek randi ki tarah bahut tezi se uske land ko chus rahi thi ummmmmmmm </div><br><div>iyer bhi ahhh uhhh ker raha tha or babita uske pure land ko muh me leneki koshish karti he lekin nahi kar pati fir iyer uske balo ko pakadta je or uske meh me apna land ander bahar karne lagta he babita ko bahut maza aa raha tha or vo ye bhi soch rahi thi ki abse har raat tagdi chudai hogi </div><br><div>fir babita iyer ke land per firse thuk lagati he or usko chatne lagti he ummmmmm iyer bhi ahhh oghhh kar raha tha</div><br><div>fir iyet babita ko khada karta he or uski tshirt ko boobs ke uper laa deta he or ab babita ke bade bade tarbuj jese boobs iyer ke samne the iyer babita ke boobs ko dekh ker toot padya he or uske boobs ko hatho se dabane lagta he or babita ahhh or zor se dabao iyer or dusri taraf babita ka ek hath abhi bhi khade khade iyer ke land ko malish de rahe the iyer ki to aaj nikal padi.</div><br><div>\n</div><div>\n</div><div>\n</div><div>or fir iyer aage badhtahe or iyer babita ke sath kiss karne lagta he or babita bhi uska sath de rahi thi ummmmmmm</div><br><div>fir iyer babita ko bed per leta deta he or uske chut ke uper apna muh rakh deta je or apni jibh se babita ki clean chut ko chat raha tha babita ahhhhhhjjjh ummmmm ahhh iyer aahhh chato ahh or iyer ke muh ko pakad ker apni chur pe daba deti he or iyer uski chut me do do ungli dall rahe the </div><br><div>babita madhos hui ja rahi thi ahhhh iyer aahhhhh ohhhhh fir iyer apni ungli ki speed badha deta he Ungli ki speed ko badha deta he </div><br><div>fir bo babita ki chut me bahut tezi se apni ungli under bahar kar raha tha or babita bhi bahut tezi se ah ah ah ah ah yes yes ummmm ahhhh fir iyer khada ho jata he or babita jo bed per leti hui hoti he uske dono tange faila deta he or uski chut pe upne bade lund ko ragad ne lagta he.</div><br><div>\n</div><div>babita : ohh iyer ab itna bhi mat tadpao ohhh ummmm daldo apna lund </div><br><div>or fir iyer apne land ko babita chut me dhire dhire khiskane lagta he or fir thire thire apne land ko babita ki chut me ander bahar karne lagta he ahhh ohhh ummm kar rahi thi babita or fir ek dum se iyer apna 10’3 ka bada land babita ki chutme bahut hi tezi se ander bahar kar raha tha</div><br><div> babita ki ankh me se aasu aa gaye the or vo roo rahi thi itna dard ho raha tha agggajhhhhhhhh plz iyueer dhirrreed ahh dhi aa ree plzzz. </div><br><div>Ahhhhhhho lekin manne vali baat thi dosto itna bada lund sirf babita hi le sakto thi ha ha ha. </div><br><div>Fir iyer zor zor se chudai kar raha tha puri room me thap thap ki awaze gunj rahi thi babita ki chut se ab khun bhi behne laga tha </div><br><div>lekin iyer rukne ko tyar nahi tha babita bahut hi zor zor se chilla rahi tji aaahhhh ahhhhh mmmmmnaaa mar gayiiiiiii aaahhh ummm </div><br><div>fir iyer apne jatko ko slow karta he tab jake babita ki jan me jan aati he or fir iyer apna lund chut se bahar nikalta he babita ki to aaz fat chuki thi uski chut ke chitjre chirthre nikal chuke the </div><br><div>or ab pata nahi ki iyer kya karne wala tha or fir iyer babita se kehta he ki babita DOGGY STYLE me ready ho jao aaj Aaj tumhari gand maruga </div><br><div>babita ki ankh me fir aasu aa jate he ki aaj ye faad hi dalega or fir babita doggy style me beth jati he or fir iyer uske piche khada ho jata he or apna land babita ki gand pe rakgta he or ander dalne ne ki koshis karta he per ander hi nahi jaa raha tha.</div><br><div>babita : plz iyer nahi ja raha to rehne do na</div><br><div>\n</div><div>Iyer : nahi aaj to isse nahi choduga</div><br><div>\n</div><div>Or gusse me ek jordar dhakka mar deta he or is dhakke ke sath awaz aati he kkkkaaatttttttt zi ha </div><br><div>ye iyer saab ka lund tutne ki awaz thi or vo bhi lagbhag 70% babita ke gandme tha or 30% bahar matlab babita ki gand me land fas gaya or jab ussne ye dhakka lagaya to babita ke to mano pran hi nikal gaye ho vo bahut hi zor se chillai aaaaaaaaaaaahhhhgggggggfghghhhhhhhhhhhyyhh </div><br><div>iyer kya kar rahe ho nikalo apne land ko meri gand me se plz bahut dard ho raha he plz .</div><br><div>lekin iyer karta bhi kya uska lund to tut chuka tha fir bhi uska kuch hissa babita ki gand ke bahar tha usko pakad kar khichta he per nahi nikalta babita ko sakh jata he or vo pichhe mudke dekhti he fo shockkkkk iyer ye tumhara nakli land tha or ab iss ture hue land ko nikalo plz meri gand me se</div><br><div> iyer bahut try kar raha tha per nahi nikal raha tha .</div><br><div>iyer : ab kya kare babita</div><br><div>\n</div><div>Babita bahut gusse me thi lekin kar bhi kya sakti thi or fir rone lagti he</div><br><div>\n</div><div>Iyer: idea dr.hathi ke pass chalte he</div><br><div>\n</div><div>Babita : no muje sharam aaegi</div><br><div>\n</div><div>Iyer : babita tumhare halat dekho tumhe bahut dard ho raha he plz chalo or iyer babita ko mana leta he or fir babita ko kapde pehnata he lekin kapdo Kapdo ke uper se bhi babita ki gand me fasa land dikh raha tha</div><br><div> babita bahut sharma rahi thi or phir vo chalti he to uski gand me bahut dard hota he iss liye vo apna pair fela kar chal rahi thi </div><br><div>or jese hi sidiya uter ti he to samne mehta saab ke ghar ke pass jethalal or tarak khade baat ker rahe the tabhi babita or iyer vaha se jaa rahe the tabhi jethala babita ko apne pair fela kr chalta dekh</div><br><div>\n</div><div>Jethalal : mehta saheb randi gand marwake ayi he lagta he</div><br><div>\n</div><div>Tarak : lekin iyer ki to takat nahi ki itni buri haalat kar sake babita ji ki chut or gand ka ki usko pair fela ker chalna pade</div><br><div>\n</div><div>Fir babita or iyer hathi bhai ko sab bate batate he or komal bhi vaha hoti he</div><br><div>\n</div><div>Hathi : lekin uske liye aap ko apni lengi utarni hogi or muje dikhana hoga ki kaha fasa he to me kuch bata saku </div><br><div>babita pehle naa kehti per usse dard bhi itna ho raha tha iyer ke samne dekha to iyer ne bhi hammi bhar di thi or komal ne bhi kaha ki sharmand ki koi bat nahi he fir babita apni lengi utart he or juk ke apni gand dr.hathi ki taraf kar deto he dr.hathi uski gand par ek marta he or hilata he or bhi kayi tarike aasmate he lekin nahi ho pata</div><br><div>\n</div><div>Hathi : ab to 1 hi rasta he ki plastic ke lund jitni size wala lund inki gand me dalo lund per plastic fit ho jayega or fir lund ko bahar nikalte hi plastic ka lund bhi bahar aa jayega babita majbur thi iss liye or idea bhi try kart he</div><br><div>komal : lekin itna bada land layege kaha se</div><br><div>\n</div><div>Or itne me bahar compund me babita ji ko hathi bhai ke vaha jate hue dekh jethalal Sabhi gokuldham valo ko ikathha karta he sivay sodhi ke abhi vo geraj se vaps nahi aaya tha or sab ko leke hathi bhai ke ghar chale jate he or darwaza khol ke babita ji ko gand dikhate dekh sabhi shockkkk ho jate he</div><br><div>\n</div><div>\n</div><div>Part 3 Coming Soon....</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-1y",
+          "_cid": "qxrp6sheYT",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>कृपया ad पर क्लिक कर दिजिये आपको सिर्फ 3 या 4 क्लिक ही करने हे<br><br>\n<div>\n</div><div>तो हमे स्टोरी लिखने में थोड़ा मजा आएगा और हम बेहतर स्टोरी दे पाएंगे</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-1z",
+          "_cid": "qxrshXkfR4",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2017-10-04-19h22m24s516-1080x1080.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-20",
+          "_cid": "qxrspcaJuw",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2017-10-04-09h16m08s768-1080x1080.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-21",
+          "_cid": "qxrspsBKIN",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
