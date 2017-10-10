@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Babita ji Big",
-    "currentPage": "index.html",
+    "currentPage": "page22.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.2.2",
-    "uniqCompNum": 78,
+    "uniqCompNum": 84,
     "versionPublish": "4.2.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -75,9 +75,9 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>&nbsp;[ 9 October 2017 ]<br><br><a href=\"page20.html\" class=\"text-black\">1 - Tapu &amp; Sonu Ne Madhvi Ko Choda (Popular)</a></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
-          "_anchor": "content9-23",
-          "_cid": "qxxartn27U",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>[ 10 October 2017 ]<br><br><a href=\"page22.html\" class=\"text-black\">1 - &nbsp;Anjali Ne Chacha ji Se Chudvaya ( On Demand )</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( Populer )</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-26",
+          "_cid": "qxEmysZmEK",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -161,7 +161,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Tapusena &amp; boobita",
-        "order": 19
+        "order": 21
       },
       "components": [
         {
@@ -192,7 +192,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Babita ji &amp; jethalal soda shop",
-        "order": 18
+        "order": 20
       },
       "components": [
         {
@@ -225,7 +225,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Babita - daya - anjali - rita",
-        "order": 17
+        "order": 19
       },
       "components": [
         {
@@ -258,7 +258,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Madhavi In Kitchen",
-        "order": 16
+        "order": 18
       },
       "components": [
         {
@@ -288,7 +288,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Tapu &amp; Madhvi",
-        "order": 15
+        "order": 17
       },
       "components": [
         {
@@ -321,7 +321,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Please Read This And Help Us",
-        "order": 14
+        "order": 16
       },
       "components": [
         {
@@ -477,7 +477,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Anjali &amp; Jetha",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -507,7 +507,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Madhvi &amp; Tapu",
-        "order": 12
+        "order": 14
       },
       "components": [
         {
@@ -716,7 +716,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Babita gangbang 1",
-        "order": 11
+        "order": 13
       },
       "components": [
         {
@@ -927,7 +927,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "daya or bapu ji &nbsp;jethalal",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -1057,7 +1057,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Tapu ne anjai ko choda",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -1340,7 +1340,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Gogi &amp; r1",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -1386,7 +1386,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Babita Ko Jetha or Tapu Ne Bahut Coda",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -1553,7 +1553,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "bb in gada",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -2036,7 +2036,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Daya or Popat",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -2082,7 +2082,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "madhvi or abdul",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -2128,7 +2128,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "iyer babita",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -2295,7 +2295,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "tp sonu club",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -2341,7 +2341,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "tsm",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -2376,6 +2376,182 @@
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>BHIDE ACHAR PAPAD KI DELIVERY DENE GAYA THA AUR SONU SOFE PAR KE NICHE BAITH KAR APNE BAL ME TEL LAGWA RHI THI MADHAVI SE <br><br>MADAHVI SOFE KE UPAR BAITHI THI JAISA AAP SERIAL ME DEKHTE HO<br><br>\n<div>(ITNE ME TAPU ENTRY LETA HAI)</div><br><div>\n</div><div>TAPU-GOOD MORNING SONU GOOD MORNING MADHAVI AUNTY</div><div><br></div><div>TAPU - CHAL SONU NICHE KHELNE CHALTE HAI</div><br><div>\n</div><div>(AUR TAPU KI NAZAR MADHAVI PAR PADTI HAI JISKE MAST CELVEG DIKH RHERHE)</div><br><div>\n</div><div>(TAPU KA LUND KHADA HOJATA HAI)</div><br><div>\n</div><div>(MADHAVI YE SAB NOTICE KRLETI HAI)</div><br><div>\n</div><div>MADHAVI&nbsp;<span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">- ARE BETA USKE BAAL ME ARAM SE TEL LAGA DU TUM BEITHO.</span></div><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\"><br></span></div><div>SONU - HAN TAPU BAITH NA</div><br><div>\n</div><div>TAPU MADHAVI KE BAGAL ME JHATKE SE BAITHTA HAI JISSE TAPPU KI KIWNI SE MADHAVI KA BOOBS TOUCH HONE LAGTA HAI</div><br><div> AUR TAPU KO MAZA MILTA HAI MADHAVI YE SAB MEHSUS KRRHI THI</div><br><div>\n</div><div>\n</div><div>(TAPU SONU SE BOLTA HAI)\n</div><div>TAPU-SONU TU AB BDI HOGYI HAI KHUDSE TEL NAHI LAGA SAKTI</div><br><div>\n</div><div>SONU-ARE TAPU YE MERI AYII KA PYAR HAI</div><br><div>\n</div><div>(TAPU KHUSH HOTE HUE)</div><br><div>\n</div><div>TAPU - TO MADHAVI AUNTY AP MUJHE PYAR NAHI KROGI</div><br><div>\n</div><div>(MADHAVI THODA SHOCKED HOTE HUE)</div><br><div>\n</div><div>MADHAVI - MATLAB BETA\n</div><div>TAPU - MATLAB AP MERE BAAL ME TEL NAHI LAGAOGI</div><br><div>\n</div><div>MADHAVI - ARE KYU NAHI BETA AA BAITHJA</div><br><div>\n</div><div>(TAPU NICHE SONU KE BAGAL ME BAITH JATA HAI OR MADHAVI DONO KE BALO ME TEL LGA RHI THI JISSE TAPU KO MZA ARA THA)</div><br><div>\n</div><div>TAPU-WOW MADHAVI AUNTY BHT MZA ARA HAI</div><br><div>\n</div><div>MADAHVI-HAAN BETA</div><br><div>\n</div><div>(MADHAVI DONO KO TEL LAGADETI HAI OR BOLTI HAI).</div><br><div>\n</div><div>MADAHVI - CHALO MALISH HOGYI BACHO JAO AB KHELO</div><br><div>\n</div><div>(TAPU JHATKE SE UTHA HAI AUR MADAHVI KE UPAR GIR JATA HAI JISSE MADHAVI KE BOOBS DAB JATE HAI)</div><br><div>\n</div><div>MADHAVI-AHHHHHHHHHHH(DARDSE)</div><br><div>\n</div><div>(TAPU JALDI SE HATTA HAI MADHAVI KE UPAR SE OR MANME KHUSH HOTA HAI)</div><br><div>\n</div><div>TAPU - SORRY MADHAVI AUNTY</div><br><div>\n</div><div>MADHAVI - KOI BAAT NAHI BETA\n</div><div><br></div><div>(TAPU MADHAVI KE BOOBS KI TRF GHOOR KE DEKHTA HAI JISE SONU NOTICE KARLETI HAI)</div><br><div>\n</div><div>SONU - KYA DEKHRA HAI TAPU</div><br><div>\n</div><div>TAPU-KUCH NAHI KUCH NAHI\n</div><div><br></div><div>(SONU HASTE HUE TU MERI AAYI KE BOOBS DEKHRA THA NA )</div><br><div>\n</div><div>TAPU - NAHI SONU PAGAL HAI KYA</div><br><div>\n</div><div>SONU - ARE TAPU ISE DABANA CHEGA</div><br><div>\n</div><div>TAPU - ARE NAHI SONU TU KYA BOLRHI HAI</div><br><div>\n</div><div>(MADHAVI DONO KI BAATSUNKE HASRHI THI)</div><br><div>SONU - ARE TAPU SHARMA MAT MAIN AUR AAYI BHT BAAR LESBIAN KRCHUKE HAI </div><br><div>BABA KUCH KARNAHI PATE TO AAYI AUR MAIN LESBIAN KARTE HAI</div><br><div>\n</div><div>(TAPU SHOCKED HOJATA HAI AUR KHUSHBHI)</div><br><div>\n</div><div>MADHAVI - HAAN BETA PIYEGA MERA DOODH</div><br><div>\n</div><div>(MADHAVI TAPU KO APNE TRF KHICHLETI HAI)</div><br><div>\n</div><div>(TAPU SHARMA RHA THA OR KHUSHBHI BHT HORA THA)</div><br><div>\n</div><div>(TAPU MADHAVI KE BOOBS PE HATH RAKHTA HAI AUR DABANE LAGTA HAI)</div><br><div>\n</div><div>MADHAVI-AHHHH AHHHHH AHHHH</div><br><div>\n</div><div>(SONU AGE BADTI HAI AUR TAPU KA LUND PAINT KE UPAR SE SEHLANE LAGTI HAI)</div><br><div>\n</div><div>SONU - TAPU TERA LUND TO KAFI BADA HAI</div><br><div>\n</div><div>(AUR PAINT KE BAHAR NIKALKE CHUSNA SURU KAR DETI HAI)</div><br><div>\n</div><div>(OR TAPU MADHAVI KI SARI UTARDETA HAI OR MADHAVI KA NIPPELE CHUSNE LAGTA HAI JISSE MADHAVI KO MZA ARA THA OR WO SHISHAK RHI THI)</div><br><div>\n</div><div>MADHAVI - AHHHHHH AHHHHH AHHHH TAPUUUUUUU AHHHH CHUS BETA KHA JA MERA DOODH PIJA PURA AHHHHH NICHOD DALL AHHHH KHALI KARDE PURA AHHHHHH</div><br><div>\n</div><div>(FIR TAPU BOOBS SE MUH HATAKE MADHAVI KE HOTH PE APNA HOTH RAKHDETA HAI AUR KISS KARNE HAI)</div><br><div>\n</div><div>(SONU LAGATAR LUND CHUSRHI THI JISSE AB TAPU JHADNE WALA THA)</div><br><div>\n</div><div>TAPU - SONU MAIN JHADNE WALA HUN</div><br><div>\n</div><div>SONU - TAPU TU MERE MUH ME UNDEL DE APNA PURA JOOS</div><br><div>\n</div><div>(TAPU PURA JOOS SONU KE MUHH ME GIRA DETA HAI OR MADHAVI SE ALAG HOKE SOFE PARGIRJATA HAI)</div><br><div>\n</div><div>MADHAVI - TAPU TERA LUND BHT CHOTA HAI LA MAIN KHADA KARTI HU</div><br><div>\n</div><div>TAPU - OK MADHAVI AUNTY</div><br><div>\n</div><div>(OR SONU SOFE PAR BAITH JATI HAI OR TAPU KO KISS KARNE LAGTI HAI OR IDHAR MADHAVI TAPU KAUND CHUSNE LAGTI HAI)</div><br><div>\n</div><div>(TAPU KA LUND PURA KHADA HOJATA HAI)</div><br><div>\n</div><div>TAPU - HAN TO PAHELE KON ANDAR LEGA</div><br><div>\n</div><div>MDHAVI - MAIN</div><br><div>\n</div><div>(TAPU UTHTA HAI SOFE SE OR MADHAVI KO SOFE PAR JHUKATA HAI OR MDHVI KI CHUT PE LUND SET KARTA HAI OR EK JHATKE ME ANDAR DALDETA HAI)</div><br><div>\n</div><div>MADHAVI-AHHHHHHHHHHHHHHHHHHHHHHHH TAPU BETAAAAAA ARAM SE KAR AHHH</div><br><div>\n</div><div>(SONU SOFE PE BAITHI THI TO WO MADHAVI KE BOOBS CHUS RHI THI)</div><br><div>\n</div><div>(MADHAVI KO DUBLE MZA MILRHA THA)</div><br><div>\n</div><div>(TAPU LAGATAR DHAKKE LGA RHA THA)</div><br><div>\n</div><div>MDHVI-AHHHHH AHHHH AHHHHH OUCHHHHH. AHHHHH TAPUUUUU&nbsp;</div><div><br></div><div>TAPU-MAAAADHAAAVIIIII AUNTYYY AJJ MAINMMNNNN APKI CHUTTTT KA KACHUMAR. BANA DUNGAAAAAA</div><br><div>\n</div><div>MADHAVI-TAPUUUUUUU MAIN JHARNE WALI HUNNNNNN AHHHHHH</div><br><div>\n</div><div>(OR CHILLATE HUE MADHAVI JHADJATI HAIII)</div><br><div>\n</div><div>MDHVI-AHHHHH MAIN TO GYIIIIIII</div><br><div>\n</div><div>(MDHVI SIDE ME BAITH JATI HAI)</div><br><div>\n</div><div>(AB SONU KI BARII ATI HAI)</div><br><div>\n</div><div>\n</div><div>\n</div><div>SONU - TAPU CHAL AB MERI CHUT KO FAAD DE CHOD DAL MUJHE</div><br><div>\n</div><div>TAPU-ARE MERI JAAN LAGAD DUNGA EKDM TUJHE</div><br><div>\n</div><div>(SONU SOFE PE JHUK JATI HAI OR TAPU SONU KI CHUT PE LUND SET KARTA HAI OR ADHA LUND DALDETA HAI)</div><br><div>\n</div><div>SONU-AHHHH TAPUUUU ARAM SE DAL BHT DARD KARRA HAI</div><br><div>\n</div><div>(TAPU NA SUNTE HUE EK JORDAAR JHATKA MARTA HAI AUR LUND PURA ANDAR THEL DETA HAI JISSE SONU CHILLA UTTHI HAI)</div><br><div>\n</div><div>SONU - AHHHHHHHHH AHHHHHHH TAPUUUU BHT DARD KARRA AHHHHHH</div><br><div>\n</div><div>TAPU - ARE MERI JAAN THODA DARD HOGA BADME MZA AYGA</div><br><div> TUJHE KYA CHUT HAI TERI</div><br><div>\n</div><div>(OR TAPU JORDAAR DHAKKE LAGANA SURU KARDETA HAI OR MADHAVI TAPU SE BOLTI HAI)</div><br><div>\n</div><div>MADHAVI - TAPU BETA MAIN JARA NAHANE JA RAHI HU TU ARAM SE CHOD SONU KO MAIN ATI HUN</div><br><div>\n</div><div>TAPU - OK MADHAAAVIII AUNTYYY</div><br><div>\n</div><div>(TAPU SONU KE CHUT SE LUND NIKALTA HAI OR HATHKE WO SOFE PE BAITHJATA HAI OR SONU KO USPER BAITHNE KE LIYE BOLTA HAI)</div><br><div>\n</div><div>TAPU - CHALL MERI RAAND BAITHJA ISPER</div><br><div>\n</div><div>SONU - OK TAPUU</div><br><div>\n</div><div>(SONU LUND PE BAITHJATI HAI OR UPAR NICHE HONE LAGTI OR CHILLA RHI THI)</div><br><div>\n</div><div>SONU-AHHHHHHH AHHHHHHH AHHHHHHH AHHHHHH TAPUUUUU FUCKKK ME AHHHHHHH</div><br><div>\n</div><div>(IS TIME PURE ME BAS FACHH FACHHHH KI AWAZ ARHI THI)</div><br><div>\n</div><div>(SONU TAPU SE BOLTI HAI)</div><br><div>\n</div><div>SONU - TAPUUUUUH MAIN JHADNE WALIIIIIII HUNNNNN AHHHHH AHHHH OHHHH ISSSSSS</div><br><div>\n</div><div>(OR SONU JHAD JATI HAI OR TAPU LUND NIKALKE SONU KE HATH ME THAMA DETA HAI JISSE SONU HILANE LAGTI HAI)</div><br><div>\n</div><div>TAPU - SONU BAS NIKALNE WALA HAI MERA JOOS PIJA ISEHHHHHH</div><br><div>\n</div><div>(SONU LUND HILATI RHETI OR EK JORDAR PICHKARI SONU KE MUHH PAR PADTI HAI JISSE SONU KE PURE MUH PE SPERM FAIL JATA HAI OR SONU USE CHATNE LAGTI HAI JUBAN NIKAL)</div><br><div>\n</div><div>(FIR TAPU APNI PAINT PAHENTA HAI OR SONU KO BYE BOLKE APNE GHAR CHLA JATA OR SONU WAISE HI UTHKE NAHANE CHALI JATI HAI)</div><br><div>\n</div><div>Populer series Babita ji Gangbang Part - 3 Coming soon ...&nbsp;</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-25",
           "_cid": "qxxaOfZvyH",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page21.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "bb popat",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>ladies ki tea party hoti hai,<br><br>sari ladies aati hain sab ladies ek doosre ko hug karti hain.<br><br><div>daya: o ho kaise ho sab </div><br><div>sab kehte ki hum bhadiya hai</div><br><div>Anjali : Aaj Tea Party Ka Topic He Sabse Achi Sex Life Kiski He.</div><br><div>\n</div><div>babita: Ha yar ye batao hamme se sabse badiya sex life kis ki hai</div><br><div>\n</div><div>madhvi: mere hisaab se to roshan bhabhi ki</div><br><div>\n</div><div>roshan: chal ni nahi aisa kuch nahi<span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">he baaba</span></div><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\"><br></span></div><div>mdhavi: Are sodhi bhai to aap pe jaan chidakte hain aapke liye to unk 24 ghante land khada rehta hoga aur appke boobs bhi itne bade ho gaye hain</div><br><div>\n</div><div>madhavi fir roshan ke boobe pakad ke unhe hilane lagi aur roshan sharama jati hai.</div><br><div>\n</div><div>babita: mere hisaab se to daya bhabhi ki hai kyuki jetha ji to hamesha maze wale mood me hote hain mtlb hafte me aap ko 2-3 bar to chodte hi honge aur blowjob to roz</div><br><div>\n</div><div>daya: haan (sharmate huye) ab kya bataun</div><br><div>\n</div><div>babita: wese sabse worse sex life kiski hogi</div><br><div>\n</div><div>madhavi: ye bhi koi puchne wali baat hai aapki hai</div><br><div>\n</div><div>babita:kya aur aapko aisa kyun lagta hai</div><br><div>\n</div><div>madhavi: iyer to hai hi kale kalute scientist admi lab me hi pura din rehte aur napunsak hai tabhi to hum sab ke bache hai par aapke nahi aur anjali ke bhi to nahi</div><br><div>\n</div><div>anjali or babita gusse me kya bol rahe ho aap</div><br><div>\n</div><div>daya: are ladai chodo lekin society ke sab gents ke paas sex karne ke liye koi na koi hai par popat bhai ke paas to ki nahi hai</div><br><div> unki shadi hui nahi aur wo hai bhi bade chutiya he unki to koi gf bhi nahi hai</div><br><div>\n</div><div>madhavi: are wo apne chate ko gand me daal ke khush rehte hain</div><br><div>\n</div><div>Babita to iyer ke chote lund se pareshan ho gyi thi to vo sochti he ki muje popatlal se chudwana chahiye or babita ye sabko batati he.</div><br><div>\n</div><div>daya: nahi nahi are popat bhai sukde se hain unka land bhi patla sa chota sa hoga</div><br><div>\n</div><div>anjali: haan machis ki tilli bhi unke land se badi hogi</div><br><div>Chote Lund Ki Bat Sunke Babita ko bhi Lagta Hai Isse Acha to me Fingering Karlungi.</div><br><div>\n</div><div>daya aur anjali to saaf mana kar dete hain aur baki ladies bhi mana kar detihai&nbsp;</div><br><div>Or Sab Apne House Me Chale ja te he.</div><br><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">Fir shaam ko Babita naha ke shirt aur shorts pehen ke TV Dekh rhi thi tabhi ek bahut hi hot scene aaya jisse babita ko chodne ka man ho gaya</span></div><br><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">Or Babita Sochti he Ki Popatbhai Ka Iyer Se To Bada Hoga To Wo Popat Ke Ghar Jati He</span></div><br><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">aur Boobita ne </span><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">apne shirt ke 2 button bhi khol rakhe the aur bra bhi nahi pehni thi uske boobe saaf dikh rahe the</span><br></div><br><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">Fir Popat Ke Gharka Bell Bajati he </span></div><br><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">aur popat darwaza kholta yeh nazara dekh ke hi uske tote ud gaye babita ne use dekh ke bola</span></div><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\"><br></span></div><div>babita: haaiiiiii popatlaaaaal jiiii keseee hoooo aaaaaaaaaaaahhhp?</div><br><div>\n</div><div>popatlal ki to yeh dekh ke tension tight ho gayi</div><br><div>\n</div><div>popatlal:bbbbbbbbaaaabbbbbiitttaaaaa jjjjiiii aaappp yahaan aa a&nbsp;</div><div><br></div><div>popat hakla raha tha use samajh nahi aa raha tha ki kya bolun mein vese isme galti popat ki bhi nahi<span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">&nbsp;thi - bhai jisne kabhi dal nahi khaye ho uske saamne sidha makkhan rakh do to wo pagal hi ho aye ga</span></div><br><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">Popatlal : hi</span></div><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\"><br></span></div><div>babita: mein andar aa sakti hoon</div><br><div>\n</div><div>popat:aayiye andar</div><br><div>\n</div><div>babita beth jaati h sofe</div><br><div> \n</div><div>pepopat:aap kya lengi garam ya thanda</div><br><div>\n</div><div>babita:danda,mein loongi apke danda</div><br><div>\n</div><div>popat: matlab</div><br><div>\n</div><div>popat dara hua hota hai aur kitchen ki taraf jaane hi lagta ki babita uska hath pakad use rok leti hai aur uske land ko chuti hai</div><br><div> uska land pura hard hota hai </div><br><div>fir Boobita khadi hoke use forcefully kiss karti hai&nbsp;</div><br><div>Babita Pure Wild Mud Me thi</div><br><div>popat ko to yakeen hi nahi ho raha hota hai ki babita usse kiss kar rahi hai wo bhi forcefully</div><br><div> popat ke sath na aisa hua tha aur na aage jake kabhi ho payega </div><br><div>fir wo thodi der smooch karte hain aur babita popat ka shirt fad deti hai uske upper body ko kiss karti hai kuch jagah kaat bhi leti hai fir babita apna shirt utar ti hai</div><br><div> \n</div><div>aur popat ka muh zabardasti apne boobe pe lagati hai or popat ke muh ko apne boobs ke bhich me dabati hai.</div><div><br></div><div> babita ji to jese madhosh ho chuki hoti hain</div><br><div>fir babita apne gore gore nipal ko popat se chusvati hai aahh kya</div><div>chusne ka scene tha mja hi aagya.</div><br><div> \n</div><div>fir babita bolti hai ki chalo ab apna lund do muje or popatlal jaise hi apna lund bahar nikal ta hai babita shocked.</div><br><div>babita : are popatbhai aapka itna bada hai mene to kabhi socha nahi tha.</div><br><div>or itna bada lund dekhke babita sidha popat ko bed pe dhaka marti hai or popat ka lund chusti hai&nbsp;</div><br><div>popat : babita ji kya lund chusti ho aap ahhhh maja hi aa gya.</div><br><div>fir babita popat ke sath 69 position me apni chut ko chatva rhi thi or papat ka lund chus rahi thi.</div><div><br></div><br><div><br></div><div><br></div><div><br></div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-27",
+          "_cid": "qxEmR4EBaY",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page22.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "c anjali",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>दोस्तों अब हर दो दिन में नई स्टोरी आएगी और बहुत अछि स्टोरी आएगी<br> <br>पर आप लोग वो निचे ad पे क्लिक कीजिये आपको 2  या 3 क्लिक करने हे रोज़ &nbsp;<br><div><br></div><br><div>Jetha, Daya Or Tapu Ahmedabad Jane Vale The to daya anjali ko bolti he ki bapuji aaj aapke yaha so jayenge.</div><br><div>\n</div><div>\n</div><div>Or For Sab Ahmedabad Ke Liye Nikalte Hai Or Daya Kehti He</div><div><br></div><div>\n</div><div>\n</div><div><span style=\"font-size: calc(1.175rem + (0.325 * ((100vw - 20rem) / 28)));\">bapuji maine anjali bhabhi ko sab bata diya hai aap wahin par araam se rehna….</span><br></div><br><div>\n</div><div>\n</div><div>Champak- tu fikar mat kar bahu main araam se reh lunga…bas tum log sambhal kar jana aur pohchte hi phone karna…</div><div><br></div><div>\n</div><div>\n</div><div>phir taxi lekar oh log nikal jate hain…</div><br><div>\n</div><div>\n</div><div>Raat men ab champaklal mehta ke ghar par tha…</div><br><div>woh aur mehta batien kar rahe the…aur anjali juice lane gayi hui thi dono ke liye…anjali ki sex life kuch khas nahi thi kyunke tarak apne kaam men utna busy rehta tha…pichle kafi dinon se dono ne chudai bhi nahi ki thi…</div><br><div>toh ek tarha se anjali sex ke liye bohat pyasi thi….</div><br><div>aaj anjali ne ek tight salwar kameez pehna tha deep neck wala…ghar men rehne ki waja se usne skarf bhi nahi liya tha…uski thighs us tight salwar men shape men dikh rahi thi….</div><br><div>\n</div><div>\n</div><div>batien karte waqt anjali ab juice leke ajati hai aur jaise hi rakhne ke liye jhukti hai to uske chuche us deep neck kameez men se saaf dikhne lagte hain aur usne pehni hui black bra bhi…</div><br><div>champaklal anjali ke chuche dekhte hi hakka bakka reh jata hai aur uska lund bhi khada hojata hai…</div><br><div>woh chuchon ki taraf hi ghurte rehta hai jise anjali ne dekh liya tha lekin oh samjhti hai ke oh juice ki taraf dekh raha hai isliye nazar andaz karti hai…</div><br><div>phir dono ko juice deti hai aur tray rakhke wahin par baith jati hai…phir oh log batien karte hain…</div><br><div>thodi der baad dinner ka time hojata hai aur sab log dinning table par khana khane baith jate hain….</div><br><div>ab tak anjali ne night shirt aur pant pehen liya tha…usne panty nahi pehni thi andar….</div><br><div>a<span style=\"font-size: 1.5rem;\">b oh sab khane ke liye baithe hue the..</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div><span style=\"font-size: 1.5rem;\">chamapklal ke man men anjali ke chuchon ka nazar ghum raha tha…itne saal baad uska lund kisi ko dekh kar khada hua tha…</span></div><br><div><span style=\"font-size: 1.5rem;\">ab bhi oh khate waqt anjali ke chuche ghur raha tha jo us night suit men aur bade lag rahe the…</span></div><br><div><span style=\"font-size: 1.5rem;\">tabhi champaklal ka spoon uski dhoti par gir jata hai jiski waja se uski dhoti par daag lagta hai…tabhi anjali udar ajati hai aur…</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>Anjali- arey chachaji rukiye main saaf kar deti hun…champak…arey koi baat nahi anjali beta main saaf karlunga…</div><br><div>\n</div><div>\n</div><div>Anjali- main kar deti hun chachaji…</div><br><div>\n</div><div>\n</div><div>phir oh ek kapda lekar ati hai aur dhoti saaf karne lagti hai upar se….</div><br><div><span style=\"font-size: 1.5rem;\">achanak se anjali ka hath champaklal ke lund se lag jata hai jo abhi pura khada tha toh anjali ek dum se apna hath wapas kar leti hai….</span></div><br><div><span style=\"font-size: 1.5rem;\">champaklal to anjali ka hath lagte hi ek dum uchal padta hai…phir anjali saaf kar Deti hai aur phir oh log khana khane lagte hain…tabhi champakal ko ek idea ata hai toh oh…</span></div><div><span style=\"font-size: 1.5rem;\"><br></span></div><div>\n</div><div>Champak- anjali beta thoda pani dena…</div><br><div>\n</div><div>\n</div><div>Anjali- han abhi deti hun…</div><br><div>\n</div><div>\n</div><div>oh jhuk kar glass men pani bharne lagti hai jiski waja se badi cleavage champaklal ke samne ajati hai…</div><br><div>ab woh table ke niche se apna lund masalne lagta hai…usse control nahi horha tha toh oh ab apna lund dhoti se bahar nikal leta hai </div><br><div>tarak se chupate hue aur masalne lagta hai pakad ke anjali ke taraf dekh kar…phir anjali wapas baith jati hai…</div><br><div>champklal bas anjali ko dekhte hue apna lund niche se masal raha tha…usko khayal hi nahi tha dusra….tabhi anjali ke hathon se spoon table ke niche gir jata hai use uthane ke liye oh table ke niche jati hai tabhi uski nazar champakal ki taraf jati hai…uska lund dekh kar anjali ko ek dum shock hojati hai </div><br><div>aur upar se oh lund masal raha tha…anjali thodi der chmapklal ko apna lund masalte hue dekhte rehti hai….anjali ko sharam arhi thi lekin kuch der tak oh champak ka lund dekhte rehti hai….tabhi…</div><br><div>\n</div><div>\n</div><div>Tarak- anjali kahan chali gayi!</div><br><div>\n</div><div>\n</div><div>Tabhi anjali ko hosh ata hai…aur table ke bahar ajati hai…usko champaklal se nazar milane men sharam arhi thi </div><br><div>kyunke abhi abhi usne uske champak chachaji ka lund dekha tha…ab usko ahsas hota hai ke chamapklal usko ghur raha hai aur samjh jati hai ke oh kiske bare men sochkar apna lund masal raha hai….</div><br><div>\n</div><div>\n</div><div>Anjali-(sochte hue) ye chachaji mujhe ghur kyun rahe hain!! Niche maine jo bhi dekha oh sabbb!! Chii main ye sab kya soch rahi hun…</div><br><div>\n</div><div>\n</div><div>phir sabka khana khake hojata hai aur phir sone chale jate hain…</div><br><div>champaklal alag room men sone chala jata hai…</div><br><div>lekin tarak ko abhi bhi article likhna tha to oh bahar hall men hi baithta hai…anjali apne bedroom men chali jati hai…lekin idar champaklal ke man men to sirf anjali ke chuche hi arhe the…</div><br><div>use nind arhi thi aur room men bed par let kar apna lund masal raha tha….lekin tabhi use kuch sujhta hai…oh ab anjali ke room ki taraf jata hai….anjali ne room thoda khula rakha tha taki tarak badmen aske isliye…</div><br><div>\n</div><div>\n</div><div>champklal jab andar dekhta hai toh shock hojata hai kyunke anjali apni night pant niche karke apni chut men ungli kar rahi thi…!!* </div><br><div>Andar ka scene dekhte hi champak ka lund khada hojata hai…aur masalne lag jata hai…anjali ne apni ankhen band kar rakhin thi isliye usko pata nahi chal paya tha ke champaklal usko is halath men dekh raha hai…</div><br><div>\n</div><div>\n</div><div>Champak-(sochte hue) lagta hai anjali beti ko mehtus santusht nahi karta sahi se…karega bhi kaise kaam me busy rehta hai…lekin tum fikar mat kar anjali beti main tujhe santusht karunga na….</div><br><div>\n</div><div>\n</div><div>anjali ankhen band kiye hue apni chut men ungli kiye jarhi thi…lekin ab champaklal se raha nahi jarha tha toh oh ab andar chala jata hai…aur apni dhoti nikal deta hai aur niche se bilkul nanga hojata hai….</div><br><div>ab woh anjali ke paas jata hai aur anjali ka hath jo uski chut men ungli kar raha tha use side karta hai aur apna mun chut par rakh deta hai….anjali exitment me samjhti hai ke tarak hai….</div><br><div>\n</div><div>\n</div><div>champaklal bade hi maze se ab anjali ki chut chatne lagta hai…</div><br><div>anjali apni sex ki bhuk men ye nahi janti thi ke tarak nahi uske champak chachaji uski chut chat rahe hain!! </div><br><div>Ab champaklal apna hath anjali ke chuchon par lejata hai aur dabane lagta hai…ab anjali ko dugna maza arha tha…champaklal sath men apna lund pakad ke hila raha tha…</div><br><div>\n</div><div>\n</div><div>idar tarak bahar hall men article likh raha tha is baat se bekhbra ki uski wife budhe ke sath anjane men maze kar rahi hai….</div><br><div>\n</div><div>\n</div><div>idar room men ab champaklal apna muh chut par se nikal kar apni ek ungli ghusa deta hai aur andar bahar karne lagta hai…anjali maze men…</div><br><div>\n</div><div>\n</div><div>Anjali- ahhhhhhh ahhhhhh.</div><br><div>\n</div><div>\n</div><div>tabhi anjali champaklal ke sar par hath ghumati hai lekin anjali ko sar ko hath lagate hi jhatka lagta hai…</div><br><div>kyunke champaklal ke baal thode kam the lekin tarak ke waise nahi thi…</div><br><div>anjali ek dum se ankh kholti hai toh champaklal ka hath apni chut men dekh kar chaunk jati hai…</div><br><div>\n</div><div>\n</div><div>Anjali-(man men) chachajiiii!!!! Ye sab!! Mujhe ye rokne hoga….</div><br><div>\n</div><div>\n</div><div>Anjali- chachaji!! Ye aap kya kar rahe hain!!</div><br><div>\n</div><div>\n</div><div>Ek baar ke liye champaklal bhi dar jata hai lekin oh ungli chut men andar bahar karte rehta hai….</div><br><div>\n</div><div>\n</div><div>Champaklal- main janta hun anjali beta mehtus terko santusht nahi karta…tu fikar mat kar main hun na…</div><div><br></div><div>\n</div><div>\n</div><div>Anjali- ye aap kya bol rahe hain chachaji!! Aisa kuch bhi nahi hai… Ungli nikaliye udar seee ahhhhhhh….</div><br><div>\n</div><div>\n</div><div>lekin champaklal apni ungli andar bahar karte rehta hai….anjali ab champak ka hath pakad ke hathane ki koshish karti hai leikn oh nahi hatata…</div><br><div>\n</div><div>\n</div><div>Anjali- pls chachaji aisa mat kijye ye galat hai….</div><br><div>\n</div><div>\n</div><div>Champak- kuch galat nahi hai anjali beta tu bas maze kar….</div><br><div>\n</div><div>\n</div><div>Anjali- chiii ye aap kya bol rahe hain chachajiii plsssss aisa mat kijye tarak bahar hai!!</div><br><div>\n</div><div>\n</div><div>Thodi der baad ungli karne ke bad ab champak khada hojata hai aur anjali ke upar chad jata hai…</div><br><div>anjali dekh rahi thi ke champaklal ka lund latak raha hai…jise dekh kar usko sharm arhi thi…</div><br><div>halaki woh champaklal ka lund table ke niche se dekh chuki thi..</div><br><div>champak anjali ke upar chad jata hai…ab uska lund anjali ko apni chut men lagne lagta hai…kal tak jisko chachaji bolkar izzat deti thi aaj wahi usko chodne wala tha…</div><br><div>lund chut par lagte hi anjali champaklal ko apne upar se hathane lagti hai lekik nakamiyab rehti hai…</div><br><div>ab champak apna lund set karta hai anjali ki chut par ragdne lagta hai wahin par….anjali ko na chahte hue bhi apne upar se control nahi horha tha….</div><br><div>\n</div><div>\n</div><div>Anjali- nahiiii chachajiiii plsssss aysaaa mat kijyeeer ye galattt hai…..</div><br><div>\n</div><div>\n</div><div>lekin budha kahan sunne wala tha oh to satya gaya tha….ab champaklal ek dhakka marta hai…uska thoda lund andar ghus jata hai…anjali chillane hi wali thi ke champak uske mun par hath rakh deta hai…</div><br><div>\n</div><div>\n</div><div>Anjali- mmmmm ankhen badi karte hue…</div><br><div>\n</div><div>\n</div><div>mat karne ka ishara karti hai…lekin champaklal anjai ko has kar dikhata hai..aur phir ek dhakka marta hai ab uska lund adha chut men ghus jata hai…</div><br><div>\n</div><div>\n</div><div>Anjali- mmmmm dard men mmmmmmmmm mmmmmmmmm</div><br><div>\n</div><div>\n</div><div>ab champak lund andar bahar karne lagta hai….anjali idar udar hil rahi thi…oh virodh kar rahi thi lekin uska kuch bhi asar champak par nahi horha tha….</div><br><div>\n</div><div>\n</div><div>Champak-(man men) eh zyada der virodh nahi karegi…waise bhi ye mehtus ko waise bhi awaz nahi deni wali…izzat ka jo sawal hai..</div><br><div>\n</div><div>\n</div><div>ab champak apna hath hata deta hai….</div><br><div>\n</div><div>\n</div><div>Anjali- ahhhhhhh chachajiiiiiiiiii</div><br><div>\n</div><div>\n</div><div>oh slowly chillati hai…oh lund andar bahar kar raha tha….</div><br><div>\n</div><div>\n</div><div>Anjali- ahhhh plsssss chachajiiii ahhhhhh ahhhhhhhh ahhhhhhh ahhhhh….</div><br><div>\n</div><div>\n</div><div>anjali champaklal ko piche dhakelne ki koshish kar rahi thi lekin usse nahi horha tha…thodi der usi position men chodne ke bad ab champaklal apna lund bahar nikal leta hai…anjali waise hi padi rehti hai kyunk usko pata tha ke budhe ne uske sath sab kuch kar chuka hai….</div><br><div>\n</div><div>\n</div><div>ab champaklal bed par se anjali ko uthata hai aur doggy position men rakhta hai khade..ab oh lund piche se gand men ghusane lagta hai…gand men lund lagne se anjali….</div><br><div>\n</div><div>\n</div><div>Anjali- plssss nahiiii chachajiiiiiiii ahhhh naiiii aisa mat kijyeeee ahhhhh…</div><br><div>\n</div><div>\n</div><div>ab oh lund ghusa deta hai andar….ab oh dhire dhire lund andar bahar karne lagta hai…</div><br><div>\n</div><div>\n</div><div>Anjali- ahhhhhhhhhh ahhhh chachajiiiiii ahhhhhhh ahhhh aisaaa mattt kijyeeee ahhhhhhh ahhhhh\n</div><div>\n</div><div>us position men anjali ke chuche chudai ki waja se hil rahe the age piche…</div><br><div>\n</div><div>\n</div><div>kafi hot scene tha…pati bahar kaam kar raha hai aur wife yahan bedroom men ek budhe se chud rahi hai….</div><br><div>\n</div><div>\n</div><div>chudai ho hi rahi thi ke bahar se tarak…</div><br><div>\n</div><div>\n</div><div>Tarak- anjali sogyi kyaa…</div><br><div>\n</div><div>\n</div><div>tarak ki awaz sunkar anjali aur champaklal dar jate hain…ab anjali champak ko piche karti hai hath se toh champaklal apna lund bahar nikal leta hai…</div><br><div>\n</div><div>\n</div><div>Anjali- chachaji plsss jaldi se bathroom men jayiye…</div><br><div>\n</div><div>\n</div><div>phir champaklal chala jata hai bedroom ke bathroom men chala jata hai…anjali bhi adh nangi halath men thi toh oh bhi bathroom men ghus jati hai…ab tarak andar ata hai…</div><br><div>\n</div><div>\n</div><div>Tarak- kahan ho anjali?</div><br><div>\n</div><div>\n</div><div>Anjali bathroom men se….</div><br><div>\n</div><div>\n</div><div>Anjali- main yahan hun tarak…</div><br><div>\n</div><div>\n</div><div>Tarak- bathroom men kya kar rahi ho tum?</div><br><div>\n</div><div>\n</div><div>Anjali- naha rahi hun tarak..</div><br><div>\n</div><div>\n</div><div>Tarak- itni raat kon nahata hai…</div><br><div>\n</div><div>\n</div><div>Anjali- kyun nahi tarak….</div><br><div>\n</div><div>\n</div><div>Tarak- thik hai baba jaldi naha lo…</div><br><div>\n</div><div>\n</div><div>idar ab chmpaklal anjali ko piche se pakad leta hai….</div><br><div>\n</div><div>\n</div><div>Anjali- chodiye chachajiiii…</div><br><div>\n</div><div>\n</div><div>oh slow bolti hai kyunke tarak room men tha…champaklal ab lund Anjali ki gand men ghusat hai…</div><br><div>anjali na chilla paye isliye champak uska mun band karta hai…ab oh anjali ko apne lund par age piche karne lagta hai…thodi der baad oh muh par se hath nikalta hai kyunke ab anjali ne virodh karna band kar diya tha…itni der chudai ke bad anjali ko bhi maza ane laga tha…</div><br><div>\n</div><div>\n</div><div>Anjali- ahhhhhhhhhhhhhhhh ahhhhhhhhh ahhhhhhh…</div><br><div>\n</div><div>\n</div><div>ab chudai karte hue champak anjali ke chuche bhi masalne lagta hai…thodi der baad champak tezi se chudai kane lagta hai jiski waja se…phatt phatt phatt phatt ku awazen bathroom men ane lagti hai jo tarak ko sunai de rahi thi…</div><br><div>\n</div><div>\n</div><div>Tarak- ye kaisi awaz hai anjali?</div><br><div>\n</div><div>\n</div><div>Anjali- oh tarak kapde dho rahi hun…</div><br><div>\n</div><div>\n</div><div>utna bolkar oh sharma jati hai…champak samjh jata hai ke anjali ab chudai ke liye bilkul ready hai…</div><br><div>ab woh tez dhakke lagane lagta hai anjali ki gand men….</div><br><div>anjali khud apna muh pakadti hai taki uski awaz bahar na ja paye…</div><br><div>champaklal anjali ku kamar pakad kar uski fatafat chudai kare jarha tha….</div><br><div>anjali bhi ab chudai ka maza utha rahi thi kyunke oh kafi dino se pyasi thi sex ke liye…</div><br><div>\n</div><div>\n</div><div>waise hi 1 ghanta chudai ke baad ab pehle anjali bahar akar dekhti hai to tarak soya hua tha…ab dono bahar ate hain chupke se…</div><br><div>\n</div><div>\n</div><div>Anjali- chachaji ap jakar sojayiye room men…</div><br><div>\n</div><div>\n</div><div>Champaklal- arey aise kaise tu bhi sojana mere sath anjali beti…</div><br><div>\n</div><div>\n</div><div>Anjali- nahi chachaji tarak uth gaye to problem hojayegi…</div><br><div>\n</div><div>\n</div><div>Champak- kuch nahi hoga tu bas chal…</div><br><div>\n</div><div>\n</div><div>phir oh anjali ka hath pakad ke lejata hai…oh bedroom men jakar anjali ko bed par patak deta hai aur khud us par chad jata hai…</div><br><div>\n</div><div>\n</div><div>anjali bhi bohat khush thi kyunke uski life men pehle bar sex men itni exitment horhi thi…</div><br><div>anjali champak ko apne upar khinchti aur lund apni chut par set karti hai…</div><br><div>phir dono chudai shuru karte hain…puri raat dono chudai karte rehte hain maze se….</div><br><div>anjali subha uthkar phir wapas apne bedroom men chali jati hai….</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-29",
+          "_cid": "qxEylA7Alq",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2017-10-04-19h22m24s516-1080x1080.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-2a",
+          "_cid": "qxEDJ9wmrX",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2017-10-04-09h16m08s768-1080x1080.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-2b",
+          "_cid": "qxEDJnUHPs",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
