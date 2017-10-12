@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.2.2",
-    "uniqCompNum": 84,
+    "uniqCompNum": 92,
     "versionPublish": "4.2.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -46,6 +46,43 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>[ 12 October 2017 ]<br><br><a href=\"page23.html\" class=\"text-black\">1 - Anjali &amp; Babita &amp; Iyer Full Sexy Storie ( Popular )</a></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-2c",
+          "_cid": "qxOXEtZm63",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
         {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
@@ -161,7 +198,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Tapusena &amp; boobita",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -192,7 +229,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Babita ji &amp; jethalal soda shop",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -225,7 +262,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Babita - daya - anjali - rita",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -258,7 +295,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Madhavi In Kitchen",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -288,7 +325,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Tapu &amp; Madhvi",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -321,7 +358,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Please Read This And Help Us",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -477,7 +514,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Anjali &amp; Jetha",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -507,7 +544,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Madhvi &amp; Tapu",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -716,7 +753,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Babita gangbang 1",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -927,7 +964,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "daya or bapu ji &nbsp;jethalal",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -1057,7 +1094,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Tapu ne anjai ko choda",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -1340,7 +1377,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Gogi &amp; r1",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1386,7 +1423,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Babita Ko Jetha or Tapu Ne Bahut Coda",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1553,7 +1590,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "bb in gada",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2036,7 +2073,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Daya or Popat",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2082,7 +2119,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "madhvi or abdul",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -2128,7 +2165,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "iyer babita",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -2295,7 +2332,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "tp sonu club",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2341,7 +2378,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "tsm",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2387,7 +2424,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "bb popat",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2433,7 +2470,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "c anjali",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2552,6 +2589,173 @@
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2017-10-04-09h16m08s768-1080x1080.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
           "_anchor": "image2-2b",
           "_cid": "qxEDJnUHPs",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page23.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "anjali bb iyer",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>बहुत ही मजेदार स्टोरी हे पूरी पढ़ना&nbsp;<br><br>EK DIN KI BAAT HAINNN ,,<br><br>TARAK MEHTA GHAR PAR NAHIN THE AUR GHAR PE UNKI SUNDAR PATNI YANI ANJALI TARAK MEHTA ATM AKELI THI AUR BORE HO RAHI THI…..<br><br>TOH ANJALI NE SOCCHA KYUN NA BABITA JI KE GHAR MEIN JAE AUR WAHA UNSE THODI HANSI MAZAK KARENGI AUR USKA TIME PASS HO JAYEGA …<br><br>JAISE KI AAP LOG JANTE HOGE KI ANJALI AUR BABITA LESBIAN THI…<br><br>UNDONO NE KAHI BAAR LESBIAN KIYA THA…..AUR DONO DONO KI DiWANI THI ….<br><br>CHALIYE KAHANI PAR ATE HAIN AUR ANJALI TAIYYAR HOKE BABITA KE GHAR KI AUR CHAL PAD TI HAIII…….<br><br>ANJALI NE EK SUNDAR SA SALWAR PEHNA THA…<br><br>JO KI GREEN COLOUR KA THA…US SALWAAR KA NECKLINE KAFI GEHRA THA AUR USME SE ANJALI KA CLEAVAGE SAAF NAZAAR AA RAHA THA.<br><br>USKE SOFT &nbsp;BOOBS PURA UBHAR KE NAAZAR AA RAHE THE…<br><br>KOI AGAR ANJALI KO DEKH LE TO USKA LUND PURA TAAN N JAYE……<br><br>UNHONE JAKE BABITAJI KA DOORBELL DABAYA ,<br><br>AUR DARWAJA KHOLA TOH USNE DEKHA KI IYER BHAI NE DARWAJA KHOLA AUR AUR ANJALI BHABHI KO DEKHKAR UNKE SHARRIR MEIN CURRENT FAIL GAYA ….<br><br>ANJALI DIKH BHI AISI RAHI THI….SAALI KAYAMAT DHA RAHI THI …. <br><br>IYER ANJALI KI TARAF DEKHTA HAI..USKI SHAQL VAISE HE ITNI DARWANI HAI..AUR ISS WAQT TOH USKA AUR BURA HAAL THAA……<br><br>\n<div>ANJALI:GOOD MORNING IYER BHAI,,,,KYA MEIN ANDAR AA SAKTI HOON ….</div><br><div>\n</div><div>IYER:HAAN HAAN ANJALI BHABHI ,,AIYE NAAA..BOLIYE KYA KAAM THA</div><br><div>\n</div><div>ANJALI:IYER BHAI BABITA JI GHAR PE NAHI HAIN KYA….MUJHEE UNSE KUCH BAAT KARNI THI……</div><br><div>\n</div><div>IYER:SOORY ANJALI BHABHI ,BABITA ABHI BAHI APNE EK DOST KE GHAR GAYI HAI…PAR SHYAM TAK AA JAIGI……</div><br><div>BAATCHIT KE DAURAN ,IYER KI ANKHEN SIRF ANJALI KE MAST CLEAVAGE PE THI AUR USKA KALA LUND DHEERE DHEERE KHADA HONE LAGA THA ……..</div><br><div>\n</div><div>ANJALI BHI USKE NICHE BANA TAMBU KO DEKH PAA RAAHI THI KYUNKI IYER KI LUNGI DHEERE DHEERE UPAR UTHNE LAGI THI……</div><br><div>ANJALI KO BHI KUCH KUCH SAMAJH MEIN AA RAAHA THA’…….</div><br><div>\n</div><div>ANJALI:THODA KASH TE HUE ….THIK HAI IYER BHAI NO PROBLEM MAIN BAAD MEIN ATI HUN,CHALIYE MEIN CHALTI HU AUR EK NAUGHTY SI SMILE IYER KO DETI HAIN……….</div><br><div>\n</div><div>AKHIR ANJALI BHI TOH EK AURAT THI NAA TOH IYER BHAI KO AKELA DEKH KE USKA BI DIL BEHAK UTHA THA….</div><br><div>\n</div><div>IYER:EXCUSE MEIN AANJALI BHABHI ,AAP BURA NA MANE TOH AAPSE EK REQUEST KARNI THI ……..</div><br><div>\n</div><div>ANJALI :HAAN JARROOR BOLIYE IYER BHAI…….</div><br><div>\n</div><div>IYER:WHO ANJALI BHABHI JAISA KI AAP JANTI HAI KI BABITA GHAR PE NAHIN HAIN AUR MUJHE COFFEE BANANI NAHIN ATI,TOH AAAP PLEASE MERE LIYE 1 CUP COFFEE BANA DEGI….</div><br><div>\n</div><div>ANJALI :KYUN NAHIN IYER BHAI,MEIN AAPKE LEIYE JARROR COFFEE BANA DUNGI AUR MERE LIYE BHI EK CUP BANA DUNGI AUR HUM DONO COFFEE KA MAZA LENGE ,,,</div><br><div>TARAK BHI GHAR PE NAHIN HAI TOH APKE SAATH THODA TIME BHI PASSS HO JAYEGA AUR EK HALKI SI SMILE DEKE WHO IYER KE LIYE COFFEE BANANE CHALI JATI HAI…</div><br><div>\n</div><div>IYER BHI AB ANJALI KA ISHARA SAMAJH PAA RAHA THA …AUR JAB ANJALI UTH KE JAA RAHI THI ,,TO IYER SIRF USKI SUNDAR GAAND KO GHURTA REHTA HAI AUR MAZA LETA HAIIIIII……..SAALI ANJALI KYA MAST GAND AUR FIGURE PAYI THI</div><br><div>\n</div><div>KUCH MIUTE BAAD KITCHEN MIIEN SE AANJALI KI AWAAZ ATI HAI ,</div><br><div>\n</div><div>ANJALI:IYER BHAI AAP JARA KITCHEN MEIN AYENGE MEIN CHEENI NAHI DHOOnDH PAA RAHI HOON………………</div><br><div>\n</div><div>IYER:HAAN HANN ANJALI BHABHI I AM COMING……AUR KITCHEN KI TARAF BADHNE LAGTA HAIN AUR JAB WOH KTCHEN MEIN PAHUNCHTA HAIN TOH JO WOH DEKH TA HAI USEUSKA LUND PHIR SE KHADA HO GAAYA KYONKI USKE SAMNE HI ANJALI NICHE JHUK KAR CHEENI DHONDNE KI KOSHISH KAR RAHI THI JISKI WAJAH SE USKE ADHE SE BI JYADA BOOBS DIKH RAHE THE AUR USKI DRESS MEIN SE BAHARANE KI KOSHISH KARRAHE THE……..OOOOHHHH KYA NAZARA THA ….</div><br><div>IYER BHI UN ROUND BOOBS KO DEEKTA GAYA ……..PHIR ACANAK ANJALI UTH JATI HAI AUR IYER KO USKI OR GHORTE HUE DEKHTI HAIN…….AUR BOLTI HAIN</div><br><div>\n</div><div>ANJALI:AREE IYER BHAI AAP KABB AYE AUR APNE DUPATTE SE APNE BOOBS KO DHAK DETI HAIN…………AUR</div><br><div>\n</div><div>IYER :ABHI ABHI ANJALI BHABHI AUR APKO CHINNI MILLI YA NAHI……</div><br><div>\n</div><div>ANJALI:HAAN HANNN MILGAYI ,IYER BHAI AAP JARA FRIDGE SEE DOODDH NIKAL KE DENGE ,PLLLZZZZ</div><br><div>\n</div><div>IYER:JAROOR ANJALI BHABHI ,,ABHI DETA HOON…</div><br><div>\n</div><div>AUR IYER FRIDGE MEIN SE DOODH NIKALTA HAIN AUR ANJALI KO DENE KE LIYE USKI ORE BADHNE LAGTA HAINNN………TABHI USKE DIMAG MEIN EK PLAN ATA HAIN……AAJ WOH KISSI BHI HALAT MEIN ANJALI KO CHODNA CHAHAHTA THA….</div><br><div>ISLYE JAB WOH ANJALI KO DOODH KI KATORI DE RAHA THA WOH JANN BUCH KE SAARA DOODH USKE UPAR GIRA DETAA HAIIII,,,,….</div><br><div>\n</div><div>IYER:SRRY SRRY ANJALI BHABHI EXTRMELY SRRY………WOH MAIN…</div><br><div>\n</div><div>ANJALII:OHHHH…IYERBHAI APNE YEH KYA KIA SHIIIT MERE SARE KAPDE KHARAB HO GAYE……….AB MEIN KYA KAROON…….</div><br><div>\n</div><div>IYER:KOI BAAT NAHIN ANJALI BHABHI AAP TENSION MAT LIJIYE AAP BABITAKE ROOM MEIN JAIYE AUR USKE KAPDE LEKAR CHANGE KAR DIJIYE AUR INHE SUKHNE KE LIYE DAL DIJIYEEE………..I AMMM SRRY ANJALI BHABHI….</div><br><div>\n</div><div>ANJALI KI HALATKUCH AISI THI WOH PURA DOODH SE BHIG GAY THI AUR USKA DRESS BHI GILA HO GAYA THA ,</div><br><div>AUR USKI BOOOBS KI SHAPE PURADIKH RAHI THI…….KUCH DOODH TOH USKE BRA KE ANDAR CHALA GYATHA………………KAFI HOT LAG RAHI THI</div><br><div>\n</div><div>ANJALI :OK IYERBHAI I WILL CHANGE AUR EK NAUGTY SMILE DEKE BABITA KE ROOM KI AUR BADH NE LAGTI HAI AUR ANDAR GHUS JATI HAI,,,</div><br><div>USNE DARWAJA JAAN BUCH KAR THODA KHOLA RAKHA THA…………………….</div><br><div>\n</div><div>\n</div><div>ANDAR ANJALI NE BABITA KE WARDROBE MEIN SE EK RED COLOUR KA NIGHT SUIT NIKAL CHUKI THI AUR APNA KURTI UTAR CHUKI THI </div><br><div>AUR AB SIRF APNE SALWAR AUR EK SEXY BLACK BRA MEIN THI SHAYAD IYER KA INTEZAR KAR RAHI THI…</div><br><div>USNE MIRRROR PE APNA SUNDAR SHARIIR DEKHA AUR MUSHKURANE LAGI…HIR JAB USNE APNA SALWAR KI NAADA KHOLA HI RAHI THI TAB ROOM KA DARWAJA KHOLA AUR ANDAR AYA IYER </div><br><div>……….WOH ANJALI BHABHI KO IS HALAT MEIN DAANG RAH GAYA AUR USKA MUH KHOLA KA KHOLA REH GAYA………BAAAT HI KUCH AISI THI …..IYER KE SUDDEN ENTRY SE ANJALI CHOUNK GAYI AUR USKE HAAATH SE USKA NAAD CHUT GAYA JISIKI WAJAH SE WHO AB IYER KE SAMNNE SIRF EK BRA AUR MATCHING SI PANTY MEIN THIIIIII……..SAALI KYA LAG RAHI THI………………..APSARA LAG RAHI TIIIII……</div><br><div>IYER YEH SAB DEKHKE SAMBHAL NAHIN PAYA AUR JHATSE APNI LUNGI UTAR FEKI AUR ANDAR SE JO NIKALA WHO SACHME BHAYANAK THA……</div><br><div>IYER KA KALA LUND ………..USKA KHADA LUND DEKHKE ANJALI KI ANKHEN PHAT GAYIII……. </div><br><div>AUUR IYER APNA LUND HATH MEIN LEKAR ANJALI KI OR BADHNE LAGA…..ANJALI USE EK NAUGHTY SMILE DE KAR…….</div><br><div>\n</div><div>\n</div><div>\n</div><div>ANJALI :- IYER BHAI…AAP YAHN SE JAYOO… AAP YAHN KYA KAR RHE HOO….PAR USKI ANKHON MEIN NASHA THA</div><br><div>\n</div><div>\n</div><div>IYER SIRF ANJALI KI TARAF BAD RHA THA…</div><br><div>\n</div><div>\n</div><div>ANJALI :- PICHE HOTE HUEE…RUK JAIYEE IYER BAHI…RUK JAIYEEE…..</div><br><div>\n</div><div>\n</div><div>\n</div><div>LEKIN IYER AGE BADTA CHALA JAA RHA THA…</div><br><div>\n</div><div>ANJALI PICHE PICHE HOTE HUE DIWAR SE TAKRA JATI HAII….</div><br><div>\n</div><div>\n</div><div>IYER USKE BEHAD KARIB AA JATA HAI..</div><br><div>\n</div><div>\n</div><div>ANJALI :- IYER BHAI MEIN APKE HATH JODTI HUN…AISA MAT KIJEYE…AUR PHIR APNI NAUGHTY SMILE DETI HAI.</div><br><div>\n</div><div>\n</div><div>\n</div><div>IYER NHI SUNTA HAI…AUR EK HE JHATKE MEIN ANJALI KE BRA KO PAKAD KE FAD DETA HAI….</div><br><div>\n</div><div>ISKI WAJAH SE USKE GORE BOOBS BAHAR AA JATE HAIN</div><br><div>\n</div><div>\n</div><div>IYER ANJALI KE GORE GORE….EK DUM TANE HUEE BOOBS DEKH KE PAGL HO JATA HAI..AUR APNA MUH RAKH KE CHOOSNA CHALU KAR DETA HAII….</div><br><div>\n</div><div>\n</div><div>ANJALI BAHT KOSISH KARTI HAI…CHUDANE KE LIYE LEKIN VO KAMYAB NHI HO PATI HAII…..VO BASS OHHH….AHH..IYER BHAII CHOD DIJEYE.OOOHOHOHOHHHHH,………..</div><br><div>\n</div><div>\n</div><div>LEKIN IYER TOH EK KE BAAD EK BOOBS KO MUH MEIN LEKE CHOOS RHA THAA…..</div><br><div>\n</div><div>\n</div><div>ANJALI NE APNI PURI TAKAT LAGA KE IYER KO JHTAKA MARA..ISS BAR IYER ANJALI SE DUR HO GAYA…..</div><br><div>\n</div><div>\n</div><div>ANJALI DARWAJE KI TARAF BHAGI…IYER BHI USKE PICHE BHAGA….</div><br><div>\n</div><div>\n</div><div>ANJALI JAISE HE KAMRE MEIN PAHUCHI…VO DARWAJA BAND HE KARNE VALI THI..KI IYER NE HATH SE ROK LIYA..DARWAJE KO DHKKA MARA…</div><br><div>\n</div><div>\n</div><div>DARWAJA KHUL GAYA…AUR ANJALI PICHE KI TARAF GIR GYII…ISS WAQT ANJALI JAMMEN PE GIRI HUI THII….</div><br><div>\n</div><div>\n</div><div>VO PICHE SIRAK RHI THII….AUR HATH JOD KE BOL RHI THII…PLSS MUJHE CHOD DOO IYER BHAII… LEKIN ANDAR HI ANDAR WHO MAZEE LE RAHI THIII.</div><br><div>\n</div><div>\n</div><div>LEKIN IYER KHAN MANNE VALA THA..VO TOH PURE MOOD MEIN THAA….</div><br><div>\n</div><div>\n</div><div>IYER NE KA TANNA HUA LUND HAWA MEIN JHUL RHA THA…</div><br><div>\n</div><div>\n</div><div>ANJALI FATAFT UTHI AUR BATROOM KI TARAF BADI…LEKIN PICHE SE IYER NE USSE PAKAD LIYA…..AUR EK HE JHATKE MEIN…USKA PANTY PHAD DIA…..</div><br><div>\n</div><div>\n</div><div>IYER NE FATAFT USSE KABZE MEIN LE LIYAA….AB ANJALI IYER KE SAAMNE JHUKI HUI THII…….</div><br><div>\n</div><div>\n</div><div>ANJALI :- DHEERE IYER BHAIIIIIIIII,,,OHHHHHHHHH……… BAHIIIIIIIIIIIIIIIIIIIIIIIIIIIII……</div><br><div>\n</div><div>\n</div><div>IYER NE APNA LUND EK HE JHATKE MEIN….PURA KA PURA LUND CHOOT MEIN UTAR DETA HAII….\n</div><div>\n</div><div>AUR DHAKKE MARNE LGTA HAI……</div><br><div>\n</div><div>\n</div><div>ANJALI :- AHHHHHHHHHHHH……OHHHHH…PLSSSS.</div><br><div>\n</div><div>SLOWLY …..PLSSSSSS….AHHHHH…</div><br><div>\n</div><div>\n</div><div>AISE AWAZEIN AA RHI THIII….IYER TOH DHAKKE MARNE MEIN LAGA HUA THA…VO TOH LUND KO ANDAR BAHR ANDAR BAHR KAREE JAA RHA THA…</div><br><div>\n</div><div>\n</div><div>ANJALI …..AB KUCH NHI BOL PAA RHIT HIII….</div><br><div>\n</div><div>\n</div><div>IYER KE DHAKON KI SPEED BAD CHUKI THII…TABHI VO CHILATA HUAAA…..AAAHHH..ANJALI BHABHI ……..MEEIN GAYAAAAAA…………AUR APNA SARA PANI ANJALI KI GARAM CHOOT MEIN NIKAL DETA HAII……</div><br><div>\n</div><div>PHIR ANJALI BOLTI HAI AREEEE IYER BHAI THAK GAE KYA ABHI TOH AUR MAZEE KARNE BAKI HAI……….</div><br><div>\n</div><div>\n</div><div>ANJALI :- IYER BHAI AAP PEHLE SE HE BHAT KUCH KAR CHUKE HO….ISS WAQT MEIN APKO KUSH KRNA CHAHTI HUN…</div><br><div>\n</div><div>\n</div><div>AUR NICHE BAIH JATI HAI..AUR IYER KE LUND KO APNE HATH SE UPAR NICHE KARNE LAGTI HAI…\n</div><div>\n</div><div>IYER KO SWARG JAISA EHSAS HONA SHURU HO JATA HAI…</div><br><div>\n</div><div>AB ANJALI IYER KE LUND KO MUUH MEIN LEKE CHOSNA CHALU KAR DETI HAI..</div><br><div>\n</div><div>VO IYER KA LUND ADHA MUH MEIN LETI HAI..AUR FIR BAHR NIKAL DETI HAI…</div><br><div>\n</div><div>IYER KO BAHT MAZAA AA RHA THA…USKE MUHH SE HALKI SEII AHHH NIKAL RHI THI….</div><br><div>\n</div><div>\n</div><div>FIR ANJALI NE SPEED BADA DI….AUR IYER KA KALA LUND MUH MEIN ANDAR BAHR KARNA CHALU KAR DIYA…LUND GALLE TAK JATA AUR FIR BAHR AA JATA….ITNI JOR SE CHOOSNE KI VAJAH SE ANJALI KE BOOBS BURI TARAH AAGE PICHE HO RHE THHEE…</div><br><div>\n</div><div>\n</div><div>TABHI IYER APNA HATH SE PAKAD KE … ANJALI KE MUH K PICHE DHAKEL DETA HAI…</div><br><div>\n</div><div>\n</div><div>ANJALI :- KYA HUA IYER BHAI …MAZA NHI AAYA KYAA…</div><br><div>\n</div><div>\n</div><div>IYER :- ANJALI BHABHI MAZA..PUCHIYE MAT…NIKALNE VALA THA….ISLIYE PICHE HATAYA HAI.AUR APKE GAAAND KO BHI TOH CHODNA HAI NA..</div><br><div>\n</div><div>\n</div><div>ANJALI :- AHAHAH….</div><br><div>\n</div><div>\n</div><div>IYER :- ANJALI BHABHI AB MUJHSE RUKA NHI JAA RHA HAI..</div><br><div>\n</div><div>\n</div><div>ANJALI :- SHARMATE HUEE…TOH APKO KUN BOL RHA HAI RUKNE KAA…</div><br><div>\n</div><div>\n</div><div>BASS ITNA HE BOLTI HAI….KI IYER K ANJALI KO UPAR UTHTA HAI..</div><br><div>\n</div><div>\n</div><div>DONO TO PURI TARAH NANGE THE…ANJALI KI CHOOT MEIN SE TOH RAS PAN HOONA SHURU HO CHUKA THA…</div><br><div>\n</div><div>\n</div><div>IYER SE RHA NHI JAA RHA THA..TOH VO ANJALI KI CHOOT KO CHOOSNA NHI CHATA THA…BAS APNE HATH KO CHOOT PE RAKKH KE USSE MASAL DIYAA…</div><br><div>\n</div><div>\n</div><div>ANJALI KE MUH SE BAS….UIIIIIIIII MAAA…HE NIKAL KE REH GAYA…</div><br><div>\n</div><div>\n</div><div>IYER PHIR ANJALI KO DIWAR KE SHARE LEKAR KHADA HO GAYA…</div><br><div>\n</div><div>\n</div><div>ANJALI :- CHALIYE NA IYER BHAI BAITH KE KARTE HAIN…</div><br><div>\n</div><div>\n</div><div>IYER :- NAHIN ANJALI BHBHI AAJ AISE HE KARENGE..PLZZZZZ………….Z.</div><br><div>\n</div><div>\n</div><div>ANJALI :- AISE …PAR KAISE KARENGE…</div><br><div>\n</div><div>\n</div><div>IYER :- ABHI DIKHATA HUN…</div><br><div>\n</div><div>\n</div><div>AUR IYER ANJALI KE EK PAIR KO HAWA MEIN UTHA LETA HAI…AUR APNE LUND KO USKI HASEEEN GAAND PE SET KAR KE…ANJALI KI TARF DEKHTA HAI…JISKI ANKHON MEIN AAJ BEPANHA GARMI HOTI HAI…</div><br><div>\n</div><div>\n</div><div>AUR APNE LUND KO GAAND MEIN DHAKEL DETA HAI….ADHA LUND GAAND MEIN UTAR JATA HAI..\n</div><div>\n</div><div>ANJALI :- AHHHHHH…OHHHHH..IYERRRRRR BHAIIIII…….</div><br><div>\n</div><div>\n</div><div>BAS ITNA HE NIKALTA HAI..KYUN KI AB KI BARR IYER KE DHAKKE SE…PURA KA PURA LUND ANDAR CHALA JATA HAI….</div><br><div>\n</div><div>\n</div><div>AUR IYER BINA RUKE JABARDAST DHAKKE LAGANA SHURU KAR DETA HAI…AUR LUND ANDAR BAHR KARNE LAGAT HAI….DHAKKE ITNE TABAD TOR THE…KI ANJALI BURI TARAH HIL RHI THII…</div><br><div>\n</div><div>\n</div><div>ANJALI :- AJHHHHHHHHHHHHHH AIYERR BHAIIIIII,OOOHHH……AHHHH..OOHHHHHHH..MAAA\n</div><div>MARR GYIIIIIIIIIII…..AUR TEZZZZZZZZ…AHHHHH…HANNNN..AU TEZZ….</div><br><div>\n</div><div>\n</div><div>IYER KA KALA LUND PURA CHOOT MEIN JATA …AUR FIR BAHR AA JATA….</div><br><div>\n</div><div>PUCH CPUCH…PACH APCH..JAISE HE AWAZEIN AA RHI THI…..</div><br><div>\n</div><div>DONO PASINE PASINE HO CHUKE THE….</div><br><div>\n</div><div>IYER KE DHAKKE AB AUR RAFTAR PAKAD CHUKKE THEE…..</div><br><div>\n</div><div>\n</div><div>ANJALI :- IYER BHAIIII ……… BASS MEIN GYIII……MEIN NHI JHEL SAKTIIII AURRRRRRRR….</div><br><div>\n</div><div>\n</div><div>IYER :- ANJALIII BHABHI MEIN BHIII ANA VALA HUN….MUJHSE TOH RHAA NHI JAA RHAAA…\n</div><div>\n</div><div>AUR APNAKUND JHAT SE ANJALI KI GAAND SE NIKALTA HAIII AUR SARA RAS ANJALI KI BOOBS KE UPAR DAL DETA HAI…… DETA HAI…4 YA 5 JAHTKE LAGTE RHTE HAIN….ANJALI IYER KE GARAM RAS KO SEHAN NHI KAR PATI…AUR APNA DER SARA PANI CHOD DETI HAI….</div><br><div>\n</div><div>\n</div><div>DONO KAFI THAK GYE THEE…</div><br><div>IYER K ANJALI KE PAIRON KO NICHE RAKH DETA HAI…AUR USSE LIPAT JATA HAI..</div><br><div>AUR USKE BOOBS KO MASALNE LAGTA HAIII.</div><br><div>KUCH MIN BAAD…DONO FIR SE HOTHON KA RAS PAAN KARNE LAGGTE HAIN………IYER KHALI I LOVE YOU ANJALI BHABHI ……BOL RAHA THA.</div><br><div>\n</div><div>\n</div><div>IYER :- ANJALI BHABHI MAZA AAYA NAA..</div><br><div>\n</div><div>\n</div><div>ANJALI :- IYER BHAI AISA MAZA..AAJ TAK NHI AYA…</div><br><div>\n</div><div>\n</div><div>AUR DONO FIR SE EK DUSRI KI BAHON MEIN SIMAT JATE HAIN…….</div><br><div>PHIR ANJALI BATHROOM MEIN FRESH HONE CHALI JATI HAI AUR …….</div><br><div>TAIIYAR HOKE APNE GHAR CHALI JATI HAIII….\n</div><div>FANTASYHINGLISH\n</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-2g",
+          "_cid": "qxOYVlWpvG",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>हम ऐसी ही अछि स्टोरी देते रहेंगे लेकिन प्लीज आप निचे की ad पे 1 या 2  क्लिक करदिजिये जिससे हम और अछि स्टोरी देंगे&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-2j",
+          "_cid": "qxP1iJjMXl",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2017-10-04-19h22m24s516-1080x1080.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-2h",
+          "_cid": "qxP1cQPHfM",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2017-10-04-09h16m08s768-1080x1080.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-2i",
+          "_cid": "qxP1d6r3by",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
