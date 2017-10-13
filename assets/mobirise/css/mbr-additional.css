@@ -2987,3 +2987,30 @@ body {
 .cid-qxUxRK5jxM .section-text DIV {
   text-align: left;
 }
+.cid-qxWrzTYHOZ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qxWrzTYHOZ .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qxWrzTYHOZ .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-qxWrzTYHOZ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qxWrzTYHOZ .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qxWrzTYHOZ .section-text DIV {
+  text-align: left;
+}
