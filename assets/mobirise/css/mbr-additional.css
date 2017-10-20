@@ -3899,3 +3899,30 @@ body {
     width: 100% !important;
   }
 }
+.cid-qyyVDeReLc {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qyyVDeReLc .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qyyVDeReLc .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-qyyVDeReLc .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qyyVDeReLc .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qyyVDeReLc .section-text DIV {
+  text-align: left;
+}
