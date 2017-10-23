@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.2.2",
-    "uniqCompNum": 146,
+    "uniqCompNum": 148,
     "versionPublish": "4.2.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -46,6 +46,43 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>[ 23 October 2017 ]<br><br><a href=\"page43.html\" class=\"text-black\">1 - Goa Trip Part 3</a></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-42",
+          "_cid": "qySS1F8m51",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
         {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
@@ -76,7 +113,7 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>[ 23 October 2017 ]<br><br><a href=\"https://goo.gl/7AzbJG\" class=\"text-secondary\">कृपया आप सभी यहाँ पर वोट कर दीजिये&nbsp;</a></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>[ 23 October 2017 ]<br><br><a href=\"https://goo.gl/7AzbJG\" class=\"text-secondary\">कृपया आप सभी यहाँ पर वोट कर दीजिये&nbsp;</a><br></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-41",
           "_cid": "qyQQiFzcxE",
           "_protectedParams": [],
@@ -237,7 +274,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Tapusena &amp; boobita",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -268,7 +305,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Babita ji &amp; jethalal soda shop",
-        "order": 40
+        "order": 41
       },
       "components": [
         {
@@ -301,7 +338,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Babita - daya - anjali - rita",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -334,7 +371,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Madhavi In Kitchen",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -364,7 +401,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Tapu &amp; Madhvi",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -397,7 +434,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Please Read This And Help Us",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -553,7 +590,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Anjali &amp; Jetha",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -583,7 +620,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Madhvi &amp; Tapu",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -792,7 +829,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Babita gangbang 1",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -1003,7 +1040,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "daya or bapu ji &nbsp;jethalal",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -1133,7 +1170,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Tapu ne anjai ko choda",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -1416,7 +1453,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Gogi &amp; r1",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -1462,7 +1499,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Babita Ko Jetha or Tapu Ne Bahut Coda",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -1629,7 +1666,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "bb in gada",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -2112,7 +2149,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Daya or Popat",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -2158,7 +2195,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "madhvi or abdul",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -2204,7 +2241,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "iyer babita",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -2371,7 +2408,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "tp sonu club",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -2417,7 +2454,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "tsm",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -2463,7 +2500,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "bb popat",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -2509,7 +2546,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "c anjali",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -2639,7 +2676,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "anjali bb iyer",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -2806,7 +2843,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Babita Gangbang Part 3",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -2889,7 +2926,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Jetha Anjali BB",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -3019,7 +3056,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Jetha anjali babita 2",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -3149,7 +3186,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Jetha Anjali Bbita 3",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -3279,7 +3316,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Jetha anjali babita 4",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -3409,7 +3446,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Jethalal or babita ji anjali 5",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -3539,7 +3576,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "jetha bb anj 6",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -3669,7 +3706,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Part - 7",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -3836,7 +3873,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "sodhi madhvi",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -3882,7 +3919,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Part 8",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -4049,7 +4086,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Part 9",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -4179,7 +4216,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Part 10",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -4346,7 +4383,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "tapu part 1",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -4476,7 +4513,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "happy new year",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -4522,7 +4559,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "anjali tapu ko apne ghar",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -4605,7 +4642,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Madhavi pinku",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -4651,7 +4688,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Babita ko jrtha iyer soch ke",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -4734,7 +4771,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "goa p1",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4817,7 +4854,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "goa p2",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -4852,6 +4889,52 @@
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>LAST PART ME AAPNE DEKHA KI SAB DINING TALE KE PASS JATE HAI&nbsp;<br><br>AB AAGE<br><br>JHETHALAL.TARAK,BABITA AND MADHVI DINING TABLE K PASS ATE H..<br><br>BHIDE : CHALO KHANA KHATE H BAHOT BHUKH LAGI H.<br><br>JHETHALAL : HA CHALO MUJHE BHI BAHOT BHUKH LAGI H.<br><br>AUR SAB KHANA KHANE BAITH JATE H.<br><br>RAVI (Jetha Ka Dost ) KHANE ME KYA HAI YE BATATA H.<br><br>JHETHALAL : WAH RAVI KYA KHANA H MAZA AA JAYEGA.<br><br>RAVI : THANK U JHETHALAL KHAO.<br><br>AUR SARE LOG KHANA KHANE LAGTE H.<br><br>1 GHANTE TAK KHATE H.<br><br>JHETHALAL : WAH BHAI MAZA AGAYA.<br><br>JHETHALAL : BAPUJI AAP SAB MAHILAON AUR BACCHO KO LEKAR ROOM ME JAO HUM GENTS ATE H THODI DER MEIN.<br><br>CHAMPAKLAL : THIK H JHETHIYA.<br><br>AUR SARE LOGO KO LEKAR CHAMPAKLAL CHALA JATA H.<br><br>TARAK : KYA HUA BHAI HUM KAHA JA RAHE H?.<br><br>JHETHALAL : KAHI NAHI BHAI BAS BAHAR GARDAN ME JATE H KHULI HAWA KHANE.<br><br>TARAK : HA BHAI.CHALO.AUR CHARO CHALNE LAGTE H MATLB JHETHALAL,TARAK,BHIDE AND SODHI.SODHI BHIDE BAHOT AGE CHALE GAYE THE.JHETHALAL TARAK ARAM SE CHAL RAHE THE.<br><br>JHETHALAL : MAHETASAHEB BHIDE NE SODHI KA KUCH KARNA PADEGA.<br><br>TARAK : MATLAB ME KUCH SAMJHA NAHI JHETHALAL.<br><br>JHETHALAL : ME SAMJHATA HUN.<br><br>MAHETASAHEB HUME BHIDE SODHI KO BHI CHUDAI K KHEL ME SAMIL KARNA HOGA.<br><br>TARAK : JHETHALAL TUM KYA BOL RAHE HO?.<br><br>JHETHALAL : MAHETA SAHEB AGAR HUME YAHA GOA ME MAZE KARNE H TO HUME DONO KO SHAMIL KARNA HOGA.<br><br>TARAK : PAR KYA WO MANENGE?.<br><br>JHETHALAL : KOSIS KARNE ME KYA JATA H.<br><br>TARAK : THIK H.AUR CHARO PAHUNCH JATE H GARDAN MEIN.<br><br>SODHI : JHETHA PRA MAST JAGAH H YAAR.<br><br>JHETHALAL : HA BHAI MAST JAGAH H.AUR SODHI BHIDE MUJHE TUMSE KUCH JARURI BAAT KARNI H?.<br><br>SODHI : HA DASO YAAR.<br><br>BHIDE : HA BHAI BOLO.<br><br>JHETHALAL : PEHLE BETHO TO SAHI.AUR CHARO GARDAN ME BAITH JATE H.<br><br>JHETHALAL : WO MEIN KEH RAHA THA K AGAR HUME GOA ME MAZE KARNE H TO KUCH NAYA KARNA PADEGA.<br><br>BHIDE SODHI : MATLB.?.<br><br>JHETHALAL : WO HUME BIWIYON KO BADALNA PADEGA.<br><br>BHIDE : KAITHE...<br><br>SODHI : MATLB?.<br><br>TARAK : SODHI JHETHALAL KA MATLB H WIFE SWAPPING.<br><br>SODHI : JHETHA PRA YE TUM KYA BOL RAHE HO.<br><br>JHETHALAL : ME SACH BOL RAHA HUN MAZA AYEGA HUME BHI AUR HAMARI BIWIYON KO BHI.<br><br>SODHI : PAR JHETHA PRA KYA HAMARI BIWIYAN MANEGI.?.<br><br>JHETHALAL : BHAI KYUN NAHI MANEGI AUR HUM DIRECT JAYENGE JAHA HUME JANA H.<br><br>TO BOLO KYA TUM TAIYAR HO?.<br><br>SODHI : ME TAIYAR HUN JHETHA PRA.<br><br>JHETHALAL : THANK U SODHI AUR BHIDE TUM KYA SOCH RAHE HO?.<br><br>BHIDE : MUJHE DAR LAG RAHA H AGAR HAMARI BIWIYAN NAHI MANEGI TO BAHOT BADI GADBAD HO JAYEGI.<br><br>JHETHALAL : TUM TENSION MAT LO.BHAI KUCH NAHI HO MERI GAURENTEE.<br><br>BHIDE : THIK H.PAR CHACHAJI KO PATA CHAL GAYA TO?.<br><br>JHETHALAL : BAPUJI KI TENSION MAT LO UNHE ME SAMBHAL LUNGA.<br><br>BHIDE : THIK H PAR PEHLE YE TO DECIDE KARO K KAUN KAHA JAYEGA.?.<br><br>JHETHALAL : HA BHAI..MEIN TO BABITA JI K PASS JAUNGA.<br><br>BHIDE : WAH IYER TO YAHA NAHI H TUM TO BAHOT MAZE KAROGE.<br><br>JHETHALAL : HA BHAI AUR BHIDE TUM KAHA JAOGE?.<br><br>BHIDE SODHI KI TARAF DEKHTA H AUR GHABRATA HUN BOLTA H : MEIN ROSHAN BHABHI K PASS JAUNGA.<br><br>SODHI : OYE BHIDU TU MERI ROSHAN K PASS JAYEGA.GUSSE SE BOLTA H.<br><br>JHETHALAL : SHANT HO JA SODHI.<br><br>BHIDE : SODHI SORRY ME NAHI JAUNGA BAS.<br><br>SODHI : OYE BHIDU MEIN TO MAZAK KAR RAHA THA JA MERI ROSHAN K PASS AUR USE KHOOB MAZE DENA.<br><br>BHIDE : THANK U SODHI.<br><br>AUR CHARO HANS NE LAGTE H.<br><br>JHETHALAL : CHALO BHIDE KA HOGAYA AB SODHI TUM KIS K PASS JAOGE?.<br><br>SODHI : OYE JHETHA PRA MEIN TO DAYA BHABHI K PASS JAUNGA.<br><br>JHETHALAL : OK BHAI <br><br>JHETHALAL : MAHETASAHEB AAP KAHA JAOGE?.<br><br>TARAK : ME TO MADHVI BHABHI K PASS JAUNGA.<br><br>BHIDE : HA MAHETASAHEB JANA AUR USKI GAND KO ACCHE SE CHODNA <br><br>TARAK : ARE YE BHI KOI KEHNEKI BAT HE BHIDE JRUR<br><br>JHETHALAL : THIK H TO CHALO FIR..<br><br>PART 3 COMING ......</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-3z",
           "_cid": "qyM7orDhOS",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page43.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Goa P3",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>JAISA KI AAPNE PICHLE UPDATE MEIN DEKHA KI JETHALAL WIFE SWAPPING KA PLAN BANATA HAI..<br><br>PLAN KE MUTABIK JETHALAL TO APNI NAYI NAVELI WIFE BABITA KE PAAS JAYEGA..<br><br>BHIDE ROSHAN KE PAAS..<br><br>SODHI DAYA KE PAAS <br><br>AUR TAARAK MADHAVI KE PAAS..<br><br>AB AAGE..<br><br>JETHALAL : MEHTA SAHAB MEIN EK KAAM KARTA HUN SABHI LADIES KO YAHA BULA LETA HU...<br><br>AUR JETHALAL DAYA KO PHONE KARKE SABHI LADIES KO NICHE AANE KO KEHTA HAI..<br><br>KUCH MINUTE BAAD SABHI LADIES NICHE GARDEN MEIN AA JATI HAI..<br><br>DAYA : TAPPU KE PAPA! KYA HUA AAPNE HAME NICHE KYU BULAYA..<br><br>JETHALAL : MUJHE AAP LOGON SE EK ZAROORI BAAT KARNI HAI..<br><br>AUR JETHAL SAARI BAAT BATA DETA HAI..<br><br>SAB LADIES SAATH MEIN : KYA???..<br><br>DAYA : MAGAR TAPPU KE PAPA MEIN KAISE..! <br><br>JETHALAL : TO KYA HUA DAYA..<br><br>TUM MEHTA SAAB KE PAAS SE BHI TO CHUDI HO..<br><br>DAYA : ACHA..THIK HAI..<br><br>ANJALI : MAGAR JETHA BHAI..AAP MUJHE TO BHUL HI GYE...<br><br>JETHALAL : ARE HAN....<br><br>JETHALAL KUCH SOCHNE KE BAAD : ARE AAP BAPUJI KE SAATH MAJE LENA..<br><br>ANJALI : THANKEW JETHA BHAI..<br><br>AUR AB SAB APNE PARTNERS KE SAATH UPAR ROOMS MEIN CHALE JATE HAI..<br><br>JETHALAL BAPUJI KE KAMRE MEIN JAAKAR UNKO SARI BAAT BATATA HAI..YE BHI KI ANJALI UNKE SAATH SEX KAREGI..<br><br>BAAPUJI : ARE WAH JETHIA AAJ TO MAZA AA JAYEGA..<br><br>JETHALAL : THANKEW BAPUJI..<br><br>CHALIE TO AB CHALTE HAI MEHTA SAAB KE PAAS..<br><br>TARAK AUR MADHVI APNI ROOM KI AUR BADH RAHE THE.<br><br>MATLB ROOM NO 265.<br><br>AUR THODI DER ME HI PAHUNCH JATE H.<br><br>TARAK DARWAJA KHOL KAR ANDAR JATA H USKE PICHE MADHVI BHI CHALI JATI H.<br><br>AUR MADHVI DARWAJE KO LOCK KARTI H.<br><br>TARAK SOFE PAR BAITH JATA H.<br><br>TARAK : MADHVI BHABHI AB HUME KOI TENSION NAHI AB HUM JAB CHAHE TAB CHUDAI KAR SAKTE H.<br><br>MADHVI : HA MAHETASAHEB MUJHE BHI AAPSE CHUDNA H.<br><br>TARAK : MADHVI BHABHI AAJ ME TUMHE BAHOT JAMKAR CHODUNGA.<br><br>MADHVI : HA MEIN READY HUN.AUR MADHVI AGE BADTI H TARAK K HOTHON PAR APNE HOTH RAKHKAR CHUSNE LAGTI H.<br><br>TARAK BHI MADHVI K HOTH CHUSTA H.AB DONO KO KOI BHI BAAT KAR DAR NAHI THA.<br><br>DONO EK DUSRE K HOTHON PAR TOOT PADE THE.<br><br>FIR MADHVI TARAK KA BELT NIKALTI H AUR PANT BHI GHUTNO TAK UTAR DETI H,UNDERWEAR BHI NICHE KARTI H AUR TARAK KA LUND PAKAD KAR JOR JOR SE HILANE LAGTI H AUR USKA LUND APNE MUH ME DAL KAR CHUSNE LAGTI H AUR ANDAR BAHAR KARNE LAGTI H.<br><br>TARAK AHAHAHAHAHUHAHUHAHUHAHUHAHUHAUHAUHTHUH CHUS JOR JOR SE CHUS MERI RANDI MAZA AA RAHA H.<br><br>MADHVI TARAK KA LUND APNE MUH SE NIKALTI H.<br><br>MADHVI : MEHTASAHEB SACH ME MEIN APKI RANDI HI HUN AUR AB AAP DEKHIYE YE RANDI AAPKO KAISE MAZE DETI H.<br><br>AUR TARAK KA LUND FIR SE MUH ME LEKAR CHUSNE LAGTI H.<br><br>AUR 15 MIN TAK CHUSNE K BAAD TARAK MADHVI K MUH ME JHAD JATA H AUR MADHVI USKA SARA RAS PI JATI H.<br><br>MADHVI : MAHETASAHEB AAPKI RANDI KI LUND CHUSAI PASAND AYI K NAHI?.<br><br>TARAK : ARE MADHVI BHABHI BAHOT MAZA AYA.AUR AB MERI BARI.<br><br>MADHVI : HA AA JAO.AUR TARAK KHADA HOTA H SOFE PAR SE AUR APNE SARE KAPDE NIKAL KAR PHENK DETA H AUR MADHVI TARAF JANE LAGTA H.<br><br>MADHVI NE EK NIGHTY PEHNI THI.TARAK MADHVI KI NIGHTY NIKAL DETA H AUR AB MADHVI SIRF PINK BRA PANTY ME THI.<br><br>FIR TARAK JOR JOR SE MADHVI K BOOBS DABANE LAGTA H.<br><br>MADHVI SISKARIAN BHAR RAHI THI.AUR FIR TARAK MADHVI KI BRA NIKAL KAR PHENK DETA H AUR USKE BOOBS PAR APNA MUH RAKHKAR CHUSNE LAGTA H.<br><br>MADHVI BHI BADE PYAR SE USE DHUDH PILA RAHI THI.AUR TARAK KABHI USKA LEFT WALA BOOBS CHUSTA H TO KABHI RIGHT WALA.<br><br>THODI DER CHUSNE K BAAD TARAK MADHVI KI PANTY NIKAL KAR PHENK DETA H AUR MADHVI KI CHUT ME UNGLI DAL KAR ANDAR BAHAR KARNE LAGTA H MADHVI UCHAL UCHAL KAR MAZE LE RAHI THI.<br><br>AUR SISKARIAN BHAR RAHI THI.TARAK KABHI MADHVI KI CHUT ME UNGLI DAL TA TO KABHI APNI JEEBH DAL DETA THA.20 MIN TAK AISA KARNE K BAAD MADHVI JHAD JATI H.AUR TARAK USKA RAS PI JATA H.<br><br>TARAK : KYUN MERI RANDI MAZA AYA K NAHI?.<br><br>MADHVI : MAHETASAHEB BAHOT MAZA AYA.AUR CHALIYE JALDI SE APNA LUND MERI CHUT ME DAL DIJIYE MUJHSE RAHA NAHI JA RAHA H.<br><br>TARAK : HA MERI RANDI ABHI DALTA HUN.AUR TARAK MADHVI K PAIR PAKAD KAR FAILA DETA H.<br><br>AUR APNA LUND MADHVI KI CHUT PAR RAKHKAR RAGADNE LAGTA H.<br><br>MADHVI UTEJIT HO JATI H <br><br>MADHVI : JALDI DALIYE MEHTASAHEB MUJHSE SAHAN NAHI HO RAHA H.<br><br>AUR TARAK USKA LUND MADHVI KI CHUT ME DAL DETA H AUR EK JHATKA MARTA H AUR PURA LUND ANDAR DAL DETA H.<br><br>MADHVI AB UCHALNE LAGI THI AUR MAZE LE RAHI THI.TARAK AB JHATKE MARNA CHALU KARTA H JOR SE STROKE LAGANE LAGTA H.<br><br>MADHVI AHAHAHUHAHUHAHUHAHUHAHUHAHUHAHUHAHUHAHUHAHUHAUHAUHAUHAUHAUHAUHAUHAUHAUHAUHAUHAUHAH MEHTASAHEB MAZA AA RAHA H FAD DIJIYE AAJ MERI CHUT.<br><br>YE SUNTE H TARAK JOR JOR SE STROKE LAGANE LAGTA H.AUR 30 MIN TAK CHODNE K BAAD TARAK MADHVI KI CHUT ME JHAD JATA H.<br><br>MADHVI TO 30 MIN K ANDAR 3 BAR JHAD CHUKI THI.FIR TARAK APNA LUND NIKAL TA H AUR MADHVI K BAJU ME LET JATA H.<br><br>MADHVI : MAHETASAHEB AAPNE MUJHE JITNA MAZA DIYA H UTNA MUJHE AAJTAK NAHI MILA.<br><br>TARAK : MTLB.?.<br><br>MADHVI : MAHETASAHEB AAPNE MUJHE JIS TARAH CHODA NA AAJ US TARAH AAJ TAK MUJHE US BHIDE NE NAHI CHODA.WO TO BAHOT JALDI THAK JATA THA.THANK U MAHETASAHEB JO AP MERI ZINDAGI ME AYE.<br><br>TARAK : THANK U TO MEIN AAPKO KEHNA CHAHTA HUN K AAPNE MUJHE CHODNE KA MAUQA DIYA.AND I LOVE YOU MADHVI BHABHI.<br><br>MADHVI : MAHETASAHEB I LOVE YOU BHI KEHTE HO AUR BHABHI BHI?.<br><br>TARAK : OH SORRY I LOVE YOU MADHVI.<br><br>MADHVI : YE HUI NA BAAT I LOVE YOU TO.CHALO AB SOH JATE H.<br><br>TARAK : MADHVI ABHI SE KAHA AB TO MUJHE TUMHARI GAND MARNI BHI BAKI H.<br><br>MADHVI : HA TO MAHETASAHEB RAH KISKI DEKH RAHE HO CHALU HO JAIYE.YE SUNTE HI TARAK KHADA HOTA H AUR MADHVI KO DOGGY STYLE ME LAT NE KO KEHTA H.<br><br>MADHVI TARAK K LIYE KUTTIYA BAN JATI H.FIR TARAK APNA LUND MADHVI K GAND K HOLE PAR RAKHTA H.<br><br>AUR DHIRE SE ANDAR GUSANE LAGTA H.PAR USKA LUND ANDAR NAHI JATA H.AUR FIR WO MADHVI K PASS SE OIL KA DaBBA LETA H AUR MADHVI K HOLE PAR DER SARA OIL LAGATA H AUR APNA LUND BHI OIL K DABBE ME DUBA DETA H FIR WO APNA LUND MADHVI KI GAND PAR RAKHTA H AUR EK JOR KA JHATKA MARTA H.<br><br>ITNA JOR SE MARTA H K USKA PURA LUND MADHVI KI GAND ME JA CHUKA THA.MADHVI NE BAHOT JOR SE CHILAIYI AUR SISKARIAN BHARNE LAGI.Fir TARAK NE STROKE LAGANA CHALU KARTA H.JOR SE STROKE LAGATA H.<br><br>MADHVI KO DARD BHI HO RAHA THA AUR MAZA BHI AA RAHA THA.MADHVI AHAHUHAHUHAHUHAHUHAHUHAHUHAHUHAUHAHUHAUHAHUHAHUAHAUHAHUHAHUAHAUHAUHAHUAHUHAUHAUHAUHAUHAUHAUH MAHETASAHEB BAHOT MAZA AA RAHA H JOR SE MARIYE MERI GAND.<br><br>YE SUNTE HI MAHETASAHEB JOR JOR SE STROKE LAGATA H.25 MIN TAK GAND MARNE K BAAD TARAK MADHVI KI GAND ME JHAD JATA H.<br><br>AUR DONO SOJATE HE.</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-43",
+          "_cid": "qySSh7Lv3I",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
