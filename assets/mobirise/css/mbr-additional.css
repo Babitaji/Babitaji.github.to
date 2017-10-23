@@ -1337,6 +1337,34 @@ body {
   height: auto;
   min-height: 100vh;
 }
+.cid-qyQQiFzcxE {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qyQQiFzcxE .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qyQQiFzcxE .section-text {
+  padding: 2rem 0;
+  text-align: left;
+  color: #ff3366;
+}
+.cid-qyQQiFzcxE .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qyQQiFzcxE .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qyQQiFzcxE .section-text DIV {
+  text-align: left;
+}
 .cid-qxOXEtZm63 {
   padding-top: 0px;
   padding-bottom: 0px;
