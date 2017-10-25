@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.2.2",
-    "uniqCompNum": 154,
+    "uniqCompNum": 157,
     "versionPublish": "4.2.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -75,7 +75,7 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>[ 24 October 2017 ]<br><br><a href=\"page44.html\" class=\"text-black\">1 - Goa Trip Part 4</a><br><a href=\"page44.html\" class=\"text-black\">( Sodhi &amp; Daya )</a><br><br><a href=\"page45.html\" class=\"text-black\">2 - Goa Trip Part 5 ( <b>Popular</b> )</a><br><a href=\"page45.html\" class=\"text-black\">( Babita ji &amp; Jethalal )</a><a href=\"page44.html\" class=\"text-black\"><br></a><br><br><br>[ 23 October 2017 ]<br><br><a href=\"page43.html\" class=\"text-black\">1 - Goa Trip Part 3</a><br><a href=\"page43.html\" class=\"text-black\">(</a>&nbsp;Madhvi &amp; Taarak )</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>[ 25 October 2017 ]<br><br><a href=\"page46.html\" class=\"text-black\">1 - Goa Trip Part 6</a><br><a href=\"page46.html\" class=\"text-black\">( Babita ji &amp; Jethalal FUNNY )</a><br><a href=\"page46.html\" class=\"text-black\"><br></a><br><br>[ 24 October 2017 ]<br><br><a href=\"page44.html\" class=\"text-black\">1 - Goa Trip Part 4</a><br><a href=\"page44.html\" class=\"text-black\">( Sodhi &amp; Daya )</a><br><br><a href=\"page45.html\" class=\"text-black\">2 - Goa Trip Part 5 ( <b>Popular</b> )</a><br><a href=\"page45.html\" class=\"text-black\">( Babita ji &amp; Jethalal )</a><a href=\"page44.html\" class=\"text-black\"><br></a><br><br><br>[ 23 October 2017 ]<br><br><a href=\"page43.html\" class=\"text-black\">1 - Goa Trip Part 3</a><br><a href=\"page43.html\" class=\"text-black\">(</a>&nbsp;Madhvi &amp; Taarak )</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-42",
           "_cid": "qySS1F8m51",
           "_protectedParams": [],
@@ -274,7 +274,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Tapusena &amp; boobita",
-        "order": 44
+        "order": 45
       },
       "components": [
         {
@@ -305,7 +305,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Babita ji &amp; jethalal soda shop",
-        "order": 43
+        "order": 44
       },
       "components": [
         {
@@ -338,7 +338,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Babita - daya - anjali - rita",
-        "order": 42
+        "order": 43
       },
       "components": [
         {
@@ -371,7 +371,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Madhavi In Kitchen",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -401,7 +401,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Tapu &amp; Madhvi",
-        "order": 40
+        "order": 41
       },
       "components": [
         {
@@ -434,7 +434,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Please Read This And Help Us",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -590,7 +590,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Anjali &amp; Jetha",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -620,7 +620,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Madhvi &amp; Tapu",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -829,7 +829,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Babita gangbang 1",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -1040,7 +1040,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "daya or bapu ji &nbsp;jethalal",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -1170,7 +1170,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Tapu ne anjai ko choda",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -1453,7 +1453,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Gogi &amp; r1",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -1499,7 +1499,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Babita Ko Jetha or Tapu Ne Bahut Coda",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -1666,7 +1666,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "bb in gada",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -2149,7 +2149,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Daya or Popat",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -2195,7 +2195,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "madhvi or abdul",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -2241,7 +2241,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "iyer babita",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -2408,7 +2408,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "tp sonu club",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -2454,7 +2454,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "tsm",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -2500,7 +2500,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "bb popat",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -2546,7 +2546,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "c anjali",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -2676,7 +2676,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "anjali bb iyer",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -2843,7 +2843,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Babita Gangbang Part 3",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -2926,7 +2926,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Jetha Anjali BB",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -3056,7 +3056,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Jetha anjali babita 2",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -3186,7 +3186,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Jetha Anjali Bbita 3",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -3316,7 +3316,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Jetha anjali babita 4",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -3446,7 +3446,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Jethalal or babita ji anjali 5",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -3576,7 +3576,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "jetha bb anj 6",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -3706,7 +3706,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Part - 7",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -3873,7 +3873,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "sodhi madhvi",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -3919,7 +3919,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Part 8",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -4086,7 +4086,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Part 9",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -4216,7 +4216,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Part 10",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -4383,7 +4383,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "tapu part 1",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -4513,7 +4513,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "happy new year",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -4559,7 +4559,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "anjali tapu ko apne ghar",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -4642,7 +4642,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Madhavi pinku",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -4688,7 +4688,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Babita ko jrtha iyer soch ke",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -4771,7 +4771,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "goa p1",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -4854,7 +4854,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "goa p2",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -4900,7 +4900,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Goa P3",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -4946,7 +4946,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Goa P4",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4992,7 +4992,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Goa P5",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -5176,6 +5176,136 @@
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2017-10-04-09h16m08s768-1080x1080.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
           "_anchor": "image2-48",
           "_cid": "qyXhONux5N",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page46.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "Goa P6",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>LAST ME AAPNE DEKHA KI JETHALAL BABITA KO NYI STYLE ME CHODNE KO KEHTA HAI <br><br>AB AAGE<br><br>JHETHALAL : BABITA JI JALDI SE BED PAR DOGGY STYLE ME LET JAIYE.<br><br>BABITA : JHETHAJI AAPNE ABHI TO MERI GAND MARI H FIR SE?.<br><br>JHETHALAL : BABITA JI AB HUM DOUBLE PENETRATION KARENGE.<br><br>BABITA : JHETHAJI WHAT YE AAP KYA KEH RAHE H DUSRA LUND AAP KAHA SE LAYENGE.?.<br><br>JHETHALAL TABLE PAR SE DILDO UTHATA H.<br><br>JHETHALAL : BABITA JI YE H NA DUSRA LUND.MEIN APNA LUND APKI CHUT ME DALUNGA AUR YE DILDO APKI GAND ME.<br><br>BABITA : JHETHAJI NAHI AGAR APNE YE DILDO MERI GAND ME DALA TO ME MAR JAUNGI.<br><br>JHETHALAL : BABITA JI AAP TENSION MAT LIJIYE AGAR APKI GAND ME 4 LUND BHI JAYENGE NA TO BHI KUCH NAHI HOGA.<br><br>BABITA : PAR JHETHAJI.<br><br>JHETHALAL : PAR WAR KUCH NAHI JALDI KUTTIYA BAN JA.<br><br>BABITA DOGGY STYLE ME LET JATI H FIR JHETHALAL APNA LUND BABITA KI CHUT PAR RAKHTA H AUR FIR ANDAR DAL DETA H AUR JHATKE MARNA CHALU KARTA H FIR DILDO KO BABITA KI GAND PAR RAKHTA H.<br><br>AUR EK JOR KA JHATKA MARTA H AUR DILDO PURA BABITA KI GAND ME DAL DETA H.<br><br>BABITA JOR SE CHILATI H PLZ JHETHAJI NIKALIYE BAHOT DARD HO RAHA H MEIN MAR JAUNGI.PAR HAMARA JHETHALAL KAHA SUNNE WALA THA.JAB USNE DILDO KO DUSRA JHATKA MARA TAB BABITA KI GAND ME SE KHUN KI PICHKARI NIKALTI H <br><br>BABITA KI GAND FAT CHUKI THI.BABITA KI ANKHON ME ANSU THE WO BURI TARAH RO RAHI THI <br><br>JHETHALAL APNE LUND SE BABITA KI CHUT MARTA H AUR DILDO SE USKI GAND.KARIB 20 MIN TAK MARNE K BAAD JHETHALAL BABITA KI CHUT ME JHAD JATA H AUR APNA LUND BAHAR NIKAL LETA H PAR DILDO KAHA JHADNE WALA THA WO TO BABITA KI GAND MARE JA RAHA THA AUR KHOON NIKALE JA RAHA THA.<br><br>PURA BISTAR KHOON SE LAL HO GAYA THA.<br><br>BABITA : PLZ JHETHAJI NIKALIYE ME BAHOT THAK GAYI HUN ME JYADA NAHI SAHEN KAR SAKTI HUN PLZ ME MAR JAUNGI.<br><br>JHETHALAL : BAS RAND SIRF 2 JHATKE FIR NIKAL LETA HUN.<br><br>AUR JHETHALAL 2 JHATKE MARKAR BABITA KI GAND SE DILDO NIKALTA H.AUR BABITA THODI RAHAT KI SANS LETI H.<br><br>PURA BISTAR KHUN SE LAL HO GAYA THA.BABITA KO GAND ME BAHOT DARD HO RAHA THA WO TADAP RAHI THI.<br><br>BABITA : JHETHAJI MUJHE GAND ME BAHOT DARD HO RAHA H KUCH KARIYE WARNA ME MAR JAUNGI.<br><br>JHETHALAL : THIK H BABITA JI ME KUCH SOCHTA HUN AUR SOCHNE LAGTA H.<br><br>FIR JHETHALAL : BABITA JI ME MAHETASAHEB KO PHONE KAR K BULATA HUN WO KUCH KARENGE.<br><br>BABITA : THIK H JALDI BULAIYE.JHETHALAL TARAK KO PHONE KARTA H TARAK K PHONE KI JAISE HI RING BAJTI H MADHVI TARAK UTH JATE H.<br><br>TARAK : KIS KA PHONE H IS WAQT AUR PHONE DEKHTA H ARE JHETHALAL KA PHONE.<br><br>MADHVI : MAHETASAHEB UTHAIYE NA.AUR TARAK PHONE UTHATA H.<br><br>TARAK : HA BOLO JHETHALAL KYA HUA?.<br><br>JHETHALAL : MAHETASAHEB EK GADBAD HO GAYI H AAP JALDI SE MERE ROOM ME AIYE.<br><br>TARAK : KYA MEIN ABHI ATA HUN.AUR PHONE RAKH DETA H.<br><br>MADHVI : KYA HUA MEHTASAHEB?.<br><br>TARAK : MADHVI BHABHI WO JHETHALAL K ROOM ME KUCH GADBAD HUI H USNE MUJHE BULAYA H.<br><br>MADHVI : THIK H MEIN BHI CHALTI HUN.<br><br>TARAK : HA CHALO PEHLE KAPDE TO PAHEN LIJIYE.<br><br>MADHVI : HAA PAHENTI HUN.AUR TARAK APNA NIGHT SUIT PAHEN LETA H AUR MADHVI NIGHTY PAHEN LETI H.<br><br>TARAK : CHALO MADHVI BHABHI.<br><br>MADHVI : HA CHALO.AUR DONO NIKAL JATE H JHETHALAL K ROOM KI AUR.FIR WAHA JAKAR TARAK BELL BAJATA H.<br><br>JHETHALAL NANGA HI DARWAJA KHOLTA H MADHVI JHETHALAL KO DEKHKAR SHARMA RAHI THI.<br><br>JHETHALAL : AIYE MEHTASAHEB ANDAR AIYE.TARAK MADHVI ANDAR ATE H.BABITA NE APNE SHARIR PAR EK CHADAR AUDH KAR RAKHI THI.<br><br>TARAK : BHAI JHETHALAL TUM BATAOGE K HUA KYA H?.<br><br>JHETHALAL : WO MEHTASAHEB HUA YUN K....DHAM DHAM DHADANG DHAM DHAM SARI BAAT BATATA H.<br><br>TARAK : KYA JHETHALAL YE TUMNE KYA KIA BABITA JI KI GAND FAD DALI.<br><br>BABITA JI MUJHE APKI GAND BATAIYE NA.<br><br>BABITA : MEHTASAHEB KUCH KARIYE MUJHE BAHOT DARD HO RAHA H.<br><br>TARAK : PEHLE AAP MUJHE APNI GAND TO BATAIYE.<br><br>AUR BABITA JAISE HI APNE UPAR SE CHADAR HATATI H TARAK MADHVI CHAUNK JATE H.<br><br>TARAK : JHETHALAL YE TUMNE KYA KAR DIYA ITNI BURI HALAT KAR DI BABITA JI K GAND KI AUR KHOON TO DEKHO PURE BISTAR MEIN CHII JHETHALAL MUJHE TUMSE YE UMMID NAHI THI.<br><br>JHETHALAL : ARE MEHTASAHEB KYUN TANE MAR RAHE HO JALDI KUCH KARIYE NA.<br><br>TARAK : HA BHAI ME KUCH SOCHTA HUN.<br><br>TARAK BABITA K PASS BED PAR BAITH JATA H FIR BABITA KI GAND DEKHTA H AUR USPAR APNA HATH LAGATA H.BABITA JOR SE CHILATI H.<br><br>BABITA : MEHTASAHEB HATH MAT LAGAIYE MUJHE BAHOT DARD HO RAHA H JALDI KUCH KARIYE NA.<br><br>TARAK : SORRY BABITA JI ME KUCH KARTA HUN AUR MADHVI K SAMNE DEKHTA H.<br><br>TARAK : MADHVI BHABHI AAP TO LADIES H APKO TO PATA HOGA K IS HALAT ME KYA KARTE H?.<br><br>MADHVI : MEHTASAHEB ISKA ILAJ KARNE K LIYE EK TUBE ATI H JO MERE PASS NAHI H.<br><br>TARAK : PAR DUSRA KUCH ILAJ HOGA NA?.<br><br>MADHVI : NAHI DUSRA KUCH ILAJ NAHI H.EK MIN MEHTASAHEB AAP ANJALI BHABHI KO CALL KIJIYE UNKE PASS JARUR TUBE HOGI.<br><br>BABITA : HA MEHTASAHEB ANJALI BHABHI KO JALDI PHONE KIJIYE.<br><br>TARAK : HA KARTA HUN.TARAK PHONE LAGATA H ANJALI KO.ANJALI K PHONE KI RING BAJTI H ANJALI KI FORAN ANKH KHUL JATI H.<br><br>ANJALI : IS WAQT KIS KA PHONE H.AUR PHONE DEKHTI H TARAK KA.PHONE UTHATI H.<br><br>ANJALI : HA TARAK BOLIYE KYA HUA?.<br><br>TARAK : WO ANJALI HUA YUN K...AUR SARI BAAT BATATA H..<br><br>ANJALI : OHO TO YE BAAT H AAP TENSION MAT LIJIYE ME TUBE LEKAR ATI HUN.AUR PHONE RAKH DETI H.AUR TUBE LEKAR JHETHALAL K KAMRE ME CHALI JATI H.<br><br>JHETHALAL : ANJALI BHABHI JALDI AIYE.<br><br>ANJALI : HA JHETHABHAI.AUR ANDAR CHALI JATI H.JAB WO BABITA KI GAND DEKHTI H TO CHAUNK JATI H.<br><br>TARAK : ANJALI JALDI TUBE LAGA DO.AUR ANJALI BABITA KI GAND PAR TUBE LAGA DETI H.BABITA KO THODI THANDAK MEHSUS HOTI H.<br><br>BABITA : THANK U ANJALI BHABHI AB MUJHE THODA ACCHA LAG RAHA H.<br><br>ANJALI : ITS OK BABITA JI AUR ARAM KIJIYE KAL SUBAH TAK THIK HO JAYEGA.AUR SARE LOG APNE KAMRE ME JAKAR SOH JATE H JHETHALAL BHI RAHAT KI SANS LE KAR SOH JATA H<br><br>NEXT PART CHAMPAK LALA &amp; ANJALI</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-4a",
+          "_cid": "qz357YQHOi",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2017-10-04-19h22m24s516-1080x1080.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-4b",
+          "_cid": "qz38djqcZO",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/vlcsnap-2017-10-04-09h16m08s768-1080x1080.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_anchor": "image2-4c",
+          "_cid": "qz38dtaSxl",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
