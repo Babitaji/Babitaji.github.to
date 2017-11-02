@@ -5549,6 +5549,56 @@ body {
 .cid-qzKlvrHbxw .section-text DIV {
   text-align: left;
 }
+.cid-qzPFc0HeBi {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qzPFc0HeBi .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qzPFc0HeBi .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-qzPFc0HeBi .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qzPFc0HeBi .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qzPFc0HeBi .section-text DIV {
+  text-align: left;
+}
+.cid-qzPFixg1YE {
+  background: #ffffff;
+}
+.cid-qzPFixg1YE .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qzPFixg1YE .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qzPFixg1YE figcaption {
+  position: relative;
+}
+.cid-qzPFixg1YE figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qzPFixg1YE .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qzOdISrVBS {
   padding-top: 0px;
   padding-bottom: 0px;
